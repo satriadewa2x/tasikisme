@@ -4,7 +4,6 @@ title: Cara Install Aplikasi dan Game di Handphone Android
 date: 2011-04-10T16:07:31+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=469
 permalink: /cara-install-aplikasi-dan-game-di-handphone-android/
 categories:
   - Handphone
@@ -27,12 +26,10 @@ tags:
   Untuk memulai menginstall aplikasi atau game, pertama masuk ke Aplikasi Market!
 </p>
 
-<!--more-->
 
- 
 
 <p style="text-align: center;">
-  <img loading="lazy" src="images/stories/android/Game-Android_1.jpg" border="0" alt="Android Market" title="Menu Android" width="250" height="445" />
+  <img loading="lazy" src="images/stories/android/Game-Android_1.jpg" border="0" alt="Android Market 1" title="Menu Android" width="250" height="445" />
 </p>
 
 <p style="text-align: justify;">
@@ -40,7 +37,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <img loading="lazy" src="images/stories/android/Game-Android_2.jpg" border="0" alt="Market Android" width="250" height="445" />
+  <img loading="lazy" src="images/stories/android/Game-Android_2.jpg" border="0" alt="Market Android 2" width="250" height="445" />
 </p>
 
 <p style="text-align: justify;">
@@ -48,7 +45,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <img loading="lazy" src="images/stories/android/Game-Android_7.jpg" border="0" alt="Android Game" width="250" height="445" />
+  <img loading="lazy" src="images/stories/android/Game-Android_7.jpg" border="0" alt="Android Game 2022" width="250" height="445" />
 </p>
 
 <p style="text-align: justify;">
@@ -80,7 +77,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <img src="images/stories/android/Game-Android_6.jpg" border="0" alt="Android Games" />
+  <img src="images/stories/android/Game-Android_6.jpg" border="0" alt="Android Games terbaru" />
 </p>
 
 <p style="text-align: justify;">
