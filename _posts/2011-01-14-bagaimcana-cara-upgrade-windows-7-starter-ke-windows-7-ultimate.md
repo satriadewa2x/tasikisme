@@ -4,7 +4,6 @@ title: Bagaimana Cara Upgrade Windows 7 Starter ke Windows 7 Ultimate
 date: 2011-01-14T07:37:15+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=456
 permalink: /bagaimcana-cara-upgrade-windows-7-starter-ke-windows-7-ultimate/
 categories:
   - Komputer
