@@ -4,7 +4,7 @@ title: 8 Alasan Kenapa Anda Harus Memiliki Album Photo Online
 date: 2008-07-18T11:43:49+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=161
+guid: https://www.tasikisme.com/?p=161
 permalink: /8-alasan-kenapa-anda-harus-memiliki-album-photo-online/
 categories:
   - Internet

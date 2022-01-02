@@ -4,7 +4,7 @@ title: 'Membuat &#8220;Folder&#8221; di Gmail'
 date: 2008-07-07T09:56:41+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=152
+guid: https://www.tasikisme.com/?p=152
 permalink: /membuat-qfolderq-di-gmail/
 categories:
   - Internet
@@ -20,7 +20,7 @@ Namun tak seperti Webmail lain, misal Yahoo!Mail, di Gmail anda tidak bisa membu
 Dan Bagi anda yang terbiasa menyortir email pada folder-folder tertentu, pasti akan sedikit mengalami kesulitan dengan fitur Label ini, karena meski sudah diberi Label, si email tetap saja berada di Inbox. Pas anda Login, inbox anda akan terus penuh. Lainnya halnya bila ada fitur Folder, email-email yang dulu bisa anda masukkan ke folder,  
 sehingga pas anda Login, Inbox anda kosong dan hanya terisi oleh email yang baru masuk.
 
-Tapi anda jangan berkecil hati, dengan sedikit trik, anda bisa mengubah fitur Label pada Gmail ini seperti layaknya sebuah Folder. Dengan trik ini, Inbox anda tidak akan terlihat penuh sesak, karena setiap email berada pada Label nya masing-masing.
+Tapi anda jangan berkecil hati, dengan sedikit trik, anda bisa mengubah fitur Label pada Gmail ini seperti layaknya sebuah Folder. Dengan trikini, Inbox anda tidak akan terlihat penuh sesak, karena setiap email berada pada Label nya masing-masing.
 
 Pertama anda Login dengan menggunakan username dan password anda. Setelah Login, kemudian anda buat Label sesuai dengan kebutuhan anda, dimana Label tersebut nantinya akan berperan sebagai Folder. Untuk membuat Label ini anda bisa masuk ke menu Setting, terus klik pada tab Label.
 
@@ -31,6 +31,6 @@ kemudian tekan tombol Archive
 
 Kini Email tersebut menghilang dari menu Inbox anda, dan untuk bisa mengakses email tersebut, cukup anda klik nama Label di sebelah kiri dimana email tersebut berada.
 
-Kini Label anda, bisa diakses sebagaimana layaknya sebuah Folder. Dan Inbox anda k ini tidak akan penuh sesak lagi, karena kini email-email telah terorganisir pada “folder”nya masing-masing
+Kini Label anda, bisa diakses sebagaimana layaknya sebuah Folder. Dan Inbox anda kini tidak akan penuh sesak lagi, karena kini email-email telah terorganisir pada “folder”nya masing-masing
 
 Gimana, sederhana bukan? Selamat mencoba.

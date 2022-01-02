@@ -4,20 +4,16 @@ title: Bagaimana Cara Update BIOS Laptop atau Komputer
 date: 2010-07-26T04:02:01+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=410
+guid: https://www.tasikisme.com/?p=410
 permalink: /bagaimana-cara-update-bios-laptop-atau-komputer/
 categories:
   - Komputer
 tags:
   - Komputer
 ---
-<p style="text-align: justify;">
-  BIOS atau Basic Input/Output System merupakan software pertama saat Komputer atau Laptop Anda dinyalakan. BIOS inilah yang pertama kali akan mendata setiap hardware yang ada di Laptop kamu, sehingga Sistem Operasi (Windows misalnya) bisa mempergunakan hardware tersebut. Karena posisinya yang sangat vital, proses Update BIOS akan membantu untuk meningkatkan kinerja laptop atau komputer Anda.
-</p>
+BIOS atau Basic Input/Output System merupakan software pertama saat Komputer atau Laptop Anda dinyalakan. BIOS inilah yang pertama kali akan mendata setiap hardware yang ada di Laptop kamu, sehingga Sistem Operasi (Windows misalnya) bisa mempergunakan hardware tersebut. Karena posisinya yang sangat vital, proses Update BIOS akan membantu untuk meningkatkan kinerja laptop atau komputer Anda.
 
-<p style="text-align: justify;">
-  Berikut ini adalah Langkah-langkah Sederhana untuk Proses Update BIOS Laptop/ Komputer Anda.
-</p>
+Berikut ini adalah Langkah-langkah Sederhana untuk Proses Update BIOS Laptop/ Komputer Anda.
 
 **1. Cek versi BIOS Laptop Anda Saat ini**  
 Langkah pertama yang mesti dilakukan sebelum proses update BIOS adalah cek versi BIOS Laptop Anda saat ini. Anda bisa memasukan perintah “msinfo32” tanpa tanda kutip pada search bar di Windows 7/Vista atau pada menu RUN di Windows XP.  

@@ -4,7 +4,7 @@ title: Apakah Twitter dan Bagaimana Cara Menggunakan Twitter?
 date: 2009-08-13T10:37:35+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=335
+guid: https://www.tasikisme.com/?p=335
 permalink: /apakah-twitter-dan-bagaimana-cara-menggunakan-twitter/
 categories:
   - Internet
@@ -12,15 +12,11 @@ categories:
 tags:
   - Twitter
 ---
-<p style="text-align: justify;">
-  Twitter di Indonesia sedikit demi sedikit mulai banyak digemari, mungkin setelah sedikit bosan dengan Facebook, maka para netter (terutama mungkin pengguna Blackberry) pun mulai mencari alternatif komunikasi lain selain Facebook, dan Twitter menjadi pilihan yang memang banyak digemari. Tak hanya itu di televisi-televisi Indonesia  pun kita mulai menambahkan Twitter (Disamping Facebook dan YM) sebagai sarana komunikasi interaktif antara pemirsa televisi dengan acara yang sedang berlangsung.
-</p>
+Twitter di Indonesia sedikit demi sedikit mulai banyak digemari, mungkin setelah sedikit bosan dengan Facebook, maka para netter (terutama mungkin pengguna Blackberry) pun mulai mencari alternatif komunikasi lain selain Facebook, dan Twitter menjadi pilihan yang memang banyak digemari. Tak hanya itu di televisi-televisi Indonesia  pun kita mulai menambahkan Twitter (Disamping Facebook dan YM) sebagai sarana komunikasi interaktif antara pemirsa televisi dengan acara yang sedang berlangsung.
 
 Apakah Twitter itu? Sebuah pertanyaan sederhana, lalu apa bedanya dengan Facebook atau Friendster? dan  bagaimana cara menggunakannya?
 
-<p style="text-align: justify;">
-  <strong>Twitter adalah Miniatur Blog (Mikro Blogging)</strong>
-</p>
+**Twitter adalah Miniatur Blog (Mikro Blogging)**
 
 Mikro Blogging adalah sebuah update singkat tentang sesuatu (entah itu sebuah kejadian, yang sedang dijalani atau berita update) yang disajikan dalam karakter singkat. Kalau anda pengguna Facebook, mungkin tak asing lagi dengan yang namanya Status Update, nah kegiatan utama di Twitter adalah tak jauh berbeda dengan status update tersebut. Dengan twitter anda bisa mengupdate status anda, sehingga para pengikut (follower) anda bisa mengetahui apa, dimana atau sedang apa anda saat menulis status tersebut.
 

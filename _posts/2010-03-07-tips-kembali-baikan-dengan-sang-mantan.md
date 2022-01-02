@@ -4,7 +4,7 @@ title: Tips Kembali Baikan dengan Sang Mantan
 date: 2010-03-07T01:56:04+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=379
+guid: https://www.tasikisme.com/?p=379
 permalink: /tips-kembali-baikan-dengan-sang-mantan/
 categories:
   - Cinta
@@ -14,7 +14,7 @@ tags:
   - Cinta
   - Curhat
 ---
-<div style="text-align: justify;">
+<div >
   Anda masih mencintai sang mantan? Dan anda pun yakin kalau sang mantan masih punya perasaan yang sama dengan Anda. Mungkin karena hanya alasan sepele, anda harus putus dengan sang pacar padahal anda berdua masih yakin masih sama-sama saling mencintai. Nah, bagaimana kalau semua sudah terlanjur, k ini anda telah berpisah. Apakah masih ada cara untuk kembali bersatu/ baikan dengan sang mantan. Tips sederhana berikut adalah bagaimana memperbesar peluang / kesempatan untuk anda bisa kembali ke pelukan sang mantan, dan kembali menata hubungan yang pernah retak dulu.</p> 
   
   <p>

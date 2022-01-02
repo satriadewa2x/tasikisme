@@ -4,7 +4,7 @@ title: 'Instant On,  Start Windows Anda secepat Kilat.'
 date: 2008-12-07T20:00:38+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=209
+guid: https://www.tasikisme.com/?p=209
 permalink: /instant-on-start-windows-anda-secepat-kilat/
 categories:
   - Komputer

@@ -4,7 +4,7 @@ title: Backup Phonebook iPhone dengan Xilisoft iPhone Contact Backup
 date: 2011-08-06T11:19:19+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=494
+guid: https://www.tasikisme.com/?p=494
 permalink: /backup-phonebook-iphone-dengan-xilisoft-iphone-contact-backup/
 categories:
   - Apple
@@ -14,9 +14,7 @@ tags:
   - Apple
   - iPhone
 ---
-<p style="text-align: justify;">
-  Phonebook sudah menjadi sesuatu yang  sangat penting dalam kehidupan kita, karena itulah membackup Phonebook secara rutin sangat disarankan, sehingga apalagi terjadi sesuatu hal yang tidak terduga menimpa handphone atau iPhone, kita masih bisa menggunakan atau paling tidak mentransfer phonebook ke handphone lain.
-</p>
+Phonebook sudah menjadi sesuatu yang  sangat penting dalam kehidupan kita, karena itulah membackup Phonebook secara rutin sangat disarankan, sehingga apalagi terjadi sesuatu hal yang tidak terduga menimpa handphone atau iPhone, kita masih bisa menggunakan atau paling tidak mentransfer phonebook ke handphone lain.
 
 Untuk membackup phonebook di iPhone sebenarnya bisa dilakukan dengan mudah lewat program iTunes, namun karena iTunes ini hanya terbatas untuk produk Apple, maka dari segi kompabilitas memang kurang cocok jika nantinya kita akan mentransfer atau restore phonebook dari iPhone ke handphone atau PC/ Laptop lain yang tidak terinstall iTunes.
 

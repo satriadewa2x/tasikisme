@@ -4,7 +4,7 @@ title: Sekilas Tentang Boys Like Girls
 date: 2009-12-14T13:58:30+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=364
+guid: https://www.tasikisme.com/?p=364
 permalink: /sekilas-tentang-boys-like-girls/
 categories:
   - Informasi

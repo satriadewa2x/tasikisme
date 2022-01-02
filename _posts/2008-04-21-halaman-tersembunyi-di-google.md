@@ -4,7 +4,7 @@ title: Halaman Tersembunyi di Google
 date: 2008-04-21T15:21:13+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=76
+guid: https://www.tasikisme.com/?p=76
 permalink: /halaman-tersembunyi-di-google/
 categories:
   - Internet

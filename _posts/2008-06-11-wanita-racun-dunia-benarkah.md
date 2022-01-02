@@ -4,7 +4,7 @@ title: Wanita Racun Dunia, Benarkah?
 date: 2008-06-11T12:49:32+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=125
+guid: https://www.tasikisme.com/?p=125
 permalink: /wanita-racun-dunia-benarkah/
 categories:
   - Curhat

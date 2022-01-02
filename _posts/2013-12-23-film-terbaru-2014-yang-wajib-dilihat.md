@@ -12,64 +12,45 @@ tags:
   - Film
   - Informasi
 ---
-<p style="text-align: justify;">
-  Bagi penggemar film, terutama film action dan science fiction maka tahun 2014 harus siap dengan sederet film-film terbaru yang siap membuat Anda terkagum-kagum dengan visual effect maupun action yang ditampilkan. Nah, biar tidak penasaran berikut ini adalah rangkuman film terbaru yang akan direlease pada tahun 2014.
-</p>
+Bagi penggemar film, terutama film action dan science fiction maka tahun 2014 harus siap dengan sederet film-film terbaru yang siap membuat Anda terkagum-kagum dengan visual effect maupun action yang ditampilkan. Nah, biar tidak penasaran berikut ini adalah rangkuman film terbaru yang akan direlease pada tahun 2014.
 
-<p style="text-align: justify;">
-  <strong>1.  NOAH</strong><br /> Jangan buru-buru tertuju kepada group band Ariel, karena film Noah ini tidak ada hubungannya dengan group musik tersebut. Film Noah, menceritakan tentang Nabi Nuh, di film ini kita bisa melihat effect banjir besar yang memusnahkan ribuan manusia. Simak Trailer berikut di Youtube!
-</p>
+**1.  NOAH**  
+Jangan buru-buru tertuju kepada group band Ariel, karena film Noah ini tidak ada hubungannya dengan group musik tersebut. Film Noah, menceritakan tentang Nabi Nuh, di film ini kita bisa melihat effect banjir besar yang memusnahkan ribuan manusia. Simak Trailer berikut di Youtube!
 
-httpvh://www.youtube.com/watch?v=6qmj5mhDwJQ
+httpvh://www.youtube.com/watch?v=6qmj5mhDwJQ  
+**2. X-Men: Days Of Future Past**  
+Merupakan kelanjutan dari X-Men: First Class di tahun 2011. Siap memukau Anda dengan manusia-manusia mutan dengan kemampuan super!
 
-<p style="text-align: justify;">
-  <strong>2. X-Men: Days Of Future Past</strong><br /> Merupakan kelanjutan dari X-Men: First Class di tahun 2011. Siap memukau Anda dengan manusia-manusia mutan dengan kemampuan super!
-</p>
+httpvh://www.youtube.com/watch?v=pK2zYHWDZKo  
+**3. The Amazing Spider-Man 2**  
+Sekuel dari The Amazing Spider-Man, di film ini Anda akan menyaksikan Peter Parker melawan musuh dengan kekuatan besar!
 
-httpvh://www.youtube.com/watch?v=pK2zYHWDZKo
+httpvh://www.youtube.com/watch?v=nbp3Ra3Yp74  
+**4. RoboCop**  
+Film jadul namun di remake atau dibuat ulang, tentunya dengan visual effect yang lebih bagus dan lebih wah
 
-<p style="text-align: justify;">
-  <strong>3. The Amazing Spider-Man 2</strong><br /> Sekuel dari The Amazing Spider-Man, di film ini Anda akan menyaksikan Peter Parker melawan musuh dengan kekuatan besar!
-</p>
+httpvh://www.youtube.com/watch?v=INmtQXUXez8  
+**5. Dawn of the Planet of the Apes**  
+Anda siap menghadapi pasukan Apes yang ingin menggantikan ras manusia sebagai rantai teratas di bumi ini, saksikan Dawn of the Planet of the Apes
 
-httpvh://www.youtube.com/watch?v=nbp3Ra3Yp74
+httpvh://www.youtube.com/watch?v=v0wP5ZkaUGg  
+**6. Need for Speed**  
+Masih suka bermain game Need for Speed di iPad atau laptop, jangan lupa saksikan filmnya
 
-<p style="text-align: justify;">
-  <strong>4. RoboCop</strong><br /> Film jadul namun di remake atau dibuat ulang, tentunya dengan visual effect yang lebih bagus dan lebih wah
-</p>
-
-httpvh://www.youtube.com/watch?v=INmtQXUXez8
-
-<p style="text-align: justify;">
-  <strong>5. Dawn of the Planet of the Apes</strong><br /> Anda siap menghadapi pasukan Apes yang ingin menggantikan ras manusia sebagai rantai teratas di bumi ini, saksikan Dawn of the Planet of the Apes
-</p>
-
-httpvh://www.youtube.com/watch?v=v0wP5ZkaUGg
-
-<p style="text-align: justify;">
-  <strong>6. Need for Speed</strong><br /> Masih suka bermain game Need for Speed di iPad atau laptop, jangan lupa saksikan filmnya
-</p>
-
-httpvh://www.youtube.com/watch?v=fsrJWUVoXeM
-
-<p style="text-align: justify;">
-  <strong>7. Teenage Mutant Ninja Turtles</strong><br /> Yang masa kecilnya sering nonton film kura-kura Ninja maka wajib nonton film yang satu ini.
-</p>
+httpvh://www.youtube.com/watch?v=fsrJWUVoXeM  
+**7. Teenage Mutant Ninja Turtles**  
+Yang masa kecilnya sering nonton film kura-kura Ninja maka wajib nonton film yang satu ini.
 
 **8. The LEGO Movie**  
 Yang suka bermain Lego, maka wajib nonton The Lego Movie!
 
-httpvh://www.youtube.com/watch?v=fZ_JOBCLF-I
+httpvh://www.youtube.com/watch?v=fZ_JOBCLF-I  
+**9. 22 Jump Street**  
+Sama seperti Robocop, 22 Jump Street merupakan film yang dibuat ulang dari film jadul di tahun 80-an, namun tentu saja sangat harus ditonton terutama bagi yang ingin nostalgia
 
-<p style="text-align: justify;">
-  <strong>9. 22 Jump Street</strong><br /> Sama seperti Robocop, 22 Jump Street merupakan film yang dibuat ulang dari film jadul di tahun 80-an, namun tentu saja sangat harus ditonton terutama bagi yang ingin nostalgia
-</p>
-
-httpvh://www.youtube.com/watch?v=06rvPK8ydZo
-
-<p style="text-align: justify;">
-  <strong>10. Captain America: The Winter Soldier</strong><br /> Salah satu anggota The Avengers siap membuat Anda terkesima, yups inilah Captain America: The Winter Soldier
-</p>
+httpvh://www.youtube.com/watch?v=06rvPK8ydZo  
+**10. Captain America: The Winter Soldier**  
+Salah satu anggota The Avengers siap membuat Anda terkesima, yups inilah Captain America: The Winter Soldier
 
 httpvh://www.youtube.com/watch?v=NLWsK1ZFunA
 

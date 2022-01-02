@@ -12,26 +12,14 @@ tags:
   - Android
   - Tips
 ---
-<p style="text-align: justify;">
-  Apa sih yang menyebabkan Android lemot dan lelet sehingga susah membuka aplikasi dan terkadang juga game jadi mental ketika dijalankan? Salah satu penyebab Android lemot adalah karena terlalu besarnya cache yang ada di Android, karena itulah maka kamu harus rajin dan rutin membersihkan cache yang tersimpan di hp Android agar kinerjanya bisa normal dan tidak ngelag. Lalu bagaimana cara membersihkan cache di RAM Android terutama di Marshmallow atau Android 6?<!--more-->
-</p>
+Apa sih yang menyebabkan Android lemot dan lelet sehingga susah membuka aplikasi dan terkadang juga game jadi mental ketika dijalankan? Salah satu penyebab Android lemot adalah karena terlalu besarnya cache yang ada di Android, karena itulah maka kamu harus rajin dan rutin membersihkan cache yang tersimpan di hp Android agar kinerjanya bisa normal dan tidak ngelag. Lalu bagaimana cara membersihkan cache di RAM Android terutama di Marshmallow atau Android 6?
 
-<p style="text-align: justify;">
-  Untuk membersihkan data dalam cache di Android Marshmallow pertama masuk ke menu Setelan – Penyimpanan & USB lalu pilih pada Penyimpanan Internal.
-</p>
+Untuk membersihkan data dalam cache di Android Marshmallow pertama masuk ke menu Setelan – Penyimpanan & USB lalu pilih pada Penyimpanan Internal.
 
-<p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="https://1.bp.blogspot.com/-LNPR67XEIMo/VqLsdV9S8rI/AAAAAAAAH90/tEFMVmyxrT0/s1600/cara-membersihkan-cache-android-1.png" alt="cara membersihkan cache android marshmallow" width="610" height="533" />
-</p>
+<img loading="lazy"  src="https://1.bp.blogspot.com/-LNPR67XEIMo/VqLsdV9S8rI/AAAAAAAAH90/tEFMVmyxrT0/s1600/cara-membersihkan-cache-android-1.png" alt="cara membersihkan cache android marshmallow" width="610" height="533" /> 
 
-<p style="text-align: justify;">
-  Di bagian bawah sentuh pada Data dalam Cache kemudian konfirmasi dengan memilih Oke pada Hapus data dalam cache?
-</p>
+Di bagian bawah sentuh pada Data dalam Cache kemudian konfirmasi dengan memilih Oke pada Hapus data dalam cache?
 
-<p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="https://3.bp.blogspot.com/-zAO2_EU-x94/VqLseHDrE5I/AAAAAAAAH94/HrKHJ5G2fxY/s1600/membersihkan-cache-di-android-2.png" alt="membersihkan cache di ram android" width="610" height="533" />
-</p>
+<img loading="lazy"  src="https://3.bp.blogspot.com/-zAO2_EU-x94/VqLseHDrE5I/AAAAAAAAH94/HrKHJ5G2fxY/s1600/membersihkan-cache-di-android-2.png" alt="membersihkan cache di ram android" width="610" height="533" /> 
 
-<p style="text-align: justify;">
-  Selesai, kini cache di Android kamu sudah berhasil dibersihkan, Android akan berjalan lebih gesit dan stabil dibandingkan dengan sebelum melakukan penghapusan data dalam cache.
-</p>
+Selesai, kini cache di Android kamu sudah berhasil dibersihkan, Android akan berjalan lebih gesit dan stabil dibandingkan dengan sebelum melakukan penghapusan data dalam cache.

@@ -4,7 +4,7 @@ title: 'Tips Facebook Terbaru: Cara Backup Facebook'
 date: 2010-10-17T23:45:48+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=436
+guid: https://www.tasikisme.com/?p=436
 permalink: /tips-facebook-terbaru-cara-backup-facebook/
 categories:
   - Facebook
@@ -23,8 +23,8 @@ Pada jendela yang muncul kemudian klik Download.
 
 Setelah itu Anda tinggal menunggu email konfirmasi yang dikirim ke Email Anda jika proses backup telah selesai dan Anda bisa mendownloadnya.
 
-Proses Backup Facebook ini membutuhkan waktu beberapa menit, oleh karena itu bersabarlah dan jangan lupa cek email Anda, setelah semuanya ready Anda akan menerima link download dari Facebook Anda, tinggal klik link tersebut. Anda akan diminta untuk memasukan Password Facebook.
+Proses Backup Facebookini membutuhkan waktu beberapa menit, oleh karena itu bersabarlah dan jangan lupa cek email Anda, setelah semuanya ready Anda akan menerima link download dari Facebook Anda, tinggal klik link tersebut. Anda akan diminta untuk memasukan Password Facebook.
 
-Selesai, k ini Andapun mempunyai file Backup dari Facebook, Anda bisa menyimpannya di Laptop atau Flashdisk yang berisi berbagai file dan info Facebook Anda.
+Selesai, kini Andapun mempunyai file Backup dari Facebook, Anda bisa menyimpannya di Laptop atau Flashdisk yang berisi berbagai file dan info Facebook Anda.
 
-Kalau Anda mengalami kesulitan dan ingin mengetahui lebih lanjut tentang fitur Facebook ini, jangan khawatir Anda bisa baca info selengkapnya di https://www.facebook.com/help/?page=18830&hloc=en_US
+Kalau Anda mengalami kesulitan dan ingin mengetahui lebih lanjut tentang fitur Facebookini, jangan khawatir Anda bisa baca info selengkapnya di https://www.facebook.com/help/?page=18830&hloc=en_US

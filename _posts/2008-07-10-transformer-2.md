@@ -4,7 +4,7 @@ title: Transformers 2
 date: 2008-07-10T18:40:01+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=154
+guid: https://www.tasikisme.com/?p=154
 permalink: /transformer-2/
 categories:
   - Informasi

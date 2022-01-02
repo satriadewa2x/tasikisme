@@ -4,7 +4,7 @@ title: Merename Foto Anda dengan Mudah dan Cepat
 date: 2008-06-21T11:51:44+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=136
+guid: https://www.tasikisme.com/?p=136
 permalink: /merename-foto-anda-dengan-mudah-dan-cepat/
 categories:
   - Komputer

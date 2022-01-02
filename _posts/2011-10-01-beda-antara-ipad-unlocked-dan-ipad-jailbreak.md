@@ -4,7 +4,7 @@ title: Beda antara iPad Unlocked dan iPad Jailbreak
 date: 2011-10-01T07:27:47+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=507
+guid: https://www.tasikisme.com/?p=507
 permalink: /beda-antara-ipad-unlocked-dan-ipad-jailbreak/
 categories:
   - Apple
@@ -13,9 +13,7 @@ tags:
   - iPad
   - iPhone
 ---
-<p style="text-align: justify;">
-  Saat akan membeli sebuah iPad atau iPhone second tentu akan selalu keterangan kalau iPad tersebut Unlocked atau Jailbreak (Jailbroken). Lalu apa sebenarnya perbedaan antara iPad Jailbreak dan iPad Unlocked?
-</p>
+Saat akan membeli sebuah iPad atau iPhone second tentu akan selalu keterangan kalau iPad tersebut Unlocked atau Jailbreak (Jailbroken). Lalu apa sebenarnya perbedaan antara iPad Jailbreak dan iPad Unlocked?
 
 iPad – iPhone Unlocked  
 Unlocked artinya membebaskan, sebuah iPad yang sudah di Unlocked itu artinya iPad tersebut bisa bebas digunakan menggunakan kartu SIM apa saja baik itu dari Telkomsel, Indosat, XL, Axis, Tri ataupun operator lainnya yang terpenting masih GSM. Sebuah iPad atau iPad bisa di unlocked baik secara software maupun hardware. Jadi ketika Anda membeli sebuah iPad atau iPad dari luar negeri pastikan bahwa iPad atau iPhone tersebut sudah di Unlocked sehingga bisa dipakai di Indonesia.

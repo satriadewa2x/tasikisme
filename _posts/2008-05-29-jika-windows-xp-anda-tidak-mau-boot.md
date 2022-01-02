@@ -4,7 +4,7 @@ title: Jika Windows XP Anda tidak mau Boot
 date: 2008-05-29T17:44:28+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=110
+guid: https://www.tasikisme.com/?p=110
 permalink: /jika-windows-xp-anda-tidak-mau-boot/
 categories:
   - Komputer

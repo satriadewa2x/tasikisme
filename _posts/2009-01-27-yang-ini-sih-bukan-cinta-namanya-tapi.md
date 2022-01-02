@@ -4,7 +4,7 @@ title: Ciri Cinta yang Tidak Sehat dan Merugikan
 date: 2009-01-27T17:11:33+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=243
+guid: https://www.tasikisme.com/?p=243
 permalink: /yang-ini-sih-bukan-cinta-namanya-tapi/
 categories:
   - Cinta

@@ -4,7 +4,7 @@ title: Kemaksiatan Semakin Merajalela di Internet
 date: 2008-11-24T10:58:35+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=202
+guid: https://www.tasikisme.com/?p=202
 permalink: /kemaksiatan-semakin-merajalela-di-internet/
 categories:
   - Curhat

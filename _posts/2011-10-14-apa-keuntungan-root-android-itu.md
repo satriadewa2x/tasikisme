@@ -4,7 +4,7 @@ title: Apa Keuntungan Root Android itu?
 date: 2011-10-14T00:42:42+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=510
+guid: https://www.tasikisme.com/?p=510
 permalink: /apa-keuntungan-root-android-itu/
 categories:
   - Android
@@ -13,9 +13,7 @@ tags:
   - Android
   - Tips
 ---
-<p style="text-align: justify;">
-  Root secara sederhana bisa diartikan sebagai akar, itu artinya saat kita melakukan rooting terhadap handphone Android, semisal Root <strong>Samsung Galaxy M ini,</strong> Rooting <strong>Samsung Galaxy S2</strong> ataupun root <strong>Sony Ericsson xPeria Play</strong>, itu artinya kita bisa mengakses akar dari sistem operasi Android dari Handphone tersebut.
-</p>
+Root secara sederhana bisa diartikan sebagai akar, itu artinya saat kita melakukan rooting terhadap handphone Android, semisal Root **Samsung Galaxy M ini,** Rooting **Samsung Galaxy S2** ataupun root **Sony Ericsson xPeria Play**, itu artinya kita bisa mengakses akar dari sistem operasi Android dari Handphone tersebut.
 
 Personalisasi Sistem Operasi Android – dengan me-root ponsel Android, nantinya kisa bisa menginstall berbagai macam ROM Android yang tersedia secara gratis di internet seperti **MIUI** ataupun **CyanogeMod 7**. Dengan menggunakan ROM yang berbeda, Anda bisa menikmati tampilan dan performa Android dalam rasa yang berbeda pula.
 

@@ -4,7 +4,7 @@ title: Daftar Antivirus atau Scanner yang harus Anda Hindari
 date: 2008-11-04T11:09:08+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=194
+guid: https://www.tasikisme.com/?p=194
 permalink: /daftar-antivirus-atau-scanner-yang-harus-anda-hindari/
 categories:
   - Informasi

@@ -4,7 +4,7 @@ title: elgooG Ejaan Terbalik dari Google
 date: 2008-11-23T13:13:20+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=201
+guid: https://www.tasikisme.com/?p=201
 permalink: /elgoog-ejaan-terbalik-dari-google/
 categories:
   - Internet

@@ -4,7 +4,7 @@ title: Apa yang Kita Cari Di Dunia Ini?
 date: 2008-08-12T12:11:58+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=171
+guid: https://www.tasikisme.com/?p=171
 permalink: /apa-yang-kita-cari-di-dunia-ini/
 categories:
   - Curhat

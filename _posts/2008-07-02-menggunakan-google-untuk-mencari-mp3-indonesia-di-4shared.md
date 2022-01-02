@@ -4,7 +4,7 @@ title: Menggunakan Google Untuk Mencari MP3 Indonesia di 4Shared
 date: 2008-07-02T12:27:17+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=147
+guid: https://www.tasikisme.com/?p=147
 permalink: /menggunakan-google-untuk-mencari-mp3-indonesia-di-4shared/
 categories:
   - Internet

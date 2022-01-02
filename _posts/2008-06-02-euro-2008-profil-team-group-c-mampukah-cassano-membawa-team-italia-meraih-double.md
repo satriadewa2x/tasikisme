@@ -4,7 +4,7 @@ title: Euro 2008 | Profil Team Group C | Mampukah Cassano Membawa Team Italia Me
 date: 2008-06-02T18:33:48+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=115
+guid: https://www.tasikisme.com/?p=115
 permalink: /euro-2008-profil-team-group-c-mampukah-cassano-membawa-team-italia-meraih-double/
 categories:
   - Olahraga

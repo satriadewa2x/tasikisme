@@ -4,7 +4,7 @@ title: 'Tips Pacaran : Tanda-Tanda Selingkuh!'
 date: 2009-07-15T11:42:27+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=329
+guid: https://www.tasikisme.com/?p=329
 permalink: /tips-pacaran-tanda-tanda-selingkuh/
 categories:
   - Cinta
@@ -14,9 +14,7 @@ tags:
   - Cinta
   - Curhat
 ---
-<p style="text-align: justify;">
-  Cinta datang dan pergi, ada saatnya kita merasakan indahnya mencintai seseorang tapi suatu waktu kita harus juga merasakan pahitnya cinta. Ketika pertama kali jadian, mungkin kita bersama pasangan begitu mesra dan penuh cinta, tapi seiring waktu cinta mulai pudar dan yang lebih menyakitkan kita harus menerima kenyataan pacar kita ternyata diam-diam mempunyai cinta lain, mempunyai kekasih hati lain selain kita. Selingkuh! ibarat sebuah kanker dalam sebuah hubungan cinta, yang lambat laun bakal merenggut kemesraan dan keindahan cinta dan bahkan kita mesti bersiap-siap kehilangan pacar kita! Nah, sebelum penyakit yang satu ini menimpa dan akhirnya membuat anda sakit hati, ada baiknya kenali sejak dini tanda-tanda selingkuh dari pasangan anda.
-</p>
+Cinta datang dan pergi, ada saatnya kita merasakan indahnya mencintai seseorang tapi suatu waktu kita harus juga merasakan pahitnya cinta. Ketika pertama kali jadian, mungkin kita bersama pasangan begitu mesra dan penuh cinta, tapi seiring waktu cinta mulai pudar dan yang lebih menyakitkan kita harus menerima kenyataan pacar kita ternyata diam-diam mempunyai cinta lain, mempunyai kekasih hati lain selain kita. Selingkuh! ibarat sebuah kanker dalam sebuah hubungan cinta, yang lambat laun bakal merenggut kemesraan dan keindahan cinta dan bahkan kita mesti bersiap-siap kehilangan pacar kita! Nah, sebelum penyakit yang satu ini menimpa dan akhirnya membuat anda sakit hati, ada baiknya kenali sejak dini tanda-tanda selingkuh dari pasangan anda.
 
 1. “Aku Tidak Mencintai Kamu lagi”  
 Sangat jelas sekali, ungkapan seperti ini secara tak sengaja bakal terucap dari pasangan anda bila dia mulai bosan dan menemukan tambatan hati lain di luar sana. Pada awal jadian, sang pacar mungkin sangat menyayangi anda, berani berkorban dan tentunya begitu menyanjung anda, tapi lambat laun seiring waktu ditambah lagi dengan adanya orang ketiga, maka rasa cinta dan kagum itu bisa hilang, dan akhirnya berganti dengan kebosanan.

@@ -4,7 +4,7 @@ title: Bosan dengan Facebook, Cobalah Trick Facebook Berikut ini
 date: 2009-11-25T04:17:05+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=361
+guid: https://www.tasikisme.com/?p=361
 permalink: /bosan-dengan-facebook-cobalah-trick-facebook-berikut-ini/
 categories:
   - Facebook
@@ -36,7 +36,7 @@ tags:
   Tips berikut akan memberikan sedikit nuansa baru dengan tampilan Facebook di Laptop anda, sehingga dijamin anda akan lebih sedikit semangat untuk terus berfesbuk.</p> 
   
   <p>
-    <strong>Effect Lens Flare (Efek cahaya) di Facebook </strong><br /> Trick menarik ini bisa dengan mudah anda praktekan, paling tidak ketika anda lagi kumpul bersama teman-teman, anda bisa sedikit pamer dan membuat teman anda terheran-heran.</div> 
+    <strong>Effect Lens Flare (Efek cahaya) di Facebook </strong><br /> Trick menarikini bisa dengan mudah anda praktekan, paling tidak ketika anda lagi kumpul bersama teman-teman, anda bisa sedikit pamer dan membuat teman anda terheran-heran.</div> 
     
     <div>
       Caranya cukup tekan di keyboard anda : (panah) atas-atas –bawah-bawah-kiri-kanan-kiri-kanan-b-a-enter Setelah itu scroll dengan mouse anda ke bawah/atas atau klik di area Facebook anda, dan lihatlah effect cahaya yang muncul, it’s so cool!
@@ -51,7 +51,7 @@ tags:
     
     <div>
       <p>
-        Klik “Setting” kemudian klik tab “Language” dan pada drop down menu rubahlah tampilan bahasa ke “English (Pirate)” dan jreeng… k ini Facebook anda berubah menjadi bernuansa bajak laut, bahasa dan kata-kata yang digunakan khas seperti yang digunakan para Bajak laut di Film Pirate of The Carribean, mulai dari Dock, Mayday!, Bottle o’ Message sampai pada Abandon Ship alias Log Out, Lumayan Lucu.
+        Klik “Setting” kemudian klik tab “Language” dan pada drop down menu rubahlah tampilan bahasa ke “English (Pirate)” dan jreeng… kini Facebook anda berubah menjadi bernuansa bajak laut, bahasa dan kata-kata yang digunakan khas seperti yang digunakan para Bajak laut di Film Pirate of The Carribean, mulai dari Dock, Mayday!, Bottle o’ Message sampai pada Abandon Ship alias Log Out, Lumayan Lucu.
       </p>
     </div>
     

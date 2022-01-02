@@ -4,7 +4,7 @@ title: Pertolongan Pertama Pada Windows XP Anda
 date: 2008-04-11T05:27:51+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=63
+guid: https://www.tasikisme.com/?p=63
 permalink: /pertolongan-pertama-pada-windows-xp-anda/
 categories:
   - Komputer

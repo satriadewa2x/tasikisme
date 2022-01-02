@@ -4,7 +4,7 @@ title: Mengetahui Berapa Lama Komputer Anda Telah Beroperasi
 date: 2008-11-13T12:17:14+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=198
+guid: https://www.tasikisme.com/?p=198
 permalink: /mengetahui-berapa-lama-komputer-anda-telah-beroperasi/
 categories:
   - Informasi

@@ -4,7 +4,7 @@ title: Get Windows OS just $3 !!!
 date: 2008-02-23T13:05:47+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=28
+guid: https://www.tasikisme.com/?p=28
 permalink: /get-windows-os-just-3/
 categories:
   - Komputer

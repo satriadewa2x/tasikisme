@@ -4,16 +4,14 @@ title: Mencari Kehidupan Lain di Luar Bumi dengan Kepler
 date: 2009-03-08T02:39:28+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=273
+guid: https://www.tasikisme.com/?p=273
 permalink: /mencari-kehidupan-lain-di-luar-bumi-dengan-kepler/
 categories:
   - Informasi
 tags:
   - Informasi
 ---
-<p style="text-align: justify;">
-  Akhirnya NASA meluncurkan pesawat luar angkasa Kepler, dengan satu misi “Mencari Kehidupan Lain di Luar Sana”, sekaligus misi ini merupakan sebuah langkah nyata untuk pertama kalinya, dalam rangka menjawab sebuah pertanyaan lama yang belum terjawabkan sampai saat ini, “Apakah di (angkasa) luar sana, ada kehidupan lain selain di Bumi ini?”
-</p>
+Akhirnya NASA meluncurkan pesawat luar angkasa Kepler, dengan satu misi “Mencari Kehidupan Lain di Luar Sana”, sekaligus misi ini merupakan sebuah langkah nyata untuk pertama kalinya, dalam rangka menjawab sebuah pertanyaan lama yang belum terjawabkan sampai saat ini, “Apakah di (angkasa) luar sana, ada kehidupan lain selain di Bumi ini?”
 
 Dengan dilengkapi 95 Megapixel Digital Camera, Kepler paling tidak akan bertugas selama tiga setengah tahun untuk melakukan survey terhadap bintang-bintang yang berada di konstelasi Lyra dan Cygnus, mencari tanda-tanda kehidupan yang mungkin saja ada di luar sana?
 

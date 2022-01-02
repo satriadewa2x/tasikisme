@@ -4,7 +4,7 @@ title: Kenangan di Balik Sebuah Benda
 date: 2008-04-25T10:23:02+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=80
+guid: https://www.tasikisme.com/?p=80
 permalink: /kenangan-di-balik-sebuah-benda/
 categories:
   - Curhat

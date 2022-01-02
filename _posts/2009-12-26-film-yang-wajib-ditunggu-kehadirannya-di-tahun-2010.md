@@ -4,7 +4,7 @@ title: Film Yang Wajib Ditunggu Kehadirannya di Tahun 2010
 date: 2009-12-26T11:22:09+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=369
+guid: https://www.tasikisme.com/?p=369
 permalink: /film-yang-wajib-ditunggu-kehadirannya-di-tahun-2010/
 categories:
   - Informasi
@@ -12,7 +12,7 @@ tags:
   - Film
   - Informasi
 ---
-<div style="text-align: justify;">
+<div >
   <p>
     Ada beberapa film yang memang layak untuk ditunggu kehadirannya di Tahun 2010. Kalau anda penggemar Game Prince Of Persia, anda layak untuk bersenang hati karena di tahun 2010 akan ada film dari game kesayangan anda tersebut. Yups Prince Of Persia: The Sands Of Time akan hadir di Bioskop pada bulan Mei 2010 ini, yang dibintangi oleh Jake Gyllenhaal dan Gemma Arterton. Di bulan yang sama juga, akan direlease sekuel Iron Man yakni Iron Man 2 dengan Robert Downey Jr & Scarlett Johansson sebagai bintang utamanya.
   </p>
@@ -26,7 +26,7 @@ tags:
   </p></p>
 </div>
 
-<div style="text-align: justify;">
+<div >
   Selengkapnya inilah Film yang bakal hadir tahun 2010.</p> 
   
   <p>
@@ -104,6 +104,6 @@ tags:
   <p>
     <strong>25 Juni 2010</strong><br />Grown Ups &#8211; Adam Sandler & Salma Hayek</div> 
     
-    <div style="text-align: justify;">
+    <div >
       Untuk selalu Uptodate dengan info film, movie dan berbagai info menarik lainnya dari Tasikisme dot Com jangan lupa masukan email anda di bawah ini dan klik subscriber, setelah itu cek email anda untuk proses konfirmasi. Dan jadilah satu dari ribuan pembaca setia Blog Tasikisme. Terima Kasih.
     </div>

@@ -4,7 +4,7 @@ title: XPERIA™ X1 Smartphone terbaru dari Sony Ericsson !
 date: 2008-02-26T15:31:38+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=31
+guid: https://www.tasikisme.com/?p=31
 permalink: /xperia-x1-smartphone-terbaru-dari-sony-ericcson/
 categories:
   - Handphone

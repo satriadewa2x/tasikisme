@@ -4,7 +4,7 @@ title: 'Tips Biar UIQ Mobile Phone Kamu Kenceng&#8230;.'
 date: 2008-02-22T17:31:52+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=23
+guid: https://www.tasikisme.com/?p=23
 permalink: /tips-biar-uiq-mobile-phone-kamu-kenceng/
 categories:
   - Tips
@@ -15,7 +15,7 @@ Bagi kamu-kamu yang punya ponsel UIQ, misal SE P1i,  W950, M600 atau P9901 dan 
 
 1. Disable WLAN dan dukungan jaringan 3G jika tidak dibutuhkan
 
-Masuk ke menu Connection > WLAN > disable WLAN se dang untuk menonaktifkan dukungan jaringan 3G masuk ke menu Connection > Mobile Network > lalu pilih GSM only.
+Masuk ke menu Connection > WLAN > disable WLAN sedang untuk menonaktifkan dukungan jaringan 3G masuk ke menu Connection > Mobile Network > lalu pilih GSM only.
 
 2. Disable modus GPRS
 

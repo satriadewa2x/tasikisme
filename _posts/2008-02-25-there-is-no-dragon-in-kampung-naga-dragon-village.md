@@ -4,7 +4,7 @@ title: Contoh Cerita Kampung Naga dalam Bahasa Inggris
 date: 2008-02-25T10:06:33+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=30
+guid: https://www.tasikisme.com/?p=30
 permalink: /there-is-no-dragon-in-kampung-naga-dragon-village/
 categories:
   - Curhat

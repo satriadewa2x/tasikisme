@@ -4,7 +4,7 @@ title: Mencari Majalah Online Dengan Google
 date: 2008-12-12T13:54:43+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=211
+guid: https://www.tasikisme.com/?p=211
 permalink: /mencari-majalah-online-dengan-google/
 categories:
   - Internet

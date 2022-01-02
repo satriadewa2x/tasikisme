@@ -4,7 +4,7 @@ title: Internetan Lebih Aman dengan Firefox 3 Portable
 date: 2009-01-25T12:59:10+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=238
+guid: https://www.tasikisme.com/?p=238
 permalink: /internetan-lebih-aman-dengan-firefox-3-portable/
 categories:
   - Internet

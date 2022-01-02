@@ -4,14 +4,14 @@ title: 'Jadwal Indonesia Super League : Putaran Kedua'
 date: 2008-12-28T18:33:39+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=219
+guid: https://www.tasikisme.com/?p=219
 permalink: /jadwal-indonesia-super-league-putaran-kedua/
 categories:
   - Olahraga
 tags:
   - Olahraga
 ---
-Liga Super Putaran Pertama telah berakhir, dan k ini bersiap-siaplah anda untuk menyaksikan Putaran Kedua dari Liga terpopuler dan terbaik di Negeri kita tercinta ini.
+Liga Super Putaran Pertama telah berakhir, dan kini bersiap-siaplah anda untuk menyaksikan Putaran Kedua dari Liga terpopuler dan terbaik di Negeri kita tercinta ini.
 
 Masihkah anda memfavoritkan tim kesayangan anda untuk menjadi jawara alias juara Liga Super ini? Ataukah di Liga Super Putaran ke-2 ini peluang tim kesayangan anda telah menipis?
 
@@ -22,8 +22,6 @@ Bagaimanapun kondisi tim kesayangan anda di Indonesia Super League Putaran ke-2,
 Biar anda tidak ketinggalan, berikut ini adalah Jadwal Indonesia Super League Putaran Kedua.
 
 Untuk jadwal Indonesia Super League 2010 bisa dibaca di [**Jadwal Liga Super Indonesia 2009/2010**](https://wwww.tasikisme.com/download-jadwal-liga-super-indonesia-2009-2010/ "Jadwal Indonesia Super League 2010") 
-
-<!--more-->
 
 <table id="www.tasikisme.com" border="0">
   <tr>

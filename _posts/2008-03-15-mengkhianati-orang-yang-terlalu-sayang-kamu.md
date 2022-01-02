@@ -4,7 +4,7 @@ title: Balas Dendam Terhadap Orang yang Menghianati Cinta
 date: 2008-03-15T12:44:49+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=43
+guid: https://www.tasikisme.com/?p=43
 permalink: /mengkhianati-orang-yang-terlalu-sayang-kamu/
 categories:
   - Cinta
@@ -27,7 +27,7 @@ Kedua, cari tahu hal-hal apa saja yang dia takutkan, dan apa saja dalam hidupnya
 
 Ketiga, mulailah kamu mengkhianati dia (secara sembunyi-sembunyi tentunya) dengan cara mulai kencan,  atau mencari seseorang yang punya sesuatu yang tidak dia miliki. Misal, bila dia nggak punya mobil, mulailah kamu kencan dengan seseorang yang punya mobil. Bila dia gemuk, mulailah kamu kencan dengan orang yang atletis.
 
-Keempat, It’s show time, saat dia (orang yang ingin kamu khianati) dalam keadaan terpuruk, atau se dang dalam keadaan benar-benar down dan lagi benar-benar butuh sama kamu, mulailah kamu membuka tabir pengkhianatan kamu, perselingkuhan kamu dengan orang-orang yang notabene jauh lebih baik dari dia.
+Keempat, It’s show time, saat dia (orang yang ingin kamu khianati) dalam keadaan terpuruk, atau sedang dalam keadaan benar-benar down dan lagi benar-benar butuh sama kamu, mulailah kamu membuka tabir pengkhianatan kamu, perselingkuhan kamu dengan orang-orang yang notabene jauh lebih baik dari dia.
 
 Dan bisa dipastikan dia akan merasakan sakit yang teramat sangat. Atau bila kamu merasa tak tega, kamu bisa menciptakan sedikit “kecelakaan atau sandiwara” pura-pura, tanpa sengaja kamu ketahuan selingkuh.
 

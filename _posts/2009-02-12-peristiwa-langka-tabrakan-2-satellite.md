@@ -4,7 +4,7 @@ title: 'Peristiwa Langka : Tabrakan 2 Satellite'
 date: 2009-02-12T17:01:53+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=257
+guid: https://www.tasikisme.com/?p=257
 permalink: /peristiwa-langka-tabrakan-2-satellite/
 categories:
   - Informasi
@@ -17,11 +17,7 @@ Tabrakan satelite ini terjadi antara satelite komunikasi milik salah satu perusa
 
 Kecelakaan terjadi sekitar 400 miles diatas permukaan bumi dan meninggalkan puing-puing awan yang sangat besar, NASA sendiri kini sedang menyelidiki akibat dari tabrakan 2 satelite tersebut, terutama akibat yang mungkin ditimbulkan terhadap Station Luar Angkasa Internasional.
 
-<!--more-->
-
-<div style="text-align: center;">
-  <img loading="lazy" title="Image Courtesy: NASA" src="https://wisatacinta.files.wordpress.com/2009/02/iridium-satelite.jpg" alt="Image Courtesy: NASA" width="460" height="276" border="0" />
-</div>
+<img loading="lazy" title="Image Courtesy: NASA" src="https://wisatacinta.files.wordpress.com/2009/02/iridium-satelite.jpg" alt="Image Courtesy: NASA" width="460" height="276" border="0" /> </div> 
 
 <div>
   <h6>
@@ -29,4 +25,4 @@ Kecelakaan terjadi sekitar 400 miles diatas permukaan bumi dan meninggalkan puin
   </h6>
 </div>
 
-Satelite Iridium diluncurkan pada tahun 1997 dan mempunyai berat hampir 560 Kg se dangkan Russian Cosmos Satelite diluncurkan pada tahun 1993 dengan berat hampir mencapai 1 ton (950 kg).
+Satelite Iridium diluncurkan pada tahun 1997 dan mempunyai berat hampir 560 Kg sedangkan Russian Cosmos Satelite diluncurkan pada tahun 1993 dengan berat hampir mencapai 1 ton (950 kg).

@@ -4,14 +4,14 @@ title: Update Twitter Lewat Yahoo Messenger
 date: 2009-12-03T02:50:42+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=362
+guid: https://www.tasikisme.com/?p=362
 permalink: /update-twitter-lewat-yahoo-messenger/
 categories:
   - Twitter
 tags:
   - Twitter
 ---
-<div style="text-align: justify;">
+<div >
   <p>
     Kalau anda pengguna setia Yahoo Messenger dan k ini mulai juga menekuni Twitter dan sering ber-Tweet ria bersama-sama teman-teman, tentu mengakses Twitter atau bertwitter ria lewat Yahoo Messenger menjadi sebuah alternatif yang menguntungkan dan lebih mengefisienkan waktu anda.
   </p>

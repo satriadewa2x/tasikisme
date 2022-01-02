@@ -4,7 +4,7 @@ title: C905 Cybershot, Buat Anda yang Senang Ponsel Berkamera
 date: 2008-06-28T12:35:14+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=143
+guid: https://www.tasikisme.com/?p=143
 permalink: /c905-cybershoot-buat-anda-yang-senang-ponsel-berkamera/
 categories:
   - Handphone

@@ -4,7 +4,7 @@ title: Instal Windows 7 Menggunakan Flashdisk (USB)
 date: 2009-10-26T12:53:44+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=355
+guid: https://www.tasikisme.com/?p=355
 permalink: /install-windows-7-menggunakan-flashdisk-usb/
 categories:
   - Komputer
@@ -12,17 +12,11 @@ categories:
 tags:
   - Informasi
 ---
-<p style="text-align: justify;">
-  Kalau anda punya Netbook yang notabene tanpa disertai dengan sebuah Drive DVD, ada beberapa alternatif Instalasi Windows 7 di netbook anda. Mengkopi semua file Installasi ke Hardisk anda. Ini bisa anda lakukan bila anda berencana untuk menjadikan Netbook anda dual boot alias mempunyai dua sistem Operasi. Misalnya Windows XP di Drive C dan kemudian Windows 7 di Drive D.
-</p>
+Kalau anda punya Netbook yang notabene tanpa disertai dengan sebuah Drive DVD, ada beberapa alternatif Instalasi Windows 7 di netbook anda. Mengkopi semua file Installasi ke Hardisk anda. Ini bisa anda lakukan bila anda berencana untuk menjadikan Netbook anda dual boot alias mempunyai dua sistem Operasi. Misalnya Windows XP di Drive C dan kemudian Windows 7 di Drive D.
 
-<p style="text-align: justify;">
-  <strong>Menggunakan Eksternal DVD Drive</strong>
-</p>
+**Menggunakan Eksternal DVD Drive**
 
-<p style="text-align: justify;">
-  Alternatif yang bisa dijadikan pilihan adalah Install Windows 7 dengan menggunakan Flashdisk.
-</p>
+Alternatif yang bisa dijadikan pilihan adalah Install Windows 7 dengan menggunakan Flashdisk.
 
 Alternatif ketiga ini, telah diakomodir oleh Microsoft khusus bagi pemilik Netbook yang tidak dilengkapi dengan DVD drive, dengan sebuah utility khusus bernama Windows 7 USB/DVD Tool anda  bisa membuat sebuah Flashdisk bootable untuk keperluan Instalasi Windows 7 di Netbook anda.
 

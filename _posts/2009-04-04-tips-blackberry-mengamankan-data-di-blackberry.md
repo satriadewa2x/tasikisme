@@ -4,14 +4,14 @@ title: 'Tips BlackBerry : Mengamankan Data di BlackBerry'
 date: 2009-04-04T17:50:22+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=293
+guid: https://www.tasikisme.com/?p=293
 permalink: /tips-blackberry-mengamankan-data-di-blackberry/
 categories:
   - Handphone
 tags:
   - Blackberry
 ---
-<div style="text-align: justify;">
+<div >
   <p>
     BlackBerry memang lagi ngentren di kalangan anak muda Indonesia, disamping Facebook dan kedepannya mungkin iPhone. Maka tak herannya bila sekarang pengguna BlackBerry tidak hanya terbatas pada para eksekutif atau pengusaha, anak SMP bahkan SD pun sekarang sudah mulai menggunakan BlackBerry, meskipun dari segi fungsionalitas mungkin hanya menggunakannya untuk sekedar chatting atau facebook-an!
   </p>

@@ -4,7 +4,7 @@ title: Yang Harus Dilakukan dan Dihindari di Friendster
 date: 2009-01-08T09:15:00+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=225
+guid: https://www.tasikisme.com/?p=225
 permalink: /yang-harus-dilakukan-dan-dihindari-di-friendster/
 categories:
   - Internet

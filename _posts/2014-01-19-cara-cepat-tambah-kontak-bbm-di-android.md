@@ -16,22 +16,12 @@ tags:
   - Download
   - Tips
 ---
-<p style="text-align: justify;">
-  Baru Install BBM di Samsung Galaxy S4 atau ponsel Android lainnya? dan kontaknya masih sedikit? Dengan sebuah aplikasi bernama BBMFriend for Android, Anda bisa dengan mudah dan cepat menambah kontak BBM di Android. Kenapa bisa dikatakan cepat?
-</p>
+Baru Install BBM di Samsung Galaxy S4 atau ponsel Android lainnya? dan kontaknya masih sedikit? Dengan sebuah aplikasi bernama BBMFriend for Android, Anda bisa dengan mudah dan cepat menambah kontak BBM di Android. Kenapa bisa dikatakan cepat?
 
-<p style="text-align: justify;">
-  Karena di BBMFriend for Android ada lebih dari 10 ribu Pin BBM terdaftar yang siap untuk Anda invite! Jangan pernah khawatir kok, karena semua PIN di BBMFriend adalah PIN asli alias PIN yang nyata dimiliki oleh pengguna BBM baik di Blackberry, iPhone atau Android.
-</p>
+Karena di BBMFriend for Android ada lebih dari 10 ribu Pin BBM terdaftar yang siap untuk Anda invite! Jangan pernah khawatir kok, karena semua PIN di BBMFriend adalah PIN asli alias PIN yang nyata dimiliki oleh pengguna BBM baik di Blackberry, iPhone atau Android.
 
-<p style="text-align: justify;">
-  Untuk mulai menggunakan BBMFriend for Android, Anda langsung aja <strong>Download BBMFriend for Android</strong> dari Ponsel Android, gratis kok!. Setelah berhasil di install, Anda bisa menjalankan aplikasi BBMFriend, namun pastikan koneksi internet di ponsel Android Anda lancar, karena BBMFriend membutuhkan koneksi ke server untuk proses query PIN BBM.
-</p>
+Untuk mulai menggunakan BBMFriend for Android, Anda langsung aja **Download BBMFriend for Android** dari Ponsel Android, gratis kok!. Setelah berhasil di install, Anda bisa menjalankan aplikasi BBMFriend, namun pastikan koneksi internet di ponsel Android Anda lancar, karena BBMFriend membutuhkan koneksi ke server untuk proses query PIN BBM.
 
-<p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="https://3.bp.blogspot.com/-RIV5da1pjF4/UtUVxnf2IwI/AAAAAAAACiU/qwIf0eYH9cM/s1600/BBMFriend.png" alt="BBMFriend" width="230" height="230" />
-</p>
+<img loading="lazy"  src="https://3.bp.blogspot.com/-RIV5da1pjF4/UtUVxnf2IwI/AAAAAAAACiU/qwIf0eYH9cM/s1600/BBMFriend.png" alt="BBMFriend" width="230" height="230" /> 
 
-<p style="text-align: justify;">
-  So, kini dengan BBMFriend, Anda bisa dengan mudah dan cepat tambah kontak di BBM for Android tanpa perlu ribet, tanpa perlu daftar ini itu, tinggal download, invite dan tunggu sampai request Anda di accept oleh si empunya PIN. Selamat ber-BBM ria di Android!
-</p>
+So, kini dengan BBMFriend, Anda bisa dengan mudah dan cepat tambah kontak di BBM for Android tanpa perlu ribet, tanpa perlu daftar ini itu, tinggal download, invite dan tunggu sampai request Anda di accept oleh si empunya PIN. Selamat ber-BBM ria di Android!

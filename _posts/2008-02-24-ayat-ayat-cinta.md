@@ -4,7 +4,7 @@ title: Contoh Sinopsis Film Ayat-Ayat Cinta
 date: 2008-02-24T10:46:11+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=29
+guid: https://www.tasikisme.com/?p=29
 permalink: /ayat-ayat-cinta/
 categories:
   - Cinta
@@ -21,7 +21,7 @@ dan Melanie Putria sebagai Nurul.
 
 Film Ayat-ayat Cinta ini diambil dari sebuah Novel dengan judul yang sama yaitu Ayat-Ayat Cinta karangan Habiburrahman El-Shirazy. Ia adalah seorang sarjana lulusan Mesir. Sepintas, novel ini seperti novel-novel Islami kebanyakan yang mencoba menebarkan dakwah melalui sebuah karya seni, namun setelah ditelaah lebih lanjut ternyata novel ini merupakan gabungan dari novel Islami, budaya dan juga novel cinta.
 
-Ayat-Ayat Cinta bercerita tentang perjalanan cinta dua anak manusia yang berbeda latar belakang dan budaya; yang satu adalah mahasiswa Indonesia yang se dang menempuh studi Universitas Al-Azhar Mesir,  bernama Fahri bin Abdullah Shiddiq, dalam kehidupannya sebagai seorang mahasiswa dia menemui banyak tantangan dalam hidup dari masalah keuangan, kesehatan, sampai urusan cinta dan yang satunya lagi adalah mahasiswi asal Jerman yang kebetulan juga se dang studi di Mesir
+Ayat-Ayat Cinta bercerita tentang perjalanan cinta dua anak manusia yang berbeda latar belakang dan budaya; yang satu adalah mahasiswa Indonesia yang sedang menempuh studi Universitas Al-Azhar Mesir,  bernama Fahri bin Abdullah Shiddiq, dalam kehidupannya sebagai seorang mahasiswa dia menemui banyak tantangan dalam hidup dari masalah keuangan, kesehatan, sampai urusan cinta dan yang satunya lagi adalah mahasiswi asal Jerman yang kebetulan juga sedang studi di Mesir
 
 Kisah percintaan ini berawal ketika mereka secara tak sengaja bertemu dalam sebuah perdebatan sengit dalam sebuah metro (sejenis trem). Ceritanya bergulir cepat. Fahri dis ini menjadi pria ideal. Dengan Alicia, wartawan dari Amerika itu, ia mencoba menjawab semua pertanyaan tentang Islam itu apa. Ia merangkum berbagai tulisan untuk menjawabnya.
 

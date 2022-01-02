@@ -4,7 +4,7 @@ title: 'Tips Valentine : Kado Valentine yang Romantis Namun Murah Meriah'
 date: 2010-02-07T09:20:30+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=375
+guid: https://www.tasikisme.com/?p=375
 permalink: /tips-valentine-kado-valentine-yang-romantis-namun-murah-meriah/
 categories:
   - Cinta
@@ -15,7 +15,7 @@ tags:
   - Curhat
   - Valentine
 ---
-<div style="text-align: justify;">
+<div >
   <p>
     Tanggal 14 Februari, Cupid siap membidikan panah-panah cintanya ke seluruh pelosok dunia, untuk menaburkan cinta dan kasih sehingga semua orang terlarut dalam perayaan hari kasih sayang. Untuk merayakan hari Valentine yang romantis dan berkesan, anda tidak perlu membeli hadiah yang mahal dan menguras isi kantong, sebuah hadiah valentine yang romantis bisa dibuat sendiri dan dikreasi sesuai keinginan, dan tentunya dengan budget sem inimal mungkin.
   </p>

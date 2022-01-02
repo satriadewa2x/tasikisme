@@ -4,7 +4,7 @@ title: Tips Menikmati Film Klasik
 date: 2008-12-27T16:27:27+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=217
+guid: https://www.tasikisme.com/?p=217
 permalink: /tips-menikmati-film-klasik/
 categories:
   - Informasi
@@ -24,7 +24,7 @@ Semoga setelah membaca artikel ini, pan dangan anda berubah, bahwa menonton film
 
 Yups&#8230;film-film klasik tempo doeloe memang diciptakan dalam bentuk black and white aliat hitam putih. Teknologi Film zaman dulu memang tidak semaju saat ini.
 
-Jadi mulailah menikmati tampilan hitam putih ini sebagai sebuah karya seni dan anggaplah bahwa anda seolah-olah se dang hidup di zaman tersebut  sehingga andapun bisa merasakan bagaimana hebatnya film-film klasik ini.
+Jadi mulailah menikmati tampilan hitam putih ini sebagai sebuah karya seni dan anggaplah bahwa anda seolah-olah sedang hidup di zaman tersebut  sehingga andapun bisa merasakan bagaimana hebatnya film-film klasikini.
 
 2. Bersabarlah dan Berilah Waktu
 
@@ -46,7 +46,7 @@ Karena itu tontonlah film-film klasik tersebut sebagai sebuah “film” biasa d
 
 Agar bisa mulai menikmati film-film klasik ada baiknya anda mencari Sutradara dan bintang Film klasik zaman dulu yang memang favorit anda.
 
-Sutradara-sutradara terkenal zaman modern ini ada sebagian besar yang memang pernah menciptakan film-film klasik ketika dia masih muda nah kenapa tidak anda mulai saja menyukai sutradara-sutradara tersebut dan lihatlah perkembangan filmnya dari masa ke masa sampai akhirnya k ini dia jadi sutradara besar dan sukses.
+Sutradara-sutradara terkenal zaman modern ini ada sebagian besar yang memang pernah menciptakan film-film klasik ketika dia masih muda nah kenapa tidak anda mulai saja menyukai sutradara-sutradara tersebut dan lihatlah perkembangan filmnya dari masa ke masa sampai akhirnya kini dia jadi sutradara besar dan sukses.
 
 5. Cari di Internet
 

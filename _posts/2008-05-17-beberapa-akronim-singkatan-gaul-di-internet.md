@@ -4,7 +4,7 @@ title: Beberapa Akronim (Singkatan) Gaul di Internet
 date: 2008-05-17T13:11:58+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=102
+guid: https://www.tasikisme.com/?p=102
 permalink: /beberapa-akronim-singkatan-gaul-di-internet/
 categories:
   - Internet

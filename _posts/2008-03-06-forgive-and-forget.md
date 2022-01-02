@@ -4,7 +4,7 @@ title: Tidak Mudah Memaafkan dan Melupakan Kesalahan Orang Lain
 date: 2008-03-06T16:19:14+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=36
+guid: https://www.tasikisme.com/?p=36
 permalink: /forgive-and-forget/
 categories:
   - Cinta

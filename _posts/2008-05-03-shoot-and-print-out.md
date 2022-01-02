@@ -4,7 +4,7 @@ title: Tips Print Photo Biar Jelas dan Tidak Pecah
 date: 2008-05-03T21:43:49+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=86
+guid: https://www.tasikisme.com/?p=86
 permalink: /shoot-and-print-out/
 categories:
   - Tips

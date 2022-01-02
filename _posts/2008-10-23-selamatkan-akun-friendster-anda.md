@@ -4,7 +4,7 @@ title: Selamatkan Akun Friendster Anda!
 date: 2008-10-23T10:33:16+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=190
+guid: https://www.tasikisme.com/?p=190
 permalink: /selamatkan-akun-friendster-anda/
 categories:
   - Internet

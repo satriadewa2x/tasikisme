@@ -4,7 +4,7 @@ title: Wanita Tercantik di Dunia?
 date: 2008-05-10T17:48:39+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=95
+guid: https://www.tasikisme.com/?p=95
 permalink: /wanita-tercantik-di-dunia/
 categories:
   - Curhat

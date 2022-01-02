@@ -4,7 +4,7 @@ title: Menggunakan Google sebagai Kalkulator
 date: 2008-06-02T11:42:39+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=113
+guid: https://www.tasikisme.com/?p=113
 permalink: /menggunakan-google-sebagai-kalkulator/
 categories:
   - Internet
@@ -13,7 +13,7 @@ tags:
   - Internet
   - Tips
 ---
-Anda ingin tahu 2000 mil itu berapa kilometer? Atau anda se dang menghitung kalau 1 barel minyak itu berapa liter? Atau malah anda se dang bingung 100 derajat celsius itu berapa derajat fahrenheit? Atau anda ingin memecahkan berapa hasil dari (2+3)x(29-(-5) dan anda ingin tahu berapa hasil dari 5 faktorial dikali 3 faktorial.
+Anda ingin tahu 2000 mil itu berapa kilometer? Atau anda sedang menghitung kalau 1 barel minyak itu berapa liter? Atau malah anda sedang bingung 100 derajat celsius itu berapa derajat fahrenheit? Atau anda ingin memecahkan berapa hasil dari (2+3)x(29-(-5) dan anda ingin tahu berapa hasil dari 5 faktorial dikali 3 faktorial.
 
 Biar anda tidak bingung lagi, kenapa tidak memanfaatkan Google untuk memecahkan masalah anda tersebut. Dengan menggunakan Google sebagai kalkulator anda bisa melakukan penghitungan matematika mulai dari yang sederhana, sampai kepada yang rumit sekalipun.
 

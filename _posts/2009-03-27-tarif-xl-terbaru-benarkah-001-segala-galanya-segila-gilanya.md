@@ -4,7 +4,7 @@ title: 'Tarif XL Terbaru : Benarkah 0.01 Segala-galanya, Segila-gilanya?'
 date: 2009-03-27T04:13:27+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=287
+guid: https://www.tasikisme.com/?p=287
 permalink: /tarif-xl-terbaru-benarkah-001-segala-galanya-segila-gilanya/
 categories:
   - Internet
@@ -12,9 +12,7 @@ tags:
   - Internet
   - Operator
 ---
-<p style="text-align: justify;">
-  Bila anda sering lihat iklan, tentu sudah tahu dengan iklan dari operator selular yang satu ini, yups XL memang menawarkan tarif segala-galanya 0,01 segila-gilanya, baik itu untuk tarif nelepon, sms, RBT, sampai kepada tarif GPRS, benarkah tarif tersebut? Benarkah tarif “promosi” tersebut nggak ribet, dan apa adanya?
-</p>
+Bila anda sering lihat iklan, tentu sudah tahu dengan iklan dari operator selular yang satu ini, yups XL memang menawarkan tarif segala-galanya 0,01 segila-gilanya, baik itu untuk tarif nelepon, sms, RBT, sampai kepada tarif GPRS, benarkah tarif tersebut? Benarkah tarif “promosi” tersebut nggak ribet, dan apa adanya?
 
 Kalau soal tarif 0,01 Segala-galanya, segila-gilanya mungkin bisa dikatakan benar adanya, tapi kalo dibilang nggak ribet dan apa adanya? Emh… itu sih tergantung siapa dulu yang membaca “syarat dan ketentuan” yang berlakunya.
 

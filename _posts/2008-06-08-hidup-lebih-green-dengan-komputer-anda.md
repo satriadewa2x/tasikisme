@@ -4,7 +4,7 @@ title: Hidup Lebih “Green” dengan Komputer Anda
 date: 2008-06-08T12:17:09+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=122
+guid: https://www.tasikisme.com/?p=122
 permalink: /hidup-lebih-green-dengan-komputer-anda/
 categories:
   - Komputer

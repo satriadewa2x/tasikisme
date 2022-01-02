@@ -4,7 +4,7 @@ title: Ber-Friendster Ria di Ponsel dengan Desktop/Classic View
 date: 2008-07-22T11:41:51+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=163
+guid: https://www.tasikisme.com/?p=163
 permalink: /ber-friendster-ria-di-ponsel-dengan-desktopclassic-view/
 categories:
   - Handphone

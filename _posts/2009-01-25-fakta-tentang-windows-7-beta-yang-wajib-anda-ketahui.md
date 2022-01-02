@@ -4,7 +4,7 @@ title: 'Fakta tentang Windows 7 Beta yang Wajib  Anda Ketahui'
 date: 2009-01-25T13:46:14+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=239
+guid: https://www.tasikisme.com/?p=239
 permalink: /fakta-tentang-windows-7-beta-yang-wajib-anda-ketahui/
 categories:
   - Informasi

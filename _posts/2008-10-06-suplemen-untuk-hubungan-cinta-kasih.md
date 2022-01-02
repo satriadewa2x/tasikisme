@@ -4,7 +4,7 @@ title: Suplemen untuk Hubungan Cinta Kasih
 date: 2008-10-06T13:36:09+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=186
+guid: https://www.tasikisme.com/?p=186
 permalink: /suplemen-untuk-hubungan-cinta-kasih/
 categories:
   - Cinta

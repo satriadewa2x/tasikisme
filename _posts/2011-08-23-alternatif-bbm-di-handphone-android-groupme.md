@@ -4,16 +4,14 @@ title: 'Alternatif BBM di Handphone Android : GroupMe'
 date: 2011-08-23T02:55:11+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=497
+guid: https://www.tasikisme.com/?p=497
 permalink: /alternatif-bbm-di-handphone-android-groupme/
 categories:
   - Handphone
 tags:
   - Android
 ---
-<p style="text-align: justify;">
-  Blackberry Messenger atau lebih dikenal dengan sebutan BBM, merupakan Instant Messaging yang hanya diperuntukan bagi pengguna Blackberry. Namun bagaimana jika Anda pengguna Handphone Android, dan ingin merasakan bagaimana rasanya BBM itu?
-</p>
+Blackberry Messenger atau lebih dikenal dengan sebutan BBM, merupakan Instant Messaging yang hanya diperuntukan bagi pengguna Blackberry. Namun bagaimana jika Anda pengguna Handphone Android, dan ingin merasakan bagaimana rasanya BBM itu?
 
 Sebenarnya ada beberapa alternatif BBM untuk Android seperti YM, LiveProfile, WhatsApp dan yang terakhir adalah GroupMe. Aplikasi-aplikasi tersebut bisa diinstal di Handphone Android seperti Samsung Galaxy S Mini, Motorola Milestone, sampai Sony Ericsson xPeria Play dan bisa didownload gratis dari Android Market.
 

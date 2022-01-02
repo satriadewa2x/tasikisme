@@ -4,7 +4,7 @@ title: 'Simple Tips : Cara Berhenti dari RBT, NSP maupun iRing'
 date: 2009-06-30T11:37:15+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=326
+guid: https://www.tasikisme.com/?p=326
 permalink: /simple-tips-cara-berhenti-dari-rbt-nsp-maupun-iring/
 categories:
   - Handphone
@@ -12,15 +12,9 @@ tags:
   - Handphone
   - Informasi
 ---
-<p align="justify">
-  Tadinya sih, berniat ingin nyenengin yang nelpon, biar nggak bete pas nunggu teleponnya diangkat. Kan lebih enak dengerin lagu dari penyanyi terkenal misal Ungu, Dewa, Mulan, ataupun Agnes Monica, daripada mesti dengerin bunyi Tut… Tuut… Tut…
-</p>
+Tadinya sih, berniat ingin nyenengin yang nelpon, biar nggak bete pas nunggu teleponnya diangkat. Kan lebih enak dengerin lagu dari penyanyi terkenal misal Ungu, Dewa, Mulan, ataupun Agnes Monica, daripada mesti dengerin bunyi Tut… Tuut… Tut…
 
-<p align="justify">
-  Tapi apa mau dikata, niat baik harus ditebus dengan kekecewaan. Setelah beberapa minggu menggunakan RBT atau NSP atau iRing, anda mulai bosan dengan lagunya yang itu-itu saja dan andapun ingin berhenti. But… anda bingung bagaimana cara berhentinya? Pas waktu ngaktifinnya aja, anda nyuruh teman (jadi Anda pasti kelabakan tak tahu bagaimana cara berhentinya). Karena ketidaktahuan inilah, banyak dari kita yang akhirnya terjebak oleh Operator selular, tiap bulan pulsa terpotong hanya demi sebuah lagu yang tidak lagi kita senangi. Lalu bagaimana Cara Berhenti dari RBT, NSP ataupun layanan sejenis lainya? Bagaimana agar pulsa kita tidak terus menerus terpotong tiap bulannya. Berikut ini adalah cara singkat berhenti dari layanan RBT, NSP, iRing maupun layanan sejenisnya.
-</p>
-
-<!--more-->
+Tapi apa mau dikata, niat baik harus ditebus dengan kekecewaan. Setelah beberapa minggu menggunakan RBT atau NSP atau iRing, anda mulai bosan dengan lagunya yang itu-itu saja dan andapun ingin berhenti. But… anda bingung bagaimana cara berhentinya? Pas waktu ngaktifinnya aja, anda nyuruh teman (jadi Anda pasti kelabakan tak tahu bagaimana cara berhentinya). Karena ketidaktahuan inilah, banyak dari kita yang akhirnya terjebak oleh Operator selular, tiap bulan pulsa terpotong hanya demi sebuah lagu yang tidak lagi kita senangi. Lalu bagaimana Cara Berhenti dari RBT, NSP ataupun layanan sejenis lainya? Bagaimana agar pulsa kita tidak terus menerus terpotong tiap bulannya. Berikut ini adalah cara singkat berhenti dari layanan RBT, NSP, iRing maupun layanan sejenisnya.
 
 **Nama Operator : Telkomsel (Kartu As, SIMpati, Halo)**  
 Layanan : NSP (Nada Sambung Pribadi)

@@ -4,7 +4,7 @@ title: Teman Musuh dalam Selimut
 date: 2008-02-29T16:48:23+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=33
+guid: https://www.tasikisme.com/?p=33
 permalink: /friend-or-foe/
 categories:
   - Curhat

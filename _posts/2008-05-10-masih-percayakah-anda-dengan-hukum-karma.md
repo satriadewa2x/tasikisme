@@ -4,7 +4,7 @@ title: Masih Percayakah Anda dengan Hukum Karma?
 date: 2008-05-10T08:36:56+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=93
+guid: https://www.tasikisme.com/?p=93
 permalink: /masih-percayakah-anda-dengan-hukum-karma/
 categories:
   - Curhat

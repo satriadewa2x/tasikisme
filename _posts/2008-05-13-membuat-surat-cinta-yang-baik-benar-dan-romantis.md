@@ -4,7 +4,7 @@ title: Membuat Surat Cinta yang Baik, Benar dan Romantis
 date: 2008-05-13T12:02:59+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=98
+guid: https://www.tasikisme.com/?p=98
 permalink: /membuat-surat-cinta-yang-baik-benar-dan-romantis/
 categories:
   - Cinta

@@ -4,7 +4,7 @@ title: Film Yang Wajib Anda Tunggu Kehadirannya di Tahun 2009
 date: 2009-01-04T05:43:17+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=222
+guid: https://www.tasikisme.com/?p=222
 permalink: /film-yang-wajib-anda-tunggu-kehadirannya-di-tahun-2009/
 categories:
   - Informasi

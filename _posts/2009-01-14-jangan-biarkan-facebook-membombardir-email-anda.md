@@ -4,7 +4,7 @@ title: Jangan Biarkan Facebook Membombardir Email Anda
 date: 2009-01-14T17:41:04+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=231
+guid: https://www.tasikisme.com/?p=231
 permalink: /jangan-biarkan-facebook-membombardir-email-anda/
 categories:
   - Facebook

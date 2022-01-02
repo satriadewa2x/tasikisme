@@ -4,16 +4,14 @@ title: Facebook di Hack dan Emailnya Diganti
 date: 2010-02-21T00:39:40+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=377
+guid: https://www.tasikisme.com/?p=377
 permalink: /facebook-di-hack-dan-emailnya-diganti/
 categories:
   - Facebook
 tags:
   - Facebook
 ---
-<p style="text-align: justify;">
-  Sangat menyebalkan memang bila tiba-tiba kita tidak bisa login ke Facebook, padahal teman udah banyak, dan tentunya kalo harus membuat akun Facebook baru akan sangat malas karena harus meng-add satu persatu teman-teman kita. Dan lebih menyebalkan lagi, email Facebook yang biasa kita pakai diganti, alhasil kita tidak bisa mereset password kita.
-</p>
+Sangat menyebalkan memang bila tiba-tiba kita tidak bisa login ke Facebook, padahal teman udah banyak, dan tentunya kalo harus membuat akun Facebook baru akan sangat malas karena harus meng-add satu persatu teman-teman kita. Dan lebih menyebalkan lagi, email Facebook yang biasa kita pakai diganti, alhasil kita tidak bisa mereset password kita.
 
 Bila anda mengalami masalah Facebook dihack dan lalu emailnya diganti, maka solusi sederhana ini mungkin bisa membantu.
 

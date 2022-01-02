@@ -4,7 +4,7 @@ title: Menghapus File yang Tidak Bisa Dihapus dengan Mudah!
 date: 2008-02-23T12:37:04+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=24
+guid: https://www.tasikisme.com/?p=24
 permalink: /menghapus-file-undeletable-dengan-mudah/
 categories:
   - Komputer
@@ -15,7 +15,7 @@ tags:
   - Laptop
   - Tips
 ---
-Tips kali ini akan menjelaskan tentang bagaimana menghapus file-file yang susah di-delete. Seperti kita ketahui ada file-file tertentu di Windows yang tidak bisa atau susah untuk di-delete, pas kita mencoba untuk men-delete-nya selalu timbul warning kalo file tersebut ‘_being used by system/windows_’. Atau saat kita mau menghapus beberapa software atau bahkan virus, kita selalu mengalami masalah kalo file tersebut se dang digunakan oleh system dan tidak bisa dihapus.
+Tips kali ini akan menjelaskan tentang bagaimana menghapus file-file yang susah di-delete. Seperti kita ketahui ada file-file tertentu di Windows yang tidak bisa atau susah untuk di-delete, pas kita mencoba untuk men-delete-nya selalu timbul warning kalo file tersebut ‘_being used by system/windows_’. Atau saat kita mau menghapus beberapa software atau bahkan virus, kita selalu mengalami masalah kalo file tersebut sedang digunakan oleh system dan tidak bisa dihapus.
 
 Ada langkah mudah untuk men-delete file-file yang undeletable tersebut.
 

@@ -4,7 +4,7 @@ title: Tips Kencan Online (Online Dating)
 date: 2009-04-14T11:42:50+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=296
+guid: https://www.tasikisme.com/?p=296
 permalink: /tips-kencan-online-online-dating/
 categories:
   - Cinta
@@ -16,7 +16,7 @@ tags:
   - Online
   - Tips
 ---
-<div style="text-align: justify;">
+<div >
   <p>
     Tips berikut, khusus bagi anda yang sering menggunakan internet dating site, tapi sampai sekarang anda belum beruntung menemukan seseorang untuk bisa diajak berkencan atau ‘berminat’ untuk berkenalan lebih jauh dan mendalam dengan anda. Jangan khawatir, dunia maya ini begitu luas dan terbuka untuk siapa saja, termasuk bagi anda yang ingin mencari teman kencan secara online.
   </p>

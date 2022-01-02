@@ -4,7 +4,7 @@ title: Menonaktifkan Start Up Item Untuk Mempercepat Komputer dan Mencegah Virus
 date: 2008-09-18T13:02:36+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=182
+guid: https://www.tasikisme.com/?p=182
 permalink: /menonaktifkan-start-up-item-untuk-mempercepat-komputer-dan-mencegah-virus/
 categories:
   - Komputer

@@ -4,7 +4,7 @@ title: Daftar Game Terbaik untuk iPhone and iPod Touch!
 date: 2011-03-08T06:10:35+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=464
+guid: https://www.tasikisme.com/?p=464
 permalink: /daftar-game-terbaik-untuk-iphone-and-ipod-touch/
 categories:
   - Apple
@@ -14,9 +14,7 @@ tags:
   - Apple
   - iPhone
 ---
-<p style="text-align: justify;">
-  Baru membeli sebuah iPhone 4? Dan ingin menginstall game di iPhone untuk mengisi waktu luang Anda? Tak dipungkiri di App Store ada banyak sekali game bahkan sampai ribuan game tersedia untuk didownload, baik yang gratis maupun yang berbayar. Biar tidak bingung, berikut ini beberapa game terbaik saat ini (sampai Maret 2011) untuk dimainkan di iPhone 4 Anda.
-</p>
+Baru membeli sebuah iPhone 4? Dan ingin menginstall game di iPhone untuk mengisi waktu luang Anda? Tak dipungkiri di App Store ada banyak sekali game bahkan sampai ribuan game tersedia untuk didownload, baik yang gratis maupun yang berbayar. Biar tidak bingung, berikut ini beberapa game terbaik saat ini (sampai Maret 2011) untuk dimainkan di iPhone 4 Anda. 
 
 **Inf inity Blade**  
 Pernah memainkan game RPG semisal Diablo? Nah Inf inity Blade hadir dengan Unreal Engine untuk kualitas grafis yang wah dan fantastic, hampir mirip dengan grafis PS2. Chairt Entertainment Studio, telah sukses menghadirkan sebuah game dengan jalan cerita yang menantang, dimana Anda bisa mengupgrade karakter dengan berbagai perlengkapan maupun power, sehingga karakter Anda menjadi semakin kuat dalam menjalankan misi yang tersedia. 
@@ -27,9 +25,8 @@ Jangan ditanya lagi, game burung ini memang sangat terkenal, hadir untuk iOS dan
 **Street Fighter IV**  
 Game dari Capcom ini sudah dari zaman dulu terkenal, game tarung yang satu ini sangat menarik untuk dimainkan. K ini Anda bisa memainkan game Street Fighter IV di iPhone atau iPod Touch kesayangan, dan tentunya dengan kualitas grafis yang lebih lumayan.
 
-<p style="text-align: justify;">
-  <strong>N.O.V.A atau Near Orbit Vanguard Alliance </strong><br />Seneng game perang berjenis FPS? Terinspirasi dari game HALO, NOVA hadir di iPhone dengan sebuah misi Anda harus menyelamatkan bumi dari serbuan alien ganas yang ingin menguasai alam semesta ini. Mampukah Anda mengalahkan alien-alien tersebut?
-</p>
+**N.O.V.A atau Near Orbit Vanguard Alliance**  
+Seneng game perang berjenis FPS? Terinspirasi dari game HALO, NOVA hadir di iPhone dengan sebuah misi Anda harus menyelamatkan bumi dari serbuan alien ganas yang ingin menguasai alam semesta ini. Mampukah Anda mengalahkan alien-alien tersebut?
 
 **GTA Chinatown Wars**  
 Game Grand Theft Auto memang sangat adiktif, sekali Anda memainkan game di iPhone, dijamin bakal ketagihan. Seperti juga versi PSP atau Nintendo, GTA Chinatown Wars untuk iPhone hadir dengan kualitas grafis sampai gameplay yang playable, alhasil Andapun semakin tertantang untuk menyelesaikan semua misi di GTA Chinatown Wars  

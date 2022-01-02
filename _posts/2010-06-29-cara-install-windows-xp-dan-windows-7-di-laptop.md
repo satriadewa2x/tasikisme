@@ -4,7 +4,7 @@ title: Cara Install Windows XP dan Windows 7 di Laptop
 date: 2010-06-29T11:46:07+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=403
+guid: https://www.tasikisme.com/?p=403
 permalink: /cara-install-windows-xp-dan-windows-7-di-laptop/
 categories:
   - Komputer
@@ -14,9 +14,7 @@ tags:
   - Tips
   - Windows
 ---
-<p style="text-align: justify;">
-  Laptop keluaran terbaru saat ini telah banyak yang dibundel dengan sistem operasi Windows 7. Dari segi performa dan tampilan Windows 7 memang layak diacungi jempol, belum lagi dengan kemudahan dalam mengoperasikannya. Namun dari segi kompabilitas atau dukungan terhadap software-software lama, Windows 7 seringkali menghadapi kendala dimana software-software lama tidak bisa berjalan dengan mulus bahkan tak bisa dijalankan sama sekali di Windows 7.
-</p>
+Laptop keluaran terbaru saat ini telah banyak yang dibundel dengan sistem operasi Windows 7. Dari segi performa dan tampilan Windows 7 memang layak diacungi jempol, belum lagi dengan kemudahan dalam mengoperasikannya. Namun dari segi kompabilitas atau dukungan terhadap software-software lama, Windows 7 seringkali menghadapi kendala dimana software-software lama tidak bisa berjalan dengan mulus bahkan tak bisa dijalankan sama sekali di Windows 7.
 
 Solusi terbaik dari  masalah tersebut, mungkin Anda berencana untuk menginstall Windows XP disamping Windows 7 di Laptop Anda atau istilahnya Dual Boot antara Windows 7 dan Windows XP di Laptop Anda. Ada dua cara untuk proses dual boot ini.
 

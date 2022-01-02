@@ -4,14 +4,14 @@ title: Mencicipi Akses GPRS dengan Volume Based dari Telkomsel Flash
 date: 2008-07-06T04:42:23+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=151
+guid: https://www.tasikisme.com/?p=151
 permalink: /mencicipi-akses-gprs-dengan-volume-based-dari-telkomsel-flash/
 categories:
   - Internet
 tags:
   - Internet
 ---
-Bagi anda yang sering browsing atau surfing lewat ponsel anda, memilih tarif GRPS yang termurah dan kualitas aksesnya bagus tentu akan menjadi pilihan utama. Seperti juga tarif percakapan telepon yang se dang sengit-sengitnya terjadi perang tarif, semoga saja para operator selular di negeri ini juga melakukan perang yang sama terhadap tarif gprs, sehingga kita sebagai netter bisa lebih dimanjakan untuk bisa mengakses internet dan melakukan surfing, download, chatting maupun social networking.
+Bagi anda yang sering browsing atau surfing lewat ponsel anda, memilih tarif GRPS yang termurah dan kualitas aksesnya bagus tentu akan menjadi pilihan utama. Seperti juga tarif percakapan telepon yang sedang sengit-sengitnya terjadi perang tarif, semoga saja para operator selular di negeri ini juga melakukan perang yang sama terhadap tarif gprs, sehingga kita sebagai netter bisa lebih dimanjakan untuk bisa mengakses internet dan melakukan surfing, download, chatting maupun social networking.
 
 Untuk kelas GSM, Axis mungkin menawarkan tarif gprs yang termurah, tapi masalahnya karena operator baru, jadi jangkauanpun masih terbatas. IM3 dan Mentari mungkin akan jadi alternatif, dengan tarif Rp. 1, 1/ Kb bisa menghemat pemakaian pulsa anda ketika browsing lewat ponsel.
 

@@ -4,7 +4,7 @@ title: Blue is The New Green
 date: 2009-02-22T10:16:02+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=265
+guid: https://www.tasikisme.com/?p=265
 permalink: /blue-is-the-new-green/
 categories:
   - Informasi
@@ -28,10 +28,6 @@ tags:
   
   <p>
     Selain itu ponsel Blue Earth ini dilengkapi juga dengan m ini solar panel yang berfungsi untuk men-charges ponsel dengan memanfaatkan sinar matahari.
-  </p>
-  
-  <p>
-    <!--more-->
   </p>
 </div>
 

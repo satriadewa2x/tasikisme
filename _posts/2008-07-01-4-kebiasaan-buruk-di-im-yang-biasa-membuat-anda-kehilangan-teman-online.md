@@ -4,7 +4,7 @@ title: 4 Kebiasaan Buruk di IM yang bisa Membuat Anda Kehilangan Teman Online
 date: 2008-07-01T10:14:05+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=146
+guid: https://www.tasikisme.com/?p=146
 permalink: /4-kebiasaan-buruk-di-im-yang-biasa-membuat-anda-kehilangan-teman-online/
 categories:
   - Internet

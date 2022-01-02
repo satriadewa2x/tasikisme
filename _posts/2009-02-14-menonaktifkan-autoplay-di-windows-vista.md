@@ -4,7 +4,7 @@ title: Menonaktifkan AutoPlay di Windows Vista
 date: 2009-02-14T18:09:59+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=259
+guid: https://www.tasikisme.com/?p=259
 permalink: /menonaktifkan-autoplay-di-windows-vista/
 categories:
   - Komputer
@@ -21,15 +21,15 @@ Untuk menonaktifkan/disable fitur Autoplay di Windows XP anda bisa membacanya di
 
 1. Cara pertama dan termudah adalah dengan mengakses **[Control Panel]** dan kemudian klik opsi “**Play CDs or other media automatically**”
 
-<img class="aligncenter" title="Disable Autoplay di Windows Vista 1" src="https://wisatacinta.files.wordpress.com/2009/02/autoplay_vista1.jpg" alt="Disable Autoplay di Windows Vista 1" border="0" /> 
+<img  title="Disable Autoplay di Windows Vista 1" src="https://wisatacinta.files.wordpress.com/2009/02/autoplay_vista1.jpg" alt="Disable Autoplay di Windows Vista 1" border="0" /> 
 
 Cara tercepat untuk menonaktifkan Autoplay adalah dengan menghilangkan tanda ceklist pada “**Use AutoPlay for all media and devices**”
 
-<img class="aligncenter" title="Disable AutoPlay pada Windows Vista 2" src="https://wisatacinta.files.wordpress.com/2009/02/autoplay_vista3.jpg" alt="Disable AutoPlay pada Windows Vista 2" border="0" /> 
+<img  title="Disable AutoPlay pada Windows Vista 2" src="https://wisatacinta.files.wordpress.com/2009/02/autoplay_vista3.jpg" alt="Disable AutoPlay pada Windows Vista 2" border="0" /> 
 
 2. Cara Kedua khusus bagi anda yang menggunakan Windows Vista versi **Business** dan **Ultimate**. Akses **gpedit.msc** melalu box search pada start menu kemudian arahkan ke **Windows Components Autoplay Policies** dan kemudian rubah opsinya menjadi enable.
 
-<img class="aligncenter" title="Disable AutoPlay pada Windows Vista 3" src="https://wisatacinta.files.wordpress.com/2009/02/autoplay_vista2.jpg" alt="Disable AutoPlay pada Windows Vista 3" border="0" /> 
+<img  title="Disable AutoPlay pada Windows Vista 3" src="https://wisatacinta.files.wordpress.com/2009/02/autoplay_vista2.jpg" alt="Disable AutoPlay pada Windows Vista 3" border="0" /> 
 
 3. Cara Ketiga adalah dengan melalui menu registry. Silahkan gunakan  **Registry** berikut ini.
 

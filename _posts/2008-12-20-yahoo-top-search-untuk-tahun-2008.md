@@ -4,7 +4,7 @@ title: Yahoo Top Search untuk Tahun 2008
 date: 2008-12-20T10:24:19+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=214
+guid: https://www.tasikisme.com/?p=214
 permalink: /yahoo-top-search-untuk-tahun-2008/
 categories:
   - Internet

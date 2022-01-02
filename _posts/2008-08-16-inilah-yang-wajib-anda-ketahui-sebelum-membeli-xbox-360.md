@@ -4,7 +4,7 @@ title: Inilah yang Wajib Anda Ketahui Sebelum Membeli Xbox 360!
 date: 2008-08-16T11:46:00+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=172
+guid: https://www.tasikisme.com/?p=172
 permalink: /inilah-yang-wajib-anda-ketahui-sebelum-membeli-xbox-360/
 categories:
   - Tips

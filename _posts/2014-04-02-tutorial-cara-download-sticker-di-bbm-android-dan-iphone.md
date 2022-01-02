@@ -16,29 +16,13 @@ tags:
   - Download
   - iPhone
 ---
-<p style="text-align: justify;">
-  Akhirnya Sticker BBM resmi hadir di Android dan iPhone, so bila Anda pengguna BBM iPhone atau Android, bisa langsung update BBM Anda di App Store untuk iPhone atau Google Play Store for Android agar bisa langsung menikmati fitur Sticker BBM ini.
-</p>
+Akhirnya Sticker BBM resmi hadir di Android dan iPhone, so bila Anda pengguna BBM iPhone atau Android, bisa langsung update BBM Anda di App Store untuk iPhone atau Google Play Store for Android agar bisa langsung menikmati fitur Sticker BBM ini.</p> 
 
-<p style="text-align: justify;">
-  <p style="text-align: justify;">
-    Untuk Install dan Download BBM Sticker di iPhone atau Android, sangat mudah sekali yaitu pertama silahkan Anda masuk ke menu BBM Shop.
-  </p>
-  
-  <p style="text-align: justify;">
-    <p style="text-align: justify;">
-      Pilih sticker yang akan di download, semisal kita akan download sticker yang gratis saja agar tidak bayar. Selanjutnya klik pada Gratis atau Free, tunggu beberapa sampai proses download selesai.
-    </p>
-    
-    <p style="text-align: justify;">
-      <p style="text-align: justify;">
-        Kini, Anda pun bisa menggunakan Sticker BBM saat chatting dengan teman atau pacar di BBM.
-      </p>
-      
-      <p>
-        &nbsp;
-      </p>
-      
-      <p style="text-align: justify;">
-        Sticker BBM ini lebih mengasikan dibandingkan menggunakan emoticon biasa, meski jumlah sticker yang gratisnya masih sedikit.
-      </p>
+Untuk Install dan Download BBM Sticker di iPhone atau Android, sangat mudah sekali yaitu pertama silahkan Anda masuk ke menu BBM Shop.</p> 
+
+Pilih sticker yang akan di download, semisal kita akan download sticker yang gratis saja agar tidak bayar. Selanjutnya klik pada Gratis atau Free, tunggu beberapa sampai proses download selesai.</p> 
+
+Kini, Anda pun bisa menggunakan Sticker BBM saat chatting dengan teman atau pacar di BBM.
+
+&nbsp;  
+Sticker BBM ini lebih mengasikan dibandingkan menggunakan emoticon biasa, meski jumlah sticker yang gratisnya masih sedikit.

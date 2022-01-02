@@ -4,7 +4,7 @@ title: Tips Menyimpan atau Save File Flash dari Website
 date: 2008-02-23T12:47:00+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=27
+guid: https://www.tasikisme.com/?p=27
 permalink: /tips-menyimpan-save-file-flash-dari-website/
 categories:
   - Internet

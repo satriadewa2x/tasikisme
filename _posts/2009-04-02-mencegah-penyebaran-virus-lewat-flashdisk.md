@@ -4,7 +4,7 @@ title: Mencegah Penyebaran Virus Lewat Flashdisk
 date: 2009-04-02T10:22:23+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=292
+guid: https://www.tasikisme.com/?p=292
 permalink: /mencegah-penyebaran-virus-lewat-flashdisk/
 categories:
   - Komputer
@@ -13,7 +13,7 @@ tags:
   - Komputer
   - Windows
 ---
-<div style="text-align: justify;">
+<div >
   <p>
     Ketika anda mencolokkan Flashdisk yang telah terinfeksi virus, misal virus Conficker/Downadup atau virus The Legend of Aang ke Laptop atau komputer anda, secara otomatis fitur AutoPlay yang secara default aktif di Sistem Operasi Windows, akan menjalankan virus tersebut dan menginfeksi laptop anda. Jadi, daripada anda terlanjur terinfeksi dan akhirnya harus susah payah mencari cara menghapus virus Conficker/Downadup atau cara menghapus virus the legend of aang, lebih baik anda lakukan pencegahan sed ini mungkin. Caranya sangat sederhana yaitu dengan menonaktifkan fitur AutoPlay di Laptop atau Komputer anda.
   </p>

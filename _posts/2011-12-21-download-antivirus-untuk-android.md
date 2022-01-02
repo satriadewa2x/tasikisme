@@ -4,7 +4,7 @@ title: Download Antivirus untuk Android
 date: 2011-12-21T08:52:52+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=524
+guid: https://www.tasikisme.com/?p=524
 permalink: /download-antivirus-untuk-android/
 categories:
   - Android
@@ -12,9 +12,7 @@ tags:
   - Android
   - Aplikasi
 ---
-<p style="text-align: justify;">
-  <strong>Apa sih Antivirus Terbaik untuk Android</strong>? Seperti kita ketahui, sebagaimana layaknya sebuah laptop, ponsel Android pun tak luput dari serangan virus. Yang lebih menyakitkan, virus di Android ini selain bisa membuat kinerja ponsel lemot dan telat, bisa menimbulkan kerugian seperti pulsa bisa berkurang, karena si virus mengirim SMS ke nomor premium ataupun nelpon ke nomor premium international.
-</p>
+**Apa sih Antivirus Terbaik untuk Android**? Seperti kita ketahui, sebagaimana layaknya sebuah laptop, ponsel Android pun tak luput dari serangan virus. Yang lebih menyakitkan, virus di Android ini selain bisa membuat kinerja ponsel lemot dan telat, bisa menimbulkan kerugian seperti pulsa bisa berkurang, karena si virus mengirim SMS ke nomor premium ataupun nelpon ke nomor premium international.
 
 Berikut ini beberapa pilihan Antivirus Terbaik untuk Android. Jangan khawatir apapun handphonenya baik itu Samsung Galaxy M ini, Samsung Galaxy Young atau Axioo PicoPad, asalkan sistem operasinya Android, Anda bisa menginstal Antivirus berikut ini :
 

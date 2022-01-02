@@ -4,16 +4,16 @@ title: Tips dan Trick Facebook
 date: 2009-03-10T18:14:11+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=276
+guid: https://www.tasikisme.com/?p=276
 permalink: /tips-dan-trick-facebook/
 categories:
   - Facebook
 tags:
   - Facebook
 ---
-<div style="text-align: justify;">
+<div >
   <p>
-    Tak bisa dipungkiri Facebook k ini tengah naik daun di Indonesia, bahkan telah mengalahkan pesaing-pesaingnya sebagai Social Networking yang banyak diakses dan dipakai sebagai ajang menjalin persahabatan di negeri tercinta.
+    Tak bisa dipungkiri Facebook kini tengah naik daun di Indonesia, bahkan telah mengalahkan pesaing-pesaingnya sebagai Social Networking yang banyak diakses dan dipakai sebagai ajang menjalin persahabatan di negeri tercinta.
   </p>
   
   <p>

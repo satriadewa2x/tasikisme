@@ -4,7 +4,7 @@ title: Tips Mengatasi Error 734!
 date: 2008-02-17T15:02:20+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=18
+guid: https://www.tasikisme.com/?p=18
 permalink: /tips-mengatasi-error-734/
 categories:
   - Tips

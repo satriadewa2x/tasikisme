@@ -4,7 +4,7 @@ title: Trick setting GPRS XL Gratis..
 date: 2008-02-14T18:41:30+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=8
+guid: https://www.tasikisme.com/?p=8
 permalink: /trick-setting-gprs-xl-gratis/
 categories:
   - Tips

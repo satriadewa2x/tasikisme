@@ -4,16 +4,14 @@ title: Menonaktifkan PopScreen dari Telkomsel
 date: 2010-07-17T03:22:20+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=408
+guid: https://www.tasikisme.com/?p=408
 permalink: /menonaktifkan-popscreen-dari-telkomsel/
 categories:
   - Handphone
 tags:
   - Handphone
 ---
-<p style="text-align: justify;">
-  Suatu ketika saat anda membeli sebuah sim card baru (SimPati) dari Telkomsel, mungkin saat pertama diaktifkan Anda akan menerima SMS dari 1375 yang berisi “PopScreen Anda saat ini telah aktif. Untuk menerima layanan, aktifkan ponsel Anda ke jaringan 2G/GSM. Lihat buku panduan ponsel Anda untuk setting jaringan”  Lho, apa sebenernya PopScreen? Apa manfaatnya dan apa kerugiannya?
-</p>
+Suatu ketika saat anda membeli sebuah sim card baru (SimPati) dari Telkomsel, mungkin saat pertama diaktifkan Anda akan menerima SMS dari 1375 yang berisi “PopScreen Anda saat ini telah aktif. Untuk menerima layanan, aktifkan ponsel Anda ke jaringan 2G/GSM. Lihat buku panduan ponsel Anda untuk setting jaringan”  Lho, apa sebenernya PopScreen? Apa manfaatnya dan apa kerugiannya?
 
 Dikutip dari Website resmi Telkomsel, PopScreen merupakan “Berbagai info dan konten yang langsung hadir di layar ponsel” itu  artinya secara otomatis Anda akan menerima berbagai info dan konten menarik, entah itu tentang lagu, film sampai kepada horoskop dan info-info menarik lainnya seputar olahraga.
 

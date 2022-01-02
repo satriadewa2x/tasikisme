@@ -4,7 +4,7 @@ title: Get Ready For Skyfire
 date: 2008-04-11T05:31:25+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=64
+guid: https://www.tasikisme.com/?p=64
 permalink: /get-ready-for-skyfire/
 categories:
   - Internet

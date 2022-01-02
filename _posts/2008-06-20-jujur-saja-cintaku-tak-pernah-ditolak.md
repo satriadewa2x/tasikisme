@@ -4,7 +4,7 @@ title: Jujur Saja, Cintaku Tak Pernah Ditolak
 date: 2008-06-20T11:42:42+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=134
+guid: https://www.tasikisme.com/?p=134
 permalink: /jujur-saja-cintaku-tak-pernah-ditolak/
 categories:
   - Cinta

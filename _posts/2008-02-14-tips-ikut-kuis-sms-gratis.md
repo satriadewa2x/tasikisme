@@ -4,7 +4,7 @@ title: Tips Ikut Kuis SMS Gratis
 date: 2008-02-14T18:42:53+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=9
+guid: https://www.tasikisme.com/?p=9
 permalink: /tips-ikut-kuis-sms-gratis/
 categories:
   - Tips

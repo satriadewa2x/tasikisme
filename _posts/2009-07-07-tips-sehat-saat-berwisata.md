@@ -4,16 +4,14 @@ title: Tips Sehat Saat Berwisata
 date: 2009-07-07T11:08:43+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=327
+guid: https://www.tasikisme.com/?p=327
 permalink: /tips-sehat-saat-berwisata/
 categories:
   - Informasi
 tags:
   - Tips
 ---
-<p style="text-align: justify;">
-  Berwisata dipercaya mampu menghilangkan kejenuhan dari rutinitas sehari-hari, dan tentunya membuat hidup lebih indah dan menarik untuk dijalani. Maka tak mengherankan bila banyak dari kita yang menyempatkan diri untuk berwisata ke tempat-tempat yang alami, indah ataupun tempat yang memang khusus untuk tujuan wisata. Namun sebelum berwisata ada baiknya anda persiapkan dulu diri baik-baik, jangan sampai niat anda untuk bersenang-senang dan menghilangkan kejenuhan malah jadi sebuah mimpi buruk karena saat berwisata anda malah jatuh sakit atau kondisi tubuh tidak prima.
-</p>
+Berwisata dipercaya mampu menghilangkan kejenuhan dari rutinitas sehari-hari, dan tentunya membuat hidup lebih indah dan menarik untuk dijalani. Maka tak mengherankan bila banyak dari kita yang menyempatkan diri untuk berwisata ke tempat-tempat yang alami, indah ataupun tempat yang memang khusus untuk tujuan wisata. Namun sebelum berwisata ada baiknya anda persiapkan dulu diri baik-baik, jangan sampai niat anda untuk bersenang-senang dan menghilangkan kejenuhan malah jadi sebuah mimpi buruk karena saat berwisata anda malah jatuh sakit atau kondisi tubuh tidak prima.
 
 Sebelum Berwisata  
 Yang pertama harus anda lakukan adalah cek kondisi tubuh (sebaiknya anda periksa tubuh ke dokter), pastikan kondisi tubuh anda benar-benar fit dan prima, kalau ada sedikit gejala sakit segera konsultasikan dengan dokter untuk proses penyembuhan maupun pencegahan agar gejala sakit tersebut tidak berkepanjangan. Selain itu anda harus mengerti (walaupun secara garis besar) terhadap berbagai pencegahan maupun pengobatan penyakit-penyakit seperti deman, malaria ataupun penyakit lainnya. Pelajari juga tempat tujuan wisata yang akan anda kunjungi, pastikan anda mendapatkan informasi terbaru tentang kondisi tempat tersebut (apalagi sekarang lagi musim Flu Babi) jadi pastikan bahwa daerah tempat tujuan wisata anda tidak sedang dalam kondisi endemi penyakit. Selanjutnya Travel Health Insurance juga sangat penting, agar anda mendapatkan jaminan bila suatu saat anda mengalami sebuah musibah saat berwisata.

@@ -4,7 +4,7 @@ title: Download Aplikasi Twitter Untuk Blackberry
 date: 2009-08-20T07:10:17+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=336
+guid: https://www.tasikisme.com/?p=336
 permalink: /download-aplikasi-twitter-untuk-blackberry/
 categories:
   - Blackberry
@@ -14,9 +14,9 @@ tags:
   - Blackberry
   - Twitter
 ---
-<p style="text-align: justify;">
-  Kalau anda pengguna Blackberry plus juga fans setia twitter, jangan lewatkan beberapa aplikasi twitter untuk blackbbery berikut ini yang bisa lebih mendekatkan anda dengan para follower ataupun anda bisa terus stay uptodate dengan status update dari orang-orang atau perusahaan yang anda follow.<br />Twitterberry<br />Sebuah aplikasi twitter untuk blackberry yang tak diragukan lagi kemampuannya dan bahkan menjadi aplikasi twitter yang paling banyak digemari. Dengan penampilannya yang simple dan clean anda bisa terus mengikuti friend timeline, public timeline dan bahkan direct messages plus replies.
-</p>
+Kalau anda pengguna Blackberry plus juga fans setia twitter, jangan lewatkan beberapa aplikasi twitter untuk blackbbery berikut ini yang bisa lebih mendekatkan anda dengan para follower ataupun anda bisa terus stay uptodate dengan status update dari orang-orang atau perusahaan yang anda follow.  
+Twitterberry  
+Sebuah aplikasi twitter untuk blackberry yang tak diragukan lagi kemampuannya dan bahkan menjadi aplikasi twitter yang paling banyak digemari. Dengan penampilannya yang simple dan clean anda bisa terus mengikuti friend timeline, public timeline dan bahkan direct messages plus replies.
 
 SocialScope  
 Aplikasi twitter yang satu ini baru seumur jagung namun telah menjadi trend dan hit di kalangan pengguna blackberry. Dengan SocialScope anda bisa ber-Twitter ria di Blackberry anda plus kalau anda pengguna Facebook, SocialScope juga punya kemampuan untuk melihat status update dari teman-teman anda di fesbuk ataupun anda bisa mengupdate status anda sendiri. Kalau anda pengguna twitter dan facebook maka SocialScope bisa menjadi alternatif  yang patut dipertimbangkan

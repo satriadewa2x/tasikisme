@@ -4,7 +4,7 @@ title: Etika Ber-Ponsel Yang Semestinya Anda Taati
 date: 2008-08-22T11:39:56+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=174
+guid: https://www.tasikisme.com/?p=174
 permalink: /etika-ber-ponsel-yang-semestinya-anda-taati/
 categories:
   - Handphone

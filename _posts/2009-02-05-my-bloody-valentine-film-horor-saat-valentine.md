@@ -4,7 +4,7 @@ title: My Bloody Valentine – Film Horor Saat Valentine
 date: 2009-02-05T10:29:32+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=249
+guid: https://www.tasikisme.com/?p=249
 permalink: /my-bloody-valentine-film-horor-saat-valentine/
 categories:
   - Cinta

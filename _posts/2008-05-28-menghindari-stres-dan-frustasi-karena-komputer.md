@@ -4,7 +4,7 @@ title: Menghindari Stres dan Frustasi Karena Komputer
 date: 2008-05-28T13:18:11+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=109
+guid: https://www.tasikisme.com/?p=109
 permalink: /menghindari-stres-dan-frustasi-karena-komputer/
 categories:
   - Komputer

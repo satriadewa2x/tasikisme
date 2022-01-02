@@ -4,14 +4,14 @@ title: Memulai Hidup dengan “Green Lifestyle”
 date: 2008-05-24T03:48:37+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=106
+guid: https://www.tasikisme.com/?p=106
 permalink: /memulai-hidup-dengan-green-lifestyle/
 categories:
   - Tips
 tags:
   - Tips
 ---
-Global Warming telah menjadi sebuah fenomena dalam kehidupan sekarang ini. Kita tidak bisa menutup mata bahwa bumi tercinta kita ini se dang terancam kelestariannya. Gempa Bumi di China atau badai di Myanmar, sebuah pertanda bahwa bumi kita ini memerlukan “sentuhan lembut” dan kepedulian kita untuk menjaga bumi ini tetap hijau, alami dan nyaman untuk disinggahi. Sehingga bencana-bencana alam tersebut di masa mendatang tidak akan terulang kembali.
+Global Warming telah menjadi sebuah fenomena dalam kehidupan sekarang ini. Kita tidak bisa menutup mata bahwa bumi tercinta kita ini sedang terancam kelestariannya. Gempa Bumi di China atau badai di Myanmar, sebuah pertanda bahwa bumi kita ini memerlukan “sentuhan lembut” dan kepedulian kita untuk menjaga bumi ini tetap hijau, alami dan nyaman untuk disinggahi. Sehingga bencana-bencana alam tersebut di masa mendatang tidak akan terulang kembali.
 
 Green Lifestyle adalah sebuah gaya hidup yang seharusnya sejak dulu telah kita terapkan dalam kehidupan kita sehari-hari. Dengan Green Lifestyle bukan berarti anda harus serba hijau, rumah dicat warna hijau, pakai baju hijau, rambut berwarna hijau, sepatu hijau atau tubuh kita mesti hijau (seperti Hulk atau Alien). Bukan. Bukan itu esensi dari Green Lifestyle.
 
@@ -26,7 +26,7 @@ maka bencana Global Warming pun akan menjadi-jadi. Karena itu hematlah pemakaian
 
 2. Manfaatkan Lampu Listrik secara bijak
 
-Lampu di kamar kita terus menyala, padahal kita se dang menonton tivi bersama keluarga di ruang keluarga. Nah… mulai dari sekarang, sebaiknya kita mulai memanfaatkan listrik secara bijak, bila kita tidak memerlukan penerangan tersebut, kenapa tidak kita matikan saja. Toh kita bisa dengan mudah menyalakannya kembali, disaat membutuhkan penerangan tersebut, iya kan?
+Lampu di kamar kita terus menyala, padahal kita sedang menonton tivi bersama keluarga di ruang keluarga. Nah… mulai dari sekarang, sebaiknya kita mulai memanfaatkan listrik secara bijak, bila kita tidak memerlukan penerangan tersebut, kenapa tidak kita matikan saja. Toh kita bisa dengan mudah menyalakannya kembali, disaat membutuhkan penerangan tersebut, iya kan?
 
 3. Green Lifestyle dengan Cucian Anda
 

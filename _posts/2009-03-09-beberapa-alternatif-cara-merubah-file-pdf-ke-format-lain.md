@@ -4,16 +4,14 @@ title: Beberapa Alternatif cara merubah file PDF ke Format lain
 date: 2009-03-09T11:44:20+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=274
+guid: https://www.tasikisme.com/?p=274
 permalink: /beberapa-alternatif-cara-merubah-file-pdf-ke-format-lain/
 categories:
   - Tips
 tags:
   - Tips
 ---
-<p style="text-align: justify;">
-  Kebanyakan dari kita mungkin telah tahu bagaimana merubah sebuah file ke bentuk file pdf, misal dari file microsoft word doc ke pdf, atau dari file microsoft excel xls ke bentuk pdf. Tapi bagaimana bila kita ingin melakukan hal yang sebaliknya, merubah file pdf ke format file lainnya, misalnya merubah atau mengconvert file word .doc ke .pdf? nah berikut ini adalah beberapa solusi bila anda ingin merubah atau mengconvert file menjadi bentuk pdf entah itu meng-convert pdf ke doc, atau pdf menjadi rtf atau bahkan merubah pdf menjadi txt.
-</p>
+Kebanyakan dari kita mungkin telah tahu bagaimana merubah sebuah file ke bentuk file pdf, misal dari file microsoft word doc ke pdf, atau dari file microsoft excel xls ke bentuk pdf. Tapi bagaimana bila kita ingin melakukan hal yang sebaliknya, merubah file pdf ke format file lainnya, misalnya merubah atau mengconvert file word .doc ke .pdf? nah berikut ini adalah beberapa solusi bila anda ingin merubah atau mengconvert file menjadi bentuk pdf entah itu meng-convert pdf ke doc, atau pdf menjadi rtf atau bahkan merubah pdf menjadi txt.
 
 Solusi Online
 

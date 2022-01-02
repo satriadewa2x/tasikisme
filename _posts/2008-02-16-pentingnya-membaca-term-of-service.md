@@ -4,7 +4,7 @@ title: Pentingnya Membaca Syarat dan Ketentuan
 date: 2008-02-16T13:35:59+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=13
+guid: https://www.tasikisme.com/?p=13
 permalink: /pentingnya-membaca-term-of-service/
 categories:
   - Tips
@@ -12,13 +12,10 @@ tags:
   - Internet
   - Tips
 ---
-<p style="text-align: justify;">
-  Beberapa minggu terakhir, salah satu teman kita sebut saja dia bernama Rini uring-uringan terus. Pasalnya,<br /> profile dia di salah satu komunitas online (Frindster) di suspended/ diblokir. Setiap kali dia membuka profile yang ada hanya tulisan “This user profile is unavailable”.
-</p>
+Beberapa minggu terakhir, salah satu teman kita sebut saja dia bernama Rini uring-uringan terus. Pasalnya,  
+profile dia di salah satu komunitas online (Frindster) di suspended/ diblokir. Setiap kali dia membuka profile yang ada hanya tulisan “This user profile is unavailable”.
 
-<p style="text-align: justify;">
-  Bagaimana Rini gak kesal, dia telah membuat profilenya itu selama dua tahun lebih, telah nge-Add friend sebanyak-banyaknya, Eh, tiba-tiba FS-nya di suspended, tanpa tahu alasan yang jelas.
-</p>
+Bagaimana Rini gak kesal, dia telah membuat profilenya itu selama dua tahun lebih, telah nge-Add friend sebanyak-banyaknya, Eh, tiba-tiba FS-nya di suspended, tanpa tahu alasan yang jelas.
 
 Yang terjadi kemudian, si Rini ini menyalahkan salah seorang temannya yang telah memblokir FS itu! Dengan alasan, si temannya itu emang pantas dituduh dan memiliki hubungan masa lalu yang kurang baik dengan si Rini ini.
 

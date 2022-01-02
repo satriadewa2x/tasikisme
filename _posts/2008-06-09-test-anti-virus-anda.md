@@ -4,7 +4,7 @@ title: Test Anti Virus Anda
 date: 2008-06-09T10:33:02+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=124
+guid: https://www.tasikisme.com/?p=124
 permalink: /test-anti-virus-anda/
 categories:
   - Komputer

@@ -4,7 +4,7 @@ title: Hemat Waktu Anda saat Mengetikkan www
 date: 2008-05-15T18:54:52+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=100
+guid: https://www.tasikisme.com/?p=100
 permalink: /hemat-waktu-anda-saat-mengetikkan-www/
 categories:
   - Internet

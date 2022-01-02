@@ -4,7 +4,7 @@ title: Wisata Belanja ke Rajapolah – Tasikmalaya
 date: 2008-04-16T16:12:11+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=69
+guid: https://www.tasikisme.com/?p=69
 permalink: /wisata-belanja-ke-rajapolah-tasikmalaya/
 categories:
   - Curhat

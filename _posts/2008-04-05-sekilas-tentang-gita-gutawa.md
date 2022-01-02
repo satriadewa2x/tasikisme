@@ -4,7 +4,7 @@ title: Sekilas tentang Gita Gutawa.
 date: 2008-04-05T12:29:51+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=60
+guid: https://www.tasikisme.com/?p=60
 permalink: /sekilas-tentang-gita-gutawa/
 categories:
   - Curhat

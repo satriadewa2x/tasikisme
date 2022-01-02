@@ -4,7 +4,7 @@ title: Tips Kunci Folder Rahasia di Laptop
 date: 2008-04-19T14:22:44+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=74
+guid: https://www.tasikisme.com/?p=74
 permalink: /kunci-folder-rahasia-anda/
 categories:
   - Komputer
@@ -19,7 +19,7 @@ tags:
 ---
 Anda pasti punya Folder Rahasia di computer anda yang berisi file-file penting dan dokumen-dokumen pribadi? Dan anda pasti tidak menginginkan bila ada orang lain yang membuka Folder Rahasia anda dan mencuri data-data pribadi anda kan?
 
-Nah Trik berikut ini akan menunjukkan kepada Anda bagaimana mengunci Folder Rahasia anda, hingga tidak bisa diakses atau dibuka oleh orang lain dan data anda dijamin aman. Untuk menggunakan trik ini anda tidak memerlukan software apapun, yang anda lakukan hanya me-rename folder anda.
+Nah Trik berikut ini akan menunjukkan kepada Anda bagaimana mengunci Folder Rahasia anda, hingga tidak bisa diakses atau dibuka oleh orang lain dan data anda dijamin aman. Untuk menggunakan trikini anda tidak memerlukan software apapun, yang anda lakukan hanya me-rename folder anda.
 
 Inilah langkah-langkahnya.
 

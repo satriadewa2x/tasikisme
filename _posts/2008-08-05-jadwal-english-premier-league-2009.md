@@ -4,7 +4,7 @@ title: Jadwal English Premier League 2009
 date: 2008-08-05T12:18:21+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=168
+guid: https://www.tasikisme.com/?p=168
 permalink: /jadwal-english-premier-league-2009/
 categories:
   - Olahraga

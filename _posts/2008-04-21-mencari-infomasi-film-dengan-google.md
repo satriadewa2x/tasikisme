@@ -4,7 +4,7 @@ title: Mencari Informasi Film dengan Google
 date: 2008-04-21T15:18:41+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=75
+guid: https://www.tasikisme.com/?p=75
 permalink: /mencari-infomasi-film-dengan-google/
 categories:
   - Internet
@@ -19,7 +19,7 @@ sampai kepada Trailer atau cuplikan film tersebut.
 Kalau anda bermaksud mencari ulasan tentang sebuah film gunakan paramater “movie”, misal anda ingin mencari informasi tentang film Spiderman 3 maka gunakan paramater berikut : **movie:spiderman 3** dengan pencarian seperti ini, maka anda akan mendapat informasi tentang film tersebut mulai dari release date, rating, sampai kepada review atau ulasan tentang film tersebut, baik ulasan yang positif maupun negatif.
 
 2. Informasi tentang Film Terbaru  
-Anda ingin tahu film-film terbaru yang sedang diputar saat ini? cukup anda pergi ke https://www.google.com/movies. setelah itu anda masukkan nama kota atau kode pos, untuk mengetahui film-film apa saja yang se dang di putar di kota tersebut. Coba anda masukkan kota “Hollywood” maka anda akan mendapat film-film yang se dang diputar saat ini di Hollywood, lengkap dengan jam, bioskop dan ratingnya. Sayangnya untuk kota-kota di Indonesia, informasi tersebut masih m inim atau malah nggak ada sama sekali.
+Anda ingin tahu film-film terbaru yang sedang diputar saat ini? cukup anda pergi ke https://www.google.com/movies. setelah itu anda masukkan nama kota atau kode pos, untuk mengetahui film-film apa saja yang sedang di putar di kota tersebut. Coba anda masukkan kota “Hollywood” maka anda akan mendapat film-film yang sedang diputar saat ini di Hollywood, lengkap dengan jam, bioskop dan ratingnya. Sayangnya untuk kota-kota di Indonesia, informasi tersebut masih m inim atau malah nggak ada sama sekali.
 
 3. Movie Detail  
 Misal anda ingin menonton film action, tapi anda bingung film action mana yang layak untuk anda tonton? Tidak usah bingung, anda tinggal cari saja di Google, ulasan-ulasan film action tersebut, carinya tinggal anda ketik :  

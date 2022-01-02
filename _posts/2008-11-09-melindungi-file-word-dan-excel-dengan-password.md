@@ -4,7 +4,7 @@ title: Melindungi File Word dan Excel Dengan Password
 date: 2008-11-09T02:25:50+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=197
+guid: https://www.tasikisme.com/?p=197
 permalink: /melindungi-file-word-dan-excel-dengan-password/
 categories:
   - Komputer

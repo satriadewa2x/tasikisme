@@ -4,16 +4,14 @@ title: Punya Teman Ribuan di Facebook Tapi Kenapa Masih Mencari Teman Yang Mau M
 date: 2011-10-02T05:37:27+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=508
+guid: https://www.tasikisme.com/?p=508
 permalink: /punya-teman-ribuan-di-facebook-tapi-kenapa-masih-mencari-teman-yang-mau-mengerti-dan-mau-diajak-curhat-aneh-banget/
 categories:
   - Facebook
 tags:
   - Facebook
 ---
-<p style="text-align: justify;">
-  Lihatlah di daftar teman Facebook, disana tertulis 4897 Friends, itu artinya kita memiliki teman ribuan. Tapi kenapa saat kita menulis status, hanya ada 12 orang yang Suka dan 2 orang yang memberikan komentar itupun komentarnya tidak nyambung alias asal koment aja. Lalu kemana teman-teman lainnya yang berjumlah 4 ribu lebih itu?
-</p>
+Lihatlah di daftar teman Facebook, disana tertulis 4897 Friends, itu artinya kita memiliki teman ribuan. Tapi kenapa saat kita menulis status, hanya ada 12 orang yang Suka dan 2 orang yang memberikan komentar itupun komentarnya tidak nyambung alias asal koment aja. Lalu kemana teman-teman lainnya yang berjumlah 4 ribu lebih itu?
 
 Lihat lagi di Facebook kita, disitu tertulis 4897 Friends dari jumlah tersebut ternyata hanya 100 orang yang online, dari 100 orang yang online tersebut, hanya 9 orang yang benar-benar kita kenal itupun saat diajak chat oleh kita, balasnya ogah-ogahan alias biasa-biasa aja. Jadi apa artinya teman yang berjumlah 4897  orang, jika ternyata kita masih merasakan kesepian saat membuka Facebook, kita masih selalu mencari teman yang benar-benar bisa diajak curhat dan kita masih tetap mencari seseorang yang mau mengerti dengan apa yang kita alami dan kita lalui?
 

@@ -4,7 +4,7 @@ title: Tips Sukses Menghadapi Wawancara
 date: 2008-04-28T18:08:59+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=83
+guid: https://www.tasikisme.com/?p=83
 permalink: /sukses-dengan-wawancara-anda/
 categories:
   - Curhat

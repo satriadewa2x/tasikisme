@@ -4,7 +4,7 @@ title: Tips Menghemat Baterai Blackberry Torch 9800
 date: 2011-07-27T11:25:28+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=491
+guid: https://www.tasikisme.com/?p=491
 permalink: /tips-menghemat-baterai-blackberry-torch-9800/
 categories:
   - Blackberry
@@ -12,9 +12,7 @@ categories:
 tags:
   - Blackberry
 ---
-<p style="text-align: justify;">
-  Blackberry Torch hadir dengan layar sentuh dan layar yang lebih besar dibandingkan dengan Blackberry Bold atau Blackberry Curve lainnya. Karena itulah, dari segi konsumsi baterai, Blackberry Torch dirasa lebih cepat habis dibandingkan dengan Blackberry lainnya.
-</p>
+Blackberry Torch hadir dengan layar sentuh dan layar yang lebih besar dibandingkan dengan Blackberry Bold atau Blackberry Curve lainnya. Karena itulah, dari segi konsumsi baterai, Blackberry Torch dirasa lebih cepat habis dibandingkan dengan Blackberry lainnya.
 
 Jika Anda pengguna Blackberry Torch 9800 dan merasakan bahwa baterai Blackberry Torch Anda sangat boros baterai, berikut adalah tips singkat yang bisa dipakai untuk menghemat baterai Blackberry Torch 9800
 

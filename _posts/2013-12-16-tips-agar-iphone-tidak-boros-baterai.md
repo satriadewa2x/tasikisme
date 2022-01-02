@@ -15,30 +15,24 @@ tags:
   - Tips
   - Trick
 ---
-<p style="text-align: justify;">
-  iPhone Anda boros baterai? Ketika masih menggunakan iOS6, iPhone bekerja dengan normal tapi setelah iPhone di update ke iOS7 masalah seringkali muncul, yakni baterai jadi boros dan tentunya iPhone jadi lambat. Nah, tips berikut ini adalah cara menghemat baterai iPhone atau iPad dikutip dari sumber aslinya yakni blog belladyna.com
-</p>
+iPhone Anda boros baterai? Ketika masih menggunakan iOS6, iPhone bekerja dengan normal tapi setelah iPhone di update ke iOS7 masalah seringkali muncul, yakni baterai jadi boros dan tentunya iPhone jadi lambat. Nah, tips berikut ini adalah cara menghemat baterai iPhone atau iPad dikutip dari sumber aslinya yakni blog belladyna.com
 
-<p style="text-align: justify;">
-  Disable Background App Refresh – Fitur baru di iOS7 memang sangat berguna sekali, dimana kita bisa hemat baterai iPhone dengan mendisable Background App Refresh
-</p>
+Disable Background App Refresh – Fitur baru di iOS7 memang sangat berguna sekali, dimana kita bisa hemat baterai iPhone dengan mendisable Background App Refresh
 
 <div class="separator" style="clear: both; text-align: center;">
   <img loading="lazy" style="border: 0px none;" src="https://1.bp.blogspot.com/-Kouu-wL0T_s/UqZ9yzGHQsI/AAAAAAAACY4/TsRPsPGDUyo/s1600/mempercepat_iphone_ipad_1.jpg" alt="mempercepat iPhone" width="520" height="694" border="0" />
 </div>
 
-<div style="text-align: justify;">
+<div >
 </div>
 
-<p style="text-align: justify;">
-  Disable iCloud – Sederhana namun punya dampak besar. iCloud memang sangat berguna untuk menyimpan dokumen, foto, atau video secara online di server milik Apple. Namun, bagi Anda yang tidak pernah menggunakan fitur iCloud, sebaiknya disable aja iCloud.<!--more-->
-</p>
+Disable iCloud – Sederhana namun punya dampak besar. iCloud memang sangat berguna untuk menyimpan dokumen, foto, atau video secara online di server milik Apple. Namun, bagi Anda yang tidak pernah menggunakan fitur iCloud, sebaiknya disable aja iCloud.
 
 <div class="separator" style="clear: both; text-align: center;">
   <img loading="lazy" style="border: 0px none;" src="https://1.bp.blogspot.com/-l2UzaSTst7Y/UqZ9zPKbOoI/AAAAAAAACYo/cO5sPBqTA0k/s1600/mempercepat_iphone_ipad.jpg" alt="mempercepat ipad jadul" width="520" height="694" border="0" />
 </div>
 
-<div style="text-align: justify;">
+<div >
   <p>
     Disable Location Services – Bagi Anda yang tidak pernah pergi jauh atau hanya standby terus di rumah, ada baiknya disable aja Location Services sehingga iPhone tidak terus menerus mengaktifkan GPS untuk mengupdate lokasi terkini.
   </p>
@@ -55,7 +49,7 @@ tags:
     <img loading="lazy" style="border: 0px none;" src="https://4.bp.blogspot.com/-4BNHGad0kIw/UqZ9y3hPCOI/AAAAAAAACYw/UkTUQENQb_E/s1600/mempercepat_iphone_ipad_.jpg" alt="tips mempercepat iPad jadul" width="520" height="694" border="0" />
   </div>
   
-  <div style="text-align: justify;">
+  <div >
   </div>
   
   <p>

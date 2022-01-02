@@ -4,7 +4,7 @@ title: 'Tips Facebook : Tidak Bisa Menulis di Wall atau Comment di Facebook?'
 date: 2009-09-03T10:36:41+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=343
+guid: https://www.tasikisme.com/?p=343
 permalink: /tips-facebook-tidak-bisa-menulis-di-wall-atau-comment-di-facebook/
 categories:
   - Facebook
@@ -12,9 +12,7 @@ tags:
   - Facebook
   - Tips
 ---
-<p style="text-align: justify;">
-  Yang membuat kita betah dan asyik menggunakan facebook salah satunya adalah adanya fitur wall, dimana kita bisa menuliskan isi hati kita  atau sekedar berkomentar ringan di wall orang lain ataupun sebaliknya, namun bagaimana bila tiba-tiba kita tidak bisa menulis di wall orang lain dan orang lain pun tidak bisa menulis di wall kita?
-</p>
+Yang membuat kita betah dan asyik menggunakan facebook salah satunya adalah adanya fitur wall, dimana kita bisa menuliskan isi hati kita  atau sekedar berkomentar ringan di wall orang lain ataupun sebaliknya, namun bagaimana bila tiba-tiba kita tidak bisa menulis di wall orang lain dan orang lain pun tidak bisa menulis di wall kita?
 
 BIla orang lain tidak bisa menulis di wall kita, yang pertama harus kita cek adalah Privacy Setting dari Profile kita, siapa tahu secara tidak sengaja kita telah men-Turn Off fungsi wall di profile kita sehingga membuat orang tidak bisa menulis comment di wall. Caranya  akses menu Setting terus masuk Privacy Setting dan klik Profile, setelah itu cari Wall Post, pastikan anda memberikan ceklist pada &#8220;Friends may post to my Wall&#8221; dan tentukan siapa saja yang bisa menulis di Wall anda.
 

@@ -4,7 +4,7 @@ title: 3 Hal Penting yang Harus Segera Ditemukan
 date: 2008-04-13T16:54:01+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=66
+guid: https://www.tasikisme.com/?p=66
 permalink: /3-hal-penting-yang-harus-segera-ditemukan/
 categories:
   - Curhat

@@ -4,7 +4,7 @@ title: Apakah Emoticons dan Smileys itu?
 date: 2010-01-02T13:47:20+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=370
+guid: https://www.tasikisme.com/?p=370
 permalink: /apakah-emoticons-dan-smileys-itu/
 categories:
   - Internet
@@ -13,15 +13,13 @@ tags:
   - Internet
 ---
 <div>
-  <p style="text-align: justify;">
-    Kalau anda sering YM-an atau chatting di Facebook atau menggunakan BBM di Blackberry mungkin sudah tidak asing lagi dengan Emoticons atau Smileys. Ada banyak puluhan atau bahkan ratusan emoticons yang bisa dibuat secara kreatif, dan tentunya mudah dipahami oleh si penerima pesan. Lalu apakah sebenarnya emoticons atau smiley itu?
-  </p>
+  Kalau anda sering YM-an atau chatting di Facebook atau menggunakan BBM di Blackberry mungkin sudah tidak asing lagi dengan Emoticons atau Smileys. Ada banyak puluhan atau bahkan ratusan emoticons yang bisa dibuat secara kreatif, dan tentunya mudah dipahami oleh si penerima pesan. Lalu apakah sebenarnya emoticons atau smiley itu?</p> 
   
-  <p style="text-align: justify;">
+  <p>
     Emoticons adalah “emotional icons”, juga dikenal sebagai smileys, sering digunakan terutama dalam percakapan informal alias tidak resmi. Emoticons akan menambah ekspresi ataupun bahasa tubuh terhadap apa yang kita tulis, sehingga percakapan akan terasa lebih hangat, tidak terlalu serius dan memberikan kesan akrab.
   </p>
   
-  <p style="text-align: justify;">
+  <p>
     Untuk menggunakan emoticons atau smileys sangat mudah sekali, cukup kita mengetikkan beberapa karater di keyaboard dan secara umum untuk mengartikan emoticons tersebut adalah dengan cara melihatnya (view) dari samping.
   </p>
   

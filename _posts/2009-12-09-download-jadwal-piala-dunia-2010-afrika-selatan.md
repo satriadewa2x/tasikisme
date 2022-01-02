@@ -4,7 +4,7 @@ title: Download Jadwal Piala Dunia 2010 – Afrika Selatan
 date: 2009-12-09T03:26:09+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=363
+guid: https://www.tasikisme.com/?p=363
 permalink: /download-jadwal-piala-dunia-2010-afrika-selatan/
 categories:
   - Olahraga
@@ -12,31 +12,25 @@ tags:
   - Olahraga
 ---
 <div>
-  <p align="justify">
-    Perhelatan Piala Dunia sudah diambang mata, siapakah yang bakal jadi jawara dan meraih tropi bergensi Piala Dunia 2010 di Afrika Selatan kali ini? Apakah sang juara bertahan Italia ataukah Inggris dengan skuad mu danya? Ataukah juga Belanda? Atau malah akan ada kejutan di Piala Dunia 2010 kali ini?
-  </p>
+  Perhelatan Piala Dunia sudah diambang mata, siapakah yang bakal jadi jawara dan meraih tropi bergensi Piala Dunia 2010 di Afrika Selatan kali ini? Apakah sang juara bertahan Italia ataukah Inggris dengan skuad mu danya? Ataukah juga Belanda? Atau malah akan ada kejutan di Piala Dunia 2010 kali ini?</p> 
   
-  <p align="justify">
+  <p>
     Jangan lupa baca <strong>Cara Nonton Piala Dunia 2010 Online Lewat Internet</strong>, sehingga meskipun anda se dang asyik internetan, Anda tidak akan ketinggalan satu Gol pun dan bisa melihat aksi Cristiano Ronaldo, Messi maupun Ronney secara live via Internet.
   </p>
   
-  <p align="justify">
+  <p>
     Spanyol dan Brazil tampaknya masih menjadi favorit untuk jadi Kampiun World Cup 2010, tapi tentunya juga mereka harus hati-hati terhadap Jerman. Se dangkan Argentina di babak group tampaknya tidak perlu khawatir terhadap Nigeria meskipun mungkin saja terjadi kejutan disana. Inggris di Group C hanya hanya akan dapat saingan berat dari USA, berbeda dengan Perancis di Group A, Meksiko dan Uruguay yang bakal jadi lawannya patut diperhitungkan. Untuk Italia dan Paraguay diprediksi bakal mudah lolos dari penyisihan Group F.
   </p>
   
   <p>
-    <!--more-->
-  </p>
-  
-  <p align="justify">
     Lalu dimanakah Indonesia? Untuk World Cup 2010, Indonesia masih setia jadi penonton, tapi tentunya kita pantas juga berharap semoga di 2014 atau 2018 nanti Indonesia bakal ikut meramaikan Pentas World Cup, apalagi k ini Indonesia memiliki talenta-talenta berbakat semisal Samsir Alam atau Alan Martha yang siap menjadi Cristiano Ronaldo-nya Indonesia. Semoga.
   </p>
   
-  <p align="justify">
+  <p>
     Berikut ini adalah Jadwal Lengkap Piala Dunia Afrika Selatan 2010, dengan sebuah catatan jadwal sewaktu-waktu bisa mengalami perubahan tanpa pemberitahuan terlebih dahulu.
   </p>
   
-  <p align="justify">
+  <p>
     <strong>Download Jadwal Piala Dunia 2010 dalam bentuk Dokumen .doc atau Word Document </strong>
   </p>
   
@@ -1304,7 +1298,7 @@ tags:
     Bersambung!
   </p>
   
-  <p align="justify">
+  <p>
     Untuk mendapatkan info terbaru seputar Piala Dunia 2010, maupun Info Lengkap World Cup 2010 lainnya dari Tasikisme.com jangan lupa masukan emai anda di bawah ini dan klik subscribe atau jadilah Fans Tasikisme di Facebook dimana anda bisa berdiskusi maupun bertanya seputar apa saja!
   </p></p>
 </div>

@@ -4,7 +4,7 @@ title: Perbedaan iPhone 3GS dan iPhone 3G Biasa
 date: 2009-06-25T10:46:17+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=324
+guid: https://www.tasikisme.com/?p=324
 permalink: /perbedaan-iphone-3gs-dan-iphone-3g-biasa/
 categories:
   - Apple
@@ -14,9 +14,7 @@ tags:
   - Apple
   - iPhone
 ---
-<p style="text-align: justify;">
-  Baru-baru ini Apple meluncurkan iPhone generasi ketiga, yakni iPhone 3GS yang mempergunakan firmware iPhone terbaru yakni iPhone 3.0. Kalau anda berniat membeli sebuah iPhone dan masih bingung menentukan antara iPhone 3GS atau iPhone 3G biasa, berikut ini beberapa perbedaan signifikan antara iPhone 3GS dengan iPhone 3G biasa.
-</p>
+Baru-baru ini Apple meluncurkan iPhone generasi ketiga, yakni iPhone 3GS yang mempergunakan firmware iPhone terbaru yakni iPhone 3.0. Kalau anda berniat membeli sebuah iPhone dan masih bingung menentukan antara iPhone 3GS atau iPhone 3G biasa, berikut ini beberapa perbedaan signifikan antara iPhone 3GS dengan iPhone 3G biasa.
 
 Perbedaan utama secara fisik adalah iPhone 3GS terbaru mempunyai kamera 3 Megapixel yang dilengkapi dengan fitur Autofocus dan Video Recording sedangkan iPhone 3G biasa hanya 2 Megapixel. Memori internalpun mengalami peningkatan dimana iPhone 3GS hadir dengan pilihan 16/32GB.
 

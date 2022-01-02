@@ -4,7 +4,7 @@ title: Dapatkan Jawaban Langsung dari Google
 date: 2008-05-19T16:06:12+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=103
+guid: https://www.tasikisme.com/?p=103
 permalink: /dapatkan-jawaban-langsung-dari-google/
 categories:
   - Internet

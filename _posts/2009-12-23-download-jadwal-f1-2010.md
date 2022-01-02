@@ -4,22 +4,16 @@ title: Download Jadwal F1 2010
 date: 2009-12-23T04:51:06+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=367
+guid: https://www.tasikisme.com/?p=367
 permalink: /download-jadwal-f1-2010/
 categories:
   - Olahraga
 ---
-<p align="justify">
-  Jangan lupa untuk musim 2011, silahkan lihat <strong>Jadwal F1 Tahun 2011</strong>
-</p>
+Jangan lupa untuk musim 2011, silahkan lihat **Jadwal F1 Tahun 2011**
 
-<p align="justify">
-  Tahun lalu Janson Button sukses menghantar tim rookie Brawn-GP Mercedes menjadi juara untuk konstruktor maupun Janson Button sendiri sebagai Pembalap Terbaik F1 2009. Tahun 2010, persaingan tampaknya akan semakin sengit apalagi Brawn-GP k ini telah sepenuhnya berganti nama menjadi Mercedes GP dan diperkuat oleh the rain man Michael Schumacher serta Janson Button telah berpindah ke McLaren satu tim dengan Juara Musim sebelumnya Lewis Hamilton. Akankah ada kejutan besar di Formula 1 Musim 2010 nanti seperti halnya terjadi tahun lalu. Bagaimana persaingan memperebutkan Juara Dunia F1 2010 nanti, bisakah Sebastian Vettel mengalahkan Janson Button atau Lewis Hamilton di Tahun 2010 nanti.
-</p>
+Tahun lalu Janson Button sukses menghantar tim rookie Brawn-GP Mercedes menjadi juara untuk konstruktor maupun Janson Button sendiri sebagai Pembalap Terbaik F1 2009. Tahun 2010, persaingan tampaknya akan semakin sengit apalagi Brawn-GP k ini telah sepenuhnya berganti nama menjadi Mercedes GP dan diperkuat oleh the rain man Michael Schumacher serta Janson Button telah berpindah ke McLaren satu tim dengan Juara Musim sebelumnya Lewis Hamilton. Akankah ada kejutan besar di Formula 1 Musim 2010 nanti seperti halnya terjadi tahun lalu. Bagaimana persaingan memperebutkan Juara Dunia F1 2010 nanti, bisakah Sebastian Vettel mengalahkan Janson Button atau Lewis Hamilton di Tahun 2010 nanti.
 
-<p align="justify">
-  Yang pasti, berikut ini adalah <strong>Jadwal Formula 1 2010</strong>, dengan sebuah catatan tentunya bahwa jadwal ini bisa berubah tanpa pemberitahuan terlebih dahulu. Jadi kalau ingin tahu bagaimana serunya persaingan tahun depan, jangan lupa untuk menyaksikan setiap Seri dari Formula 1 Tahun 2010 nanti.
-</p>
+Yang pasti, berikut ini adalah **Jadwal Formula 1 2010**, dengan sebuah catatan tentunya bahwa jadwal ini bisa berubah tanpa pemberitahuan terlebih dahulu. Jadi kalau ingin tahu bagaimana serunya persaingan tahun depan, jangan lupa untuk menyaksikan setiap Seri dari Formula 1 Tahun 2010 nanti.
 
 <table border="0">
   <tr>
@@ -47,6 +41,4 @@ categories:
   </tr>
 </table>
 
-<p align="justify">
-  Untuk selalu uptodate dengan info seputar F1 maupun info-info menarik lainnya dari Tasikisme dot com jangan lupa untuk memasukan email anda di bawah ini dan klik subscribe atau jadilah Fans Tasikisme di Facebook.
-</p>
+Untuk selalu uptodate dengan info seputar F1 maupun info-info menarik lainnya dari Tasikisme dot com jangan lupa untuk memasukan email anda di bawah ini dan klik subscribe atau jadilah Fans Tasikisme di Facebook.

@@ -4,7 +4,7 @@ title: Movies Yang Paling Banyak Didownlod di Internet
 date: 2008-12-14T04:36:19+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=212
+guid: https://www.tasikisme.com/?p=212
 permalink: /movies-yang-paling-banyak-didownlod-di-internet/
 categories:
   - Informasi
@@ -21,8 +21,6 @@ Sudah bisa ditebak, Film Batman : The Dark Knight menjadi film paling banyak did
 Sehingga tak mengherankan bila film ini telah didownload sebanyak lebih 7 juta kali.
 
 Selengkapnya inilah 10 besar dari film yang banyak di download pada tahun 2008 ini.
-
-<!--more-->
 
 <table border="0">
   <tr>

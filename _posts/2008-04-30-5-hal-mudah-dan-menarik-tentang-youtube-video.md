@@ -4,7 +4,7 @@ title: '5 Hal Mudah dan  Menarik tentang YouTube Video'
 date: 2008-04-30T16:25:38+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=84
+guid: https://www.tasikisme.com/?p=84
 permalink: /5-hal-mudah-dan-menarik-tentang-youtube-video/
 categories:
   - Internet

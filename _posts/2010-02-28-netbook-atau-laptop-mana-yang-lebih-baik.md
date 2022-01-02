@@ -4,16 +4,14 @@ title: Netbook atau Laptop, mana yang lebih baik?
 date: 2010-02-28T03:32:11+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=378
+guid: https://www.tasikisme.com/?p=378
 permalink: /netbook-atau-laptop-mana-yang-lebih-baik/
 categories:
   - Laptop
 tags:
   - Laptop
 ---
-<p style="text-align: justify;">
-  Netbook merupakan sebuah Laptop yang didesain khusus untuk kegiatan surfing internet, netbook tampil mini, mungil dan tentunya ringan untuk dijinjing. Dengan berat yang tidak lebih dari 1.5 Kg (rata-rata 1Kg), maka Netbook sangat cocok bagi anda yang sering bepergian, selain itu daya tahan baterai dari Netbook rata-rata mencapai 4-8 jam untuk sekali charge, jadi kemanapun anda pergi tak perlu khawatir kehabisan baterai (lowbet).
-</p>
+Netbook merupakan sebuah Laptop yang didesain khusus untuk kegiatan surfing internet, netbook tampil mini, mungil dan tentunya ringan untuk dijinjing. Dengan berat yang tidak lebih dari 1.5 Kg (rata-rata 1Kg), maka Netbook sangat cocok bagi anda yang sering bepergian, selain itu daya tahan baterai dari Netbook rata-rata mencapai 4-8 jam untuk sekali charge, jadi kemanapun anda pergi tak perlu khawatir kehabisan baterai (lowbet).
 
 Netbook sangat cocok bagi anda yang membutuhkan sebuah Laptop hanya untuk kegiatan internetan, memberikan presentasi,  ataupun membuat laporan. Dengan spesifikasi standar Netbook seperti prosesor 1.66Ghz, memori RAM 1GB dan Hardisk 160/250GB, netbook benar-benar dibuat untuk kebutuhan standar berkomputer, jadi performanya pun boleh boleh dibilang pas-pasan.
 

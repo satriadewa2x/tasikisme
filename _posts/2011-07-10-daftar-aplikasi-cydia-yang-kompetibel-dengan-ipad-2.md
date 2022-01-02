@@ -4,7 +4,7 @@ title: Daftar Aplikasi Cydia yang Kompetibel dengan iPad 2
 date: 2011-07-10T02:18:38+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=485
+guid: https://www.tasikisme.com/?p=485
 permalink: /daftar-aplikasi-cydia-yang-kompetibel-dengan-ipad-2/
 categories:
   - Apple
@@ -12,9 +12,7 @@ categories:
 tags:
   - Apple
 ---
-<p style="text-align: justify;">
-  iPad 2 merupakan generasi kedua dari Apple Tablet, yang hadir dengan berbagai kelebihan dan fitur yang lebih baik dari iPad sebelumnya, seperti prosesor dual core A5, layar 9.7 inch, dilengkapi 2 buah kamera yaitu kamera depan 0.7 Megapixel dan Kamera Depan beresolusi VGA yang bisa digunakan untuk FaceTime atau Video Call di iPad, hadir lebih tipis dibandingkan iPad sebelumnya yakni hanya 8.8 mm dan lebih ringan karena beratnya hanya 601gr.
-</p>
+iPad 2 merupakan generasi kedua dari Apple Tablet, yang hadir dengan berbagai kelebihan dan fitur yang lebih baik dari iPad sebelumnya, seperti prosesor dual core A5, layar 9.7 inch, dilengkapi 2 buah kamera yaitu kamera depan 0.7 Megapixel dan Kamera Depan beresolusi VGA yang bisa digunakan untuk FaceTime atau Video Call di iPad, hadir lebih tipis dibandingkan iPad sebelumnya yakni hanya 8.8 mm dan lebih ringan karena beratnya hanya 601gr.
 
 Nah, jika Anda pengguna iPad 2 dan sudah menjailbreak iPad 2 milik Anda tersebut, berikut ini daftar Aplikasi Cydia yang bisa diinstal di iPad alias kompetibel dengan iPad 2.
 

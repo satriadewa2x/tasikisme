@@ -4,7 +4,7 @@ title: Cara Membuat Blog di WordPress dan Blogspot
 date: 2010-03-19T10:48:53+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=383
+guid: https://www.tasikisme.com/?p=383
 permalink: /cara-membuat-blog-di-worpdress-dan-blogspot/
 categories:
   - Internet

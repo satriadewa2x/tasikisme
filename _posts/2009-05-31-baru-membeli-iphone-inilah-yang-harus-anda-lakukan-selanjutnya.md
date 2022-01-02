@@ -4,7 +4,7 @@ title: Baru Membeli iPhone? Inilah yang Harus Anda Lakukan Selanjutnya.
 date: 2009-05-31T09:08:20+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=317
+guid: https://www.tasikisme.com/?p=317
 permalink: /baru-membeli-iphone-inilah-yang-harus-anda-lakukan-selanjutnya/
 categories:
   - Apple

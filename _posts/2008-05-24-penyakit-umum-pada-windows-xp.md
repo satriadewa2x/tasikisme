@@ -4,7 +4,7 @@ title: Penyakit Umum pada Windows XP
 date: 2008-05-24T12:09:58+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=107
+guid: https://www.tasikisme.com/?p=107
 permalink: /penyakit-umum-pada-windows-xp/
 categories:
   - Tips

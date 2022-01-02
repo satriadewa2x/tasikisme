@@ -4,16 +4,14 @@ title: 'Trik Facebook : Cara Sederhana Menghapus Akun Facebook'
 date: 2009-07-10T12:06:14+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=328
+guid: https://www.tasikisme.com/?p=328
 permalink: /trik-facebook-cara-sederhana-menghapus-akun-facebook/
 categories:
   - Facebook
 tags:
   - Facebook
 ---
-<p style="text-align: justify;">
-  Anda mungkin telah lama punya Akun Facebook dan pada awalnya mungkin anda merasakan bahwa facebook sangat membantu dan banyak hal-hal lucu, indah terjadi selama anda berfacebook ria. Tapi, ibarat seseorang yang berpacaran, setelah 2 tahun lebih akhirnya anda merasa bosan dan benci sama yang namanya Facebook, karena ternyata Facebook membuat anda jadi pemalas, atau Facebook malah jadi menjerumuskan anda ke jurang perselingkuhan (ceritanya sih, anda ketemu kembali soulmate waktu SMA dulu, dan akhirnya terjadi CLBK alias Cinta Lama Bersemi Kembali padahal anda telah punya pacar atau bahkan telah berkeluarga).
-</p>
+Anda mungkin telah lama punya Akun Facebook dan pada awalnya mungkin anda merasakan bahwa facebook sangat membantu dan banyak hal-hal lucu, indah terjadi selama anda berfacebook ria. Tapi, ibarat seseorang yang berpacaran, setelah 2 tahun lebih akhirnya anda merasa bosan dan benci sama yang namanya Facebook, karena ternyata Facebook membuat anda jadi pemalas, atau Facebook malah jadi menjerumuskan anda ke jurang perselingkuhan (ceritanya sih, anda ketemu kembali soulmate waktu SMA dulu, dan akhirnya terjadi CLBK alias Cinta Lama Bersemi Kembali padahal anda telah punya pacar atau bahkan telah berkeluarga).
 
 Kasus lain mungkin sekarang anda telah sadar, kegiatan anda mencari teman di Facebook cuma berakhir di Friends List, dari daftar tersebut hanya 10% teman real selebihnya cuma teman khayalan yang tidak anda tahu kebenarannya. Jadinya, daripada anda menghabiskan waktu mencari teman khayalan alias unreal di Facebook, mending berinteraksi langsung dengan lingkungan sekitar (main, jalan-jalan ke mall, atau ke tempat-tempat bergaul lainnya) untuk mencari teman “real” yang memang bisa diajak curhat dan berkomunikasi langsung.
 

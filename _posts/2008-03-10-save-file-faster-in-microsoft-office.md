@@ -4,7 +4,7 @@ title: Simpan File ke Folder Khusus lebih Cepat di MS-Office
 date: 2008-03-10T16:23:25+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=39
+guid: https://www.tasikisme.com/?p=39
 permalink: /save-file-faster-in-microsoft-office/
 categories:
   - Komputer

@@ -4,7 +4,7 @@ title: Facebook Layout?
 date: 2009-02-21T15:23:08+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=264
+guid: https://www.tasikisme.com/?p=264
 permalink: /facebook-layout/
 categories:
   - Facebook

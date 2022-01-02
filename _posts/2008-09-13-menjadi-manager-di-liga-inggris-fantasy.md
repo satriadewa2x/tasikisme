@@ -4,7 +4,7 @@ title: Menjadi Manager di Liga Inggris Fantasy!
 date: 2008-09-13T22:24:32+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=181
+guid: https://www.tasikisme.com/?p=181
 permalink: /menjadi-manager-di-liga-inggris-fantasy/
 categories:
   - Olahraga
@@ -46,6 +46,6 @@ Disini anda hanya dibolehkan memilih 3 orang pemain dari sebuah klub Selain itu 
 
 Cuma sayangnya dis ini tidak disediakan hadiah jadi hanya cocok bagi anda yang hanya ingin sekedar fun dan menyalurkan hobi menjadi seorang manager!.
 
-Sebenarnya masih banyak web-web lain yang menyediakan Liga Inggris Fantasy anda bisa mencarinya di mesin pencari Google. Bahkan untuk yang lokal pun (Indonesia) k ini sudah ada yang menyelenggarakan Liga Inggris Fantasy.
+Sebenarnya masih banyak web-web lain yang menyediakan Liga Inggris Fantasy anda bisa mencarinya di mesin pencari Google. Bahkan untuk yang lokal pun (Indonesia) kini sudah ada yang menyelenggarakan Liga Inggris Fantasy.
 
 Tinggal anda pilih saja mana yang benar-benar cocok untuk anda mengingat “game” ini bakal berlangsung selama satu musim kompetisi penuh (kurang lebih 1 tahun) jadi anda siap-siap saja untuk sibuk setiap minggunya sebagaimana layaknya seorang manager sesungguhnya!

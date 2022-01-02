@@ -4,7 +4,7 @@ title: Tips Mengecek Keaslian Kartu Kredit
 date: 2009-02-09T17:08:03+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=254
+guid: https://www.tasikisme.com/?p=254
 permalink: /tips-mengecek-keaslian-kartu-kredit/
 categories:
   - Informasi

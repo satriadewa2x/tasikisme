@@ -4,7 +4,7 @@ title: Update Berita plus Gosip Artis dan Seleb di Twitter
 date: 2009-09-29T08:27:19+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=348
+guid: https://www.tasikisme.com/?p=348
 permalink: /berita-tentang-artis-dan-seleb-di-twitter/
 categories:
   - Internet
@@ -12,13 +12,9 @@ categories:
 tags:
   - Twitter
 ---
-<p style="text-align: justify;">
-  Kalau anda fans setia dari seleb ternama di dunia, saat ini ada berbagai macam cara untuk tetap uptodate dengan berita terbaru dan gosip terhangat dari selebritis yang anda kagumi. Anda bisa mendapatkan info terbaru tentang Britney Spears lewat acara gosip di Televisi, Berita di Internet dan mungkin yang lagi trends saat ini adalah update tentang seleb lewat Twitter!
-</p>
+Kalau anda fans setia dari seleb ternama di dunia, saat ini ada berbagai macam cara untuk tetap uptodate dengan berita terbaru dan gosip terhangat dari selebritis yang anda kagumi. Anda bisa mendapatkan info terbaru tentang Britney Spears lewat acara gosip di Televisi, Berita di Internet dan mungkin yang lagi trends saat ini adalah update tentang seleb lewat Twitter!
 
-<p style="text-align: justify;">
-  Dengan mempergunakan Twiitter, anda bisa mendapatkan update terbaru dari seleb yang anda kagumi langsung dari orangnya. Jadi anda bisa terus mengikuti apa kegiatan Britnery Spears, sedang dimana ia berada dan musik atau film yang sedang ia garap.
-</p>
+Dengan mempergunakan Twiitter, anda bisa mendapatkan update terbaru dari seleb yang anda kagumi langsung dari orangnya. Jadi anda bisa terus mengikuti apa kegiatan Britnery Spears, sedang dimana ia berada dan musik atau film yang sedang ia garap.
 
 Britnery Spears  
 Seleb cantik dan tenar yang satu ini mempergunakan Twitter sebagai ucapkan terima kasih kepada fans setianya dan tentunya biar para fans bisa terus update dengan kabar terbaru langsung dari dirinya. Tak jarang Britney Spears pun mengupload photo terbarunya. Anda bisa mengikuti Britnet Spears di Twitter dengan alamat https://twitter.com/britneyspears

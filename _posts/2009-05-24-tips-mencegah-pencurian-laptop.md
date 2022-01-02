@@ -4,14 +4,14 @@ title: Tips Mencegah Pencurian Laptop
 date: 2009-05-24T02:29:41+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=313
+guid: https://www.tasikisme.com/?p=313
 permalink: /tips-mencegah-pencurian-laptop/
 categories:
   - Laptop
 tags:
   - Laptop
 ---
-<div style="text-align: justify;">
+<div >
   <p>
     Keberadaan laptop atau netbook juga notebook memang sudah menjadi kebutuhan sehari-hari, apalagi bagi para pelajar, dengan laptop di tangan berarti kita bisa leluasa dan tentunya mudah dalam mengakses berita maupun mengerjakan tugas sehari-hari. Seiring dengan menjamurnya pengguna laptop, aksi pencurian laptop pun menjadi hal yang berkembang secara cepat di dunia kriminal.
   </p>
@@ -39,6 +39,6 @@ tags:
   <p>
     <strong>Instal Software Untuk Melacak Pencuri Laptop</strong><br />Instal lah software tracking seperti Adeona atau LocatePC yang akan sedikit membantu anda dalam melacak posisi Laptop bila suatu saat Laptop anda dicuri oleh pencuri. Cara Kerja software tracking seperti LocatePC/Adeona sangat sederhana, saat si pencuri mencuri laptop anda dan menggunakannya untuk internetan misal untuk mengirim email atau browsing, secara otomatis LocatePC/Adeona bakal mengirimkan informasi tentang IP Address dimana laptop anda terkoneksi, nama wireless network yang digunakan untuk koneksi internet (Hotspot Wifi) dan bahkan photo. Semua informasi tersebut akan secara otomatis dikirim ke email anda tanpa disadari oleh si pencuri. Software tracking ini hanya berfungsi dan berjalan, jika laptop anda terkoneksi ke internet dan tentunya si pencuri belum menginstal ulang laptop anda.</div> 
     
-    <div style="text-align: justify;">
+    <div >
       Untuk selalu uptodate dengan info-info seputar komputer, tips dan trick menarik lainnya jangan lupa untuk memasukkan email anda di bawah ini dan klik subscribe.
     </div>

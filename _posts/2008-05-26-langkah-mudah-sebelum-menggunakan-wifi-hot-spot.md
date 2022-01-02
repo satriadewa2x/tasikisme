@@ -4,7 +4,7 @@ title: Langkah Mudah Sebelum Menggunakan WIFI Hot Spot
 date: 2008-05-26T11:34:31+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=108
+guid: https://www.tasikisme.com/?p=108
 permalink: /langkah-mudah-sebelum-menggunakan-wifi-hot-spot/
 categories:
   - Komputer

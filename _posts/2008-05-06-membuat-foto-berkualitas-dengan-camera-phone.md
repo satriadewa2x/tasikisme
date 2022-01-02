@@ -4,7 +4,7 @@ title: Membuat Foto berkualitas dengan Camera Phone
 date: 2008-05-06T17:36:08+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=89
+guid: https://www.tasikisme.com/?p=89
 permalink: /membuat-foto-berkualitas-dengan-camera-phone/
 categories:
   - Tips

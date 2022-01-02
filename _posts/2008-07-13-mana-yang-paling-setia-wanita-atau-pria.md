@@ -4,7 +4,7 @@ title: Mana yang Paling Setia, Wanita atau Pria?
 date: 2008-07-13T04:32:26+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=157
+guid: https://www.tasikisme.com/?p=157
 permalink: /mana-yang-paling-setia-wanita-atau-pria/
 categories:
   - Cinta

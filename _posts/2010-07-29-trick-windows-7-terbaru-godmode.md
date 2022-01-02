@@ -4,16 +4,14 @@ title: 'Trick Windows 7 Terbaru: GodMode'
 date: 2010-07-29T11:46:31+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=412
+guid: https://www.tasikisme.com/?p=412
 permalink: /trick-windows-7-terbaru-godmode/
 categories:
   - Komputer
 tags:
   - Komputer
 ---
-<p style="text-align: justify;">
-  Saat mendengar GodMode, bagi kamu penggemar Game dan sering menggunakan cheat tentu sudah tak asing dengan istilah GodMode, dimana kita bisa memainkan karakter dalam game tersebut dengan bebas, tanpa bisa mati dan tidak terkalahkan. Nah di Windows 7 pun, ada istilah GodMode. Fitur ini memang sedikit tersembunyi dan butuh trik tertentu untuk bisa mendapatkan.
-</p>
+Saat mendengar GodMode, bagi kamu penggemar Game dan sering menggunakan cheat tentu sudah tak asing dengan istilah GodMode, dimana kita bisa memainkan karakter dalam game tersebut dengan bebas, tanpa bisa mati dan tidak terkalahkan. Nah di Windows 7 pun, ada istilah GodMode. Fitur ini memang sedikit tersembunyi dan butuh trik tertentu untuk bisa mendapatkan.
 
 Untuk mengakses GodMode, langkahnya sangat mudah cukup Anda buat sebuah folder, di dektop misalnya, kemudian rename folder dengan nama:
 

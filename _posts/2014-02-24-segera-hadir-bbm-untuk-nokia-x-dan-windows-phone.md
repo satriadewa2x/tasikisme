@@ -14,18 +14,10 @@ tags:
   - Android
   - BBM
 ---
-<p style="text-align: justify;">
-  Setelah hadir untuk Android dan iOS (iPhone, iPad, iPod Touch) kini giliran platform Windows Phone yang akan segera menikmati chatting BBM. Seperti dikutip dari Blog Blackberry, bahwa BBM untuk Windows Phone dan Nokia X akan segera dalam hitungan bulan ke depan.
-</p>
+Setelah hadir untuk Android dan iOS (iPhone, iPad, iPod Touch) kini giliran platform Windows Phone yang akan segera menikmati chatting BBM. Seperti dikutip dari Blog Blackberry, bahwa BBM untuk Windows Phone dan Nokia X akan segera dalam hitungan bulan ke depan.
 
-<p style="text-align: justify;">
-  Seperti kita ketahui bahwa Blackberry sudah berkomitmen untuk menghadirkan BBM di berbagai platform / OS, maka setelah pengguna Android dan iOS tiba giliran bagi pengguna Windows Phone untuk menikmati BBM.
-</p>
+Seperti kita ketahui bahwa Blackberry sudah berkomitmen untuk menghadirkan BBM di berbagai platform / OS, maka setelah pengguna Android dan iOS tiba giliran bagi pengguna Windows Phone untuk menikmati BBM.
 
-<p style="text-align: justify;">
-  ”<em>BBM terus tumbuh dalam popularitas, jutaan orang menggunakan platform mobile untuk chatting dan berhubungan dengan teman atau rekan kerja, dan kami sangat gembira bahwa kita akan segera menyambut Windows Phone dan pengguna Nokia X di komunitas BBM</em>&#8220;
-</p>
+”_BBM terus tumbuh dalam popularitas, jutaan orang menggunakan platform mobile untuk chatting dan berhubungan dengan teman atau rekan kerja, dan kami sangat gembira bahwa kita akan segera menyambut Windows Phone dan pengguna Nokia X di komunitas BBM_&#8220;
 
-<p style="text-align: justify;">
-  BBM akan tersedia dan bisa di  download gratis untuk pengguna Windows Phone musim panas ini.
-</p>
+BBM akan tersedia dan bisa di  download gratis untuk pengguna Windows Phone musim panas ini.

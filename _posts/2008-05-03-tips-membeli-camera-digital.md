@@ -4,14 +4,14 @@ title: Tips Membeli Camera Digital
 date: 2008-05-03T21:47:13+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=87
+guid: https://www.tasikisme.com/?p=87
 permalink: /tips-membeli-camera-digital/
 categories:
   - Tips
 tags:
   - Tips
 ---
-Anda senang berfoto ria? Kalau anda kaum wanita, pasti dech anda senang sekali sama yang namanya berpose dan berekspresi di depan camera, iya kan? Nah, bagi anda yang senang berfoto ria dan anda k ini se dang berencana ingin membeli sebuah camera digital, untuk menyalurkan hobi anda tersebut tentunya. Biar anda tidak bingung,  
+Anda senang berfoto ria? Kalau anda kaum wanita, pasti dech anda senang sekali sama yang namanya berpose dan berekspresi di depan camera, iya kan? Nah, bagi anda yang senang berfoto ria dan anda kini sedang berencana ingin membeli sebuah camera digital, untuk menyalurkan hobi anda tersebut tentunya. Biar anda tidak bingung,  
 sebaiknya anda tahu dulu feature standart apa yang harus ada dalam sebuah camera digital.
 
 Tips berikut khusus buat anda yang baru pertama kali berencana membeli sebuah camera digital, dan tentu tujuannya hanya sekedar menyalurkan hobi berfoto anda, meski tidak menutup kemungkinan dengan camera digital yang akan anda beli, anda pakai sebagai ajang latihan untuk menjadi seorang fotografer propesional, iya kan?
@@ -36,7 +36,7 @@ Camera digital jaman sekarang selain bisa dipakai untuk berfoto ria, juga harus 
 
 ### Media Penyimpanan
 
-SD/MMC Memory card dengan kapasitas 2 GB saat ini telah biasa digunakan, dan camera digital pun k ini telah banyak yang memakai memori sebesar 2 Gb. Namun demikian, sebaiknya anda membeli camera digital yang bisa mensupport memory yang lebih tinggi, misalnya support sampai 4 Gb, hingga ketika suatu saat anda membutuhkan ruang penyimpanan yang lebih besar, anda tidak akan menemui masalah.
+SD/MMC Memory card dengan kapasitas 2 GB saat ini telah biasa digunakan, dan camera digital pun kini telah banyak yang memakai memori sebesar 2 Gb. Namun demikian, sebaiknya anda membeli camera digital yang bisa mensupport memory yang lebih tinggi, misalnya support sampai 4 Gb, hingga ketika suatu saat anda membutuhkan ruang penyimpanan yang lebih besar, anda tidak akan menemui masalah.
 
 ### Baterai
 

@@ -4,7 +4,7 @@ title: Apa Arti Tanda Rating Pada Game
 date: 2008-12-29T17:13:46+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=220
+guid: https://www.tasikisme.com/?p=220
 permalink: /mengenal-arti-tanda-rating-pada-game/
 categories:
   - Informasi

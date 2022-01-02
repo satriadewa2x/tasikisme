@@ -4,7 +4,7 @@ title: Jujur saja Kita Memang Suka Sama Dangdut
 date: 2008-10-25T12:46:45+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=191
+guid: https://www.tasikisme.com/?p=191
 permalink: /jujur-saja-kita-memang-suka-sama-dangdut/
 categories:
   - Curhat

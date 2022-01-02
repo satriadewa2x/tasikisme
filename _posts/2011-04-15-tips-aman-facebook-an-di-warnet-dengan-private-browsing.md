@@ -4,16 +4,14 @@ title: Tips Aman Facebook-an di Warnet dengan Private Browsing!
 date: 2011-04-15T08:29:56+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=470
+guid: https://www.tasikisme.com/?p=470
 permalink: /tips-aman-facebook-an-di-warnet-dengan-private-browsing/
 categories:
   - Facebook
 tags:
   - Facebook
 ---
-<p style="text-align: justify;">
-  Kalau Anda sering Facebookan di Warnet, tentunya harus selalu ekstra hati-hati, terutama saat Anda akan meninggalkan warnet, jangan pernah lupa untuk Log Out atau Keluar dari Profil Facebook! Namun sebagai manusia ada kalanya kita lupa atau mungkin juga karena dikejar waktu, kita langsung menutup aja begitu saja jendela browser baik itu Opera, Firefox atau Chrome tanpa terlebih dahulu Log Out atau keluar dari Facebook!
-</p>
+Kalau Anda sering Facebookan di Warnet, tentunya harus selalu ekstra hati-hati, terutama saat Anda akan meninggalkan warnet, jangan pernah lupa untuk Log Out atau Keluar dari Profil Facebook! Namun sebagai manusia ada kalanya kita lupa atau mungkin juga karena dikejar waktu, kita langsung menutup aja begitu saja jendela browser baik itu Opera, Firefox atau Chrome tanpa terlebih dahulu Log Out atau keluar dari Facebook!
 
 Maka jangan mengherankan, bila kemudian ada orang yang mengganti tempat duduk Anda dan kemudian menggunakan browser yang sama, lalu membuka Facebook, yang muncul kemudian adalah profile Facebook yang belum sempat Anda Log Out! Disinilah kemudian timbul masalah, karena bisa jadi profile Facebook Anda akan diacak-acak atau bahkan dipergunakan tanpa izin untuk hal-hal yang tidak diinginkan.
 

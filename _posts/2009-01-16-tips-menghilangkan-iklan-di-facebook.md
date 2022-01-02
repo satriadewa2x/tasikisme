@@ -4,7 +4,7 @@ title: Tips Menghilangkan Iklan di Facebook
 date: 2009-01-16T13:31:43+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=233
+guid: https://www.tasikisme.com/?p=233
 permalink: /tips-menghilangkan-iklan-di-facebook/
 categories:
   - Facebook
@@ -22,22 +22,20 @@ Iklan-iklan yang ada di Facebook merupakan sumber pemasukan utama bagi Facebook 
 
 Tapi, jika anda merasa bahwa kehadiran dan keberadaan iklan-iklan tersebut sudah sangat mengganggu kenyamanan anda dalam ber-facebook ria, tidak ada jalan selain meremove atau menghilangkan iklan-iklan tersebut meskipun itu hanya dari komputer anda saja.
 
-<!--more-->
-
 Ada banyak Facebook Code yang bisa anda pakai untuk menghilangkan iklan-iklan Facebook, satu yang terbaik adalah Facebook Code “Remove All Facebook Ads” yang dibuat oleh Tidalwav.
 
-Cukup anda instal Remove All Facebook Ads, di komputer anda maka andapun akan terbebas dari iklan-iklan yang ada di Facebook dan k ini andapun bisa lebih cepat mengakses Facebook karena ketidakhadiran iklan-iklan tersebut.
+Cukup anda instal Remove All Facebook Ads, di komputer anda maka andapun akan terbebas dari iklan-iklan yang ada di Facebook dan kini andapun bisa lebih cepat mengakses Facebook karena ketidakhadiran iklan-iklan tersebut.
 
 Untuk memulai menginstal code Remove All Facebook Ads, silahkan arahkan browser anda ke Instal Remove All Facebook Ads, setelah itu anda klik tombol INSTAL seperti yang terlihat pada gambar di bawah ini.
 
 <div>
-  <img class="aligncenter" title="Script untuk Hapus Iklan di Facebook" src="https://wisatacinta.files.wordpress.com/2009/01/hapus_iklan.gif" alt="Hapus Iklan di Facebook" border="0" />
+  <img  title="Script untuk Hapus Iklan di Facebook" src="https://wisatacinta.files.wordpress.com/2009/01/hapus_iklan.gif" alt="Hapus Iklan di Facebook" border="0" />
 </div>
 
 Begitu anda mengklik tombol INSTAL akan ada Pop up Windows GreaseMonkey Instal;ation yang mengkonfirmasi tentang proses instalasi script, anda tinggal pilih saja Instal.
 
 <div>
-  <img class="aligncenter" title="Proses Instalasi Script di Greasemonkey " src="https://wisatacinta.files.wordpress.com/2009/01/greasemonkey_instal.gif" alt="Greasemonkey Installation Script" border="0" />
+  <img  title="Proses Instalasi Script di Greasemonkey " src="https://wisatacinta.files.wordpress.com/2009/01/greasemonkey_instal.gif" alt="Greasemonkey Installation Script" border="0" />
 </div>
 
 **Catatan** : Sebelum menginstal code Remove All Facebook Ads, jangan lupa pastikan di komputer anda telah terinstal Add-On GreaseMonkey dan penjelasan lengkap tentang GreaseMonkey bisa anda baca di [Mempercantik Facebook dengan Facebook Code](https://www.tasikisme.com/mempercantik-facebook-dengan-facebook-code "Mempercantik Facebook dengan Facebook Code").

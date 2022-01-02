@@ -4,7 +4,7 @@ title: Tips Dapet Duit dari Koleksi Foto
 date: 2009-01-25T17:19:30+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=240
+guid: https://www.tasikisme.com/?p=240
 permalink: /tips-dapet-duit-dari-koleksi-foto/
 categories:
   - Internet

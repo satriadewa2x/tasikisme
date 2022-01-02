@@ -4,7 +4,7 @@ title: Merubah Default Saving Office 2007 dari Docx menjadi Doc
 date: 2008-12-09T12:06:21+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=210
+guid: https://www.tasikisme.com/?p=210
 permalink: /merubah-default-saving-office-2007-dari-docx-menjadi-doc/
 categories:
   - Komputer

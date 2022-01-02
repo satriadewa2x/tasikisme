@@ -4,7 +4,7 @@ title: Bila Account Friendster Anda dicuri orang
 date: 2008-04-01T16:47:30+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=57
+guid: https://www.tasikisme.com/?p=57
 permalink: /bila-account-friendster-anda-dicuri-orang/
 categories:
   - Internet
@@ -29,7 +29,7 @@ Saat kali pertama Anda tahu account Friendster dicuri orang, rileks, ambil napas
 Saat hati anda sudah tenang, mulailah catat : alamat email dan passwordnya yang dipakai untuk Login ke Friendster, tanggal dan jam (kalo bisa sama menitnya) terakhir anda Login memakai alamat email dan password tersebut. Itu adalah dua hal penting yang akan kita pakai sebagai laporan ke pihak Friendster.
 
 Selain itu untuk melengkapi laporan Anda, ada baiknya anda tulis juga perubahan-perubahan yang terjadi pada Friendster anda sejak terakhir anda Login. Misal : saat terakhir Login nama di Friendster anda adalah Andina,  
-tapi k ini namanya berubah jadi Nisa, maka sebaiknya Anda hal-hal seperti ini anda catat juga.
+tapi kini namanya berubah jadi Nisa, maka sebaiknya Anda hal-hal seperti ini anda catat juga.
 
 Waktunya Anda lapor ke pihak Friendster dengan cara mengirim email ke: help[at]friendster[dot]com masukkan didalam email tersebut data-data yang anda buat pada tahap 2 diatas.
 
@@ -41,7 +41,7 @@ Catatan : kalau dalam jangka waktu 24 jam lebih anda tidak membalas email dari F
 Wait again… biasanya ini berlangsung agak lama, bisa sampai 24 jam lamanya. Setelah anda mereplay email dari Friendster tadi, tunggulah sampai pihak Friendster mereview laporan anda, meneliti, menyelidiki dan menganalisis laporan anda, biasanya ini bisa berlangsung lebih dari 24 jam, tapi dari pengalaman penulis biasanya dalam waktu 10 jam juga sudah ada balasan lagi dari Friendster.
 
 Kalau laporan anda diterima dan dinyatakan valid oleh pihak Friendster,Friendster akan mengirimkan email konfirmasi kepada Anda. Dan SELAMAT Friendster Anda untuk sementara waktu akan disuspended atau di banned,  
-jadi si pencuri tidak punya akses lagi ke Friendster alias k ini Friendster anda aman.
+jadi si pencuri tidak punya akses lagi ke Friendster alias kini Friendster anda aman.
 
 Untuk mengembalikan Friendster ke tangan Anda, yang harus Anda lakukan kemudian Anda mengirimkan lagi email kepada Friendster, disertai dengan data diri Anda, photo copy (scanned) Id Card Anda, berikut Photo Kamu. Ini semua WAJIB disertakan, sebagai tanda bahwa Anda adalah benar-benar pemilik account Friendster tersebut dan untuk menghindari claim dari orang lain di kemudian hari atas accoun tersebut.
 

@@ -4,7 +4,7 @@ title: iPhone 4 Kini Sudah Mulai Bisa Dipesan di Telkomsel
 date: 2010-11-23T02:01:42+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=442
+guid: https://www.tasikisme.com/?p=442
 permalink: /iphone-4-kini-sudah-mulai-bisa-dipesan-di-telkomsel/
 categories:
   - Apple
@@ -14,9 +14,7 @@ tags:
   - Apple
   - iPhone
 ---
-<p style="text-align: justify;">
-  Setelah lama ditunggu-tunggu, akhirnya Apple iPhone 4 yang merupakan iPhone generasi keempat sudah mulah tersedia dan bisa dipesan (Pre Order) di Telkomsel. Meski harus menunggu berbulan-bulan lamanya akhirnya iPhone 4 bisa menyapa penggemar iPhone di Indonesia.
-</p>
+Setelah lama ditunggu-tunggu, akhirnya Apple iPhone 4 yang merupakan iPhone generasi keempat sudah mulah tersedia dan bisa dipesan (Pre Order) di Telkomsel. Meski harus menunggu berbulan-bulan lamanya akhirnya iPhone 4 bisa menyapa penggemar iPhone di Indonesia.
 
 Seperti kita ketahui iPhone 4 ini memiliki banyak kelebihan dibandingkan iPhone sebelumnya, satu yang sangat mencolok adalah dari segi layar dimana iPhone 4 sudah dilengkapi Retina Display dan resolusi yang lebih tinggi, sehingga tampilan video dan foto di iPhone 4 akan tampil lebih bening dan jernih.
 

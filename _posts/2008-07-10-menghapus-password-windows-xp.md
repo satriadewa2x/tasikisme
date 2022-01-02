@@ -4,7 +4,7 @@ title: Menghapus Password Windows XP
 date: 2008-07-10T18:41:53+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=155
+guid: https://www.tasikisme.com/?p=155
 permalink: /menghapus-password-windows-xp/
 categories:
   - Komputer
@@ -33,7 +33,7 @@ Inilah langkah sederhana dan mudah untuk menghapus password Windows XP anda.
 
 6. Klik “Remove Password”
 
-7. Setelah selesai k ini anda bisa menutup jendela User Account dan Control Panel.
+7. Setelah selesai kini anda bisa menutup jendela User Account dan Control Panel.
 
 Selamat, sekarang saat anda akan menyalakan komputer, Windows XP anda akan langsung bisa digunakan, tanpa harus melalui proses Log On terlebih dahulu. Tapi sekali lagi perlu anda ingat, dengan menghapus password anda,  
 itu artinya setiap orang bisa menggunakan komputer anda dan bisa mengakses file-file penting anda, tanpa seizin anda sekalipun.

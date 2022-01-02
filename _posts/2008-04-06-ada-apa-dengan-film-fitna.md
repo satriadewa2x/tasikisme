@@ -4,7 +4,7 @@ title: Ada Apa dengan Film Fitna?
 date: 2008-04-06T16:08:12+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=62
+guid: https://www.tasikisme.com/?p=62
 permalink: /ada-apa-dengan-film-fitna/
 categories:
   - Curhat

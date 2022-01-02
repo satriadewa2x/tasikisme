@@ -4,7 +4,7 @@ title: Easter Egg di Google Chrome
 date: 2008-09-10T14:21:38+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=180
+guid: https://www.tasikisme.com/?p=180
 permalink: /easter-egg-di-google-chrome/
 categories:
   - Internet
@@ -16,7 +16,7 @@ Yups… Google Chrome baru saja diluncurkan. Sebagai produk baru tentu saja bany
 
 Sebut saja fitur Incognito Windows, yang diklaim telah ada sebelumnya di Safari, dimana dengan fitur ini anda bisa bersurfing tanpa meninggalkan jejak baik di computer anda maupun di web yang anda kunjungi, sampai pada fitur “bookmarking” di Start Page yang mirip-mirip seperti yang ada di Opera.
 
-Terlepas dari itu semua itu, Google Chrome memang layak untuk dicoba, selain browsing dirasa lebih cepat, Google Chrome juga mempunyai Task Manager sendiri, sehingga anda akan sangat mudah mengontrol apa saja yang se dang telusuri di Google Chrome.
+Terlepas dari itu semua itu, Google Chrome memang layak untuk dicoba, selain browsing dirasa lebih cepat, Google Chrome juga mempunyai Task Manager sendiri, sehingga anda akan sangat mudah mengontrol apa saja yang sedang telusuri di Google Chrome.
 
 Terus di Google Chrome juga, kita bisa men-drag sebuah Tab menjadi sebuah halaman terpisah, juga sebaliknya dari sebuah halaman bisa anda drag untuk kembali ke Tab Bar.
 

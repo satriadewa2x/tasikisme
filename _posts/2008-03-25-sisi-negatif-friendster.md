@@ -4,7 +4,7 @@ title: Sisi Negatif Friendster…
 date: 2008-03-25T14:43:35+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=51
+guid: https://www.tasikisme.com/?p=51
 permalink: /sisi-negatif-friendster/
 categories:
   - Curhat
@@ -19,7 +19,7 @@ Di Friendster-nya si anak memajang photo-photo dirinya yang teramat seksi, vulga
 
 Yang lebih menyedihkan lagi, ketika sang Ibu bertanya kepada anaknya itu, kenapa dia memajang foto-foto seksi dan vulgar di Friendster?
 
-Dengan entengnya, si anak menjawab :”Teman-temannya juga melakukan hal sama, memajang foto-foto yang seksi dan vulgar, dengan tujuan biar banyak teman di Friendster terutama teman laki-laki” dan tentu saja jawaban si anak ini lebih membuat sang Ibu bersedih, hanya demi mendapatkan teman sebanyak-banyaknya di Friendster, apakah kita perlu mengorbankan perasaan Ibu kita?
+Dengan entengnya, si anak menjawab :”Teman-temannya juga melakukan hal sama, memajang foto-foto yang seksi dan vulgar, dengan tujuan biar banyak teman di Friendster terutama teman laki-laki” dan tentu saja jawaban si anakini lebih membuat sang Ibu bersedih, hanya demi mendapatkan teman sebanyak-banyaknya di Friendster, apakah kita perlu mengorbankan perasaan Ibu kita?
 
 Sudah bukan rahasia umum, di kalangan remaja saat ini seperti sudah terbentuk sebuah  opini bahwa semakin kita berfoto seksi di Friendster maka akan semakin banyak pula orang-orang (terutama laki-laki) yang menjadi teman kita.
 

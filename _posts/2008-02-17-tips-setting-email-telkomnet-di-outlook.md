@@ -4,7 +4,7 @@ title: Tips Setting Email Telkomnet di Outlook !
 date: 2008-02-17T15:04:10+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=19
+guid: https://www.tasikisme.com/?p=19
 permalink: /tips-setting-email-telkomnet-di-outlook/
 categories:
   - Internet

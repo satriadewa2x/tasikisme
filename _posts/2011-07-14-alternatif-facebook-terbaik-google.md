@@ -4,7 +4,7 @@ title: 'Alternatif Facebook Terbaik : Google+'
 date: 2011-07-14T02:22:25+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=488
+guid: https://www.tasikisme.com/?p=488
 permalink: /alternatif-facebook-terbaik-google/
 categories:
   - Facebook
@@ -12,9 +12,7 @@ categories:
 tags:
   - Facebook
 ---
-<p style="text-align: justify;">
-  Sebuah jejaring sosial baru diperkenalkan oleh Google yakni Google+, yang merupakan saingan dari Facebook. Tapi bagi kita sebagai user, tentunya kehadiran Google+ bisa menambah alternatif pilihan untuk menggunakan social networking. Lalu apa sebenarnya perbedaan dan persamaan antara Facebook dan Google Plus?
-</p>
+Sebuah jejaring sosial baru diperkenalkan oleh Google yakni Google+, yang merupakan saingan dari Facebook. Tapi bagi kita sebagai user, tentunya kehadiran Google+ bisa menambah alternatif pilihan untuk menggunakan social networking. Lalu apa sebenarnya perbedaan dan persamaan antara Facebook dan Google Plus?
 
 Jika di Facebook, hal yang paling diutamakan adalah pertemanan antara dua orang, maka di Google Plus yang lebih diutamakan adalah pertemanan dalam kelompok atau group, itu artinya Anda bisa mengelompokan teman-teman Anda berdasarkan posisi dan kondisi yang diinginkan, misalkan Group khusus Teman Sekolah, Group Keluarga, Group Rekan Kerja ataupun Group Bebas. Jika suatu hari nanti, Anda ingin mengupdate status, Anda bisa mengatur untuk group mana saja Status Update Anda itu bisa dibaca. Makanya di Google Plus ada menu Cycles, dimana Anda bisa mengatur orang-orang atau teman-teman ke Group yang diinginkan.
 

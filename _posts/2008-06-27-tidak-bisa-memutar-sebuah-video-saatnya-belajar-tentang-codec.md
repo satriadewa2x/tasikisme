@@ -4,7 +4,7 @@ title: Tidak bisa Memutar Sebuah Video? Saatnya Belajar tentang Codec
 date: 2008-06-27T11:48:58+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=142
+guid: https://www.tasikisme.com/?p=142
 permalink: /tidak-bisa-memutar-sebuah-video-saatnya-belajar-tentang-codec/
 categories:
   - Komputer
@@ -26,7 +26,7 @@ Meskipun komputer anda dilengkapi dengan DVD Room, belum tentu anda bisa memutar
 
 Jadi jika anda mempunyai sebuah file video, tapi file tersebut tidak bisa diputar di komputer anda, sebaiknya anda cari tahu dulu codec untuk memutar file tersebut, kemudian anda menginstal codec tersebut di komputer anda.
 
-Anda bisa menginstal codec-codec yang cukup popular dan banyak dipakai di dunia dalam bentuk pack, atau kumpulan codec. Jadi lebih praktis, tidak perlu menginstal satu per satu codec. Anda bisa mendapatkan Codec Pack ini di Kazaa Lite Mega Codec Pack. Saat mengintal codec pack ini, akan banyak sekali codec yang terinstal di komputer anda, bahkan untuk codec yang. jarang digunakan pun akan ikut terinstal. Karena itu saat instalasi, sebaiknya anda pilih codec-codec apa saja yang memang diperlukan oleh komputer anda
+Anda bisa menginstal codec-codec yang cukup popular dan banyak dipakai di dunia dalam bentuk pack, atau kumpulan codec. Jadi lebih praktis, tidak perlu menginstal satu per satu codec. Anda bisa mendapatkan Codec Packini di Kazaa Lite Mega Codec Pack. Saat mengintal codec packini, akan banyak sekali codec yang terinstal di komputer anda, bahkan untuk codec yang. jarang digunakan pun akan ikut terinstal. Karena itu saat instalasi, sebaiknya anda pilih codec-codec apa saja yang memang diperlukan oleh komputer anda
 
 Cara kedua anda bisa menggunakan third party tools seperti GSpot Codec Information. Jadi ketika anda menemukan sebuah file video tidak bisa diputar di komputer anda, tinggal anda gunakan GSpot ini. Pilih Open File, kemudian tekan “Render”, GSpot akan mencoba untuk memutar file tersebut dan mencari codec yang cocok sesuai dengan yang ada di databasenya, bila kemudian masih juga error, GSpot akan memberitahukan kepada anda, apa masalah yang sebenarnya anda hadapi hingga anda bisa mencari codec yang tepat untuk memutar file tersebut.
 

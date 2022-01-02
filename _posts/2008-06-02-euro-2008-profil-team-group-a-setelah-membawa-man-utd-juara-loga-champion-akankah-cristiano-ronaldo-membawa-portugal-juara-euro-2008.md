@@ -4,7 +4,7 @@ title: Euro 2008 | Profil Team Group A | Setelah Membawa Man. Utd Juara Liga Cha
 date: 2008-06-02T18:36:20+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=116
+guid: https://www.tasikisme.com/?p=116
 permalink: /euro-2008-profil-team-group-a-setelah-membawa-man-utd-juara-loga-champion-akankah-cristiano-ronaldo-membawa-portugal-juara-euro-2008/
 categories:
   - Olahraga

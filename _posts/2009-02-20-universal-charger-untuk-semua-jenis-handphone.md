@@ -4,14 +4,14 @@ title: Universal Charger untuk Semua Jenis Handphone
 date: 2009-02-20T17:27:07+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=263
+guid: https://www.tasikisme.com/?p=263
 permalink: /universal-charger-untuk-semua-jenis-handphone/
 categories:
   - Handphone
 tags:
   - Handphone
 ---
-Anda pasti pernah mengalami suatu keadaan, ketika se dang berkunjung ke rumah teman atau saudara, tiba-tiba handphone anda kehabisan battery alias (lowbet), pas mau ikut nge-charge, eh ternyata merk handphone yang teman anda pakai berbeda dengan milik anda, alhasil chargernya-pun berbeda pula. Akhirnya anda harus merelakan handphone mati kehabisan battery.
+Anda pasti pernah mengalami suatu keadaan, ketika sedang berkunjung ke rumah teman atau saudara, tiba-tiba handphone anda kehabisan battery alias (lowbet), pas mau ikut nge-charge, eh ternyata merk handphone yang teman anda pakai berbeda dengan milik anda, alhasil chargernya-pun berbeda pula. Akhirnya anda harus merelakan handphone mati kehabisan battery.
 
 Sebuah kabar gembira bagi anda yang sering mengalami hal seperti diatas, setelah ditanda tanganinya kesepakatan bersama tentang penggunaan Charger Universal, maka pada tahun 2012 pabrikan-pabrikan Handphone ternama mulai dari Nokia, Sony Ericsson, Samsung sampai Motorola sepakat untuk mempergunakan Universal Charger, ini artinya pada tahun 2012 nanti saat anda membeli Handphone Nokia ataupun Sony Ericsson, maka charger yang anda dapatkan akan seragam alias bisa dipergunakan untuk berbagai merek.
 

@@ -13,43 +13,24 @@ tags:
   - Aplikasi
   - Google Play Store
 ---
-<p style="text-align: justify;">
-  Ramadhan dan Idul Fitri rasanya belum lengkap bila kita tidak mengucapkan selamat ramadhan ataupun selamat hari raya idul fitri kepada teman, kerabat sampai keluarga dekat. Apalagi bila Anda sering chatting bersama teman-teman di BBM, Line, WhatsApp ataupun sering mention-mentionan di Twitter atau saling tag di Facebook, maka mengucapkan selamat menunaikan ibadah puasa ataupun hari raya idul fitri menjadi sesuatu yang harus dilakukan.
-</p>
+Ramadhan dan Idul Fitri rasanya belum lengkap bila kita tidak mengucapkan selamat ramadhan ataupun selamat hari raya idul fitri kepada teman, kerabat sampai keluarga dekat. Apalagi bila Anda sering chatting bersama teman-teman di BBM, Line, WhatsApp ataupun sering mention-mentionan di Twitter atau saling tag di Facebook, maka mengucapkan selamat menunaikan ibadah puasa ataupun hari raya idul fitri menjadi sesuatu yang harus dilakukan.
 
-<img loading="lazy" class="aligncenter" src="https://1.bp.blogspot.com/-Q5OIHJqfjtg/U6pXU8_TJhI/AAAAAAAADQI/AGAcFAVwdfU/s1600/Autoteks_Android_baru.png" alt="autoteks android terbaru" width="480" height="800" /> 
+<img loading="lazy"  src="https://1.bp.blogspot.com/-Q5OIHJqfjtg/U6pXU8_TJhI/AAAAAAAADQI/AGAcFAVwdfU/s1600/Autoteks_Android_baru.png" alt="autoteks android terbaru" width="480" height="800" />  
+Biar ucapan Idul Fitri dan Ucapan Selamat Puasanya lebih seru, tentunya seringkali kita pakai AutoTeks Arabic yang indah dibaca, ataupu  menggunakan AutoTeks yang lucu dan unik.
 
-<p style="text-align: justify;">
-  Biar ucapan Idul Fitri dan Ucapan Selamat Puasanya lebih seru, tentunya seringkali kita pakai AutoTeks Arabic yang indah dibaca, ataupu  menggunakan AutoTeks yang lucu dan unik.
-</p>
+<img loading="lazy"  src="https://3.bp.blogspot.com/--VsQQGDMRxw/U685pcMmUFI/AAAAAAAADTE/F0q4plKszNQ/s1600/AutoText_ramadhan.png" alt="autoteks lebaran whatsapp" width="480" height="800" /> 
 
-<p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="https://3.bp.blogspot.com/--VsQQGDMRxw/U685pcMmUFI/AAAAAAAADTE/F0q4plKszNQ/s1600/AutoText_ramadhan.png" alt="autoteks lebaran whatsapp" width="480" height="800" />
-</p>
+Nah, bila Anda menggunakan ponsel Android, jangan pernah khawatir karena sebuah aplikasi baru bernama AutoTeks Terbaru untuk Android akan memberikan Anda kumpulan AutoTeks Arab yang siap untuk digunakan dan dipakai disaat Anda Chatting dengan teman di BBM ataupun aplikasi Chatting lainnya.
 
-<p style="text-align: justify;">
-  Nah, bila Anda menggunakan ponsel Android, jangan pernah khawatir karena sebuah aplikasi baru bernama AutoTeks Terbaru untuk Android akan memberikan Anda kumpulan AutoTeks Arab yang siap untuk digunakan dan dipakai disaat Anda Chatting dengan teman di BBM ataupun aplikasi Chatting lainnya.
-</p>
+<img loading="lazy"  src="https://4.bp.blogspot.com/-zD__p6X-WUE/U6pXW7QcctI/AAAAAAAADQw/kz3y0_qy7QQ/s1600/autotexttebaru_250x250.png" alt="autotext terbaru" width="250" height="250" /> 
 
-<img loading="lazy" class="aligncenter" src="https://4.bp.blogspot.com/-zD__p6X-WUE/U6pXW7QcctI/AAAAAAAADQw/kz3y0_qy7QQ/s1600/autotexttebaru_250x250.png" alt="autotext terbaru" width="250" height="250" /> 
+AutoTeks Terbaru for Android bisa langsung Anda download dari **Google Play Store** untuk di Install di ponsel Android Anda.
 
-<p style="text-align: justify;">
-  <!--more-->
-</p>
+ [<img loading="lazy"  src="https://4.bp.blogspot.com/-De1ANDt5LiM/U686fZYWYnI/AAAAAAAADTM/wbO1RFiwfP0/s1600/google-play-store.png" alt="play store android" width="320" height="95" />](https://play.google.com/store/apps/details?id=com.nana.autoteksterbaru)  
+Jangan khawatir, apapun ponsel Android Anda, entah itu Anda pakai Oppo Find 7 ataupun menggunakan Samsung Galaxy Ace 3, Samsung Galaxy Note ataupun Sony xPeria M2, Anda bisa menggunakan aplikasi ini dengan mudah dan cepat.
 
-<p style="text-align: justify;">
-  AutoTeks Terbaru for Android bisa langsung Anda download dari <strong>Google Play Store</strong> untuk di Install di ponsel Android Anda.
-</p>
-
-<p style="text-align: justify;">
-  <a href="https://play.google.com/store/apps/details?id=com.nana.autoteksterbaru"> <img loading="lazy" class="aligncenter" src="https://4.bp.blogspot.com/-De1ANDt5LiM/U686fZYWYnI/AAAAAAAADTM/wbO1RFiwfP0/s1600/google-play-store.png" alt="play store android" width="320" height="95" /></a><br /> Jangan khawatir, apapun ponsel Android Anda, entah itu Anda pakai Oppo Find 7 ataupun menggunakan Samsung Galaxy Ace 3, Samsung Galaxy Note ataupun Sony xPeria M2, Anda bisa menggunakan aplikasi ini dengan mudah dan cepat.
-</p>
-
-<img loading="lazy" class="aligncenter" src="https://1.bp.blogspot.com/-BqbGEo4REcc/U6pXVN8u5-I/AAAAAAAADQU/M2n03Gaq1jw/s1600/Autoteks_Terbaru_+Android.png" alt="aplikasi autoteks android terbaru" width="480" height="800" /> 
-
-<p style="text-align: justify;">
-  Berikut adalah beberapa contoh Autotext yang ada di aplikasi ini.
-</p>
+<img loading="lazy"  src="https://1.bp.blogspot.com/-BqbGEo4REcc/U6pXVN8u5-I/AAAAAAAADQU/M2n03Gaq1jw/s1600/Autoteks_Terbaru_+Android.png" alt="aplikasi autoteks android terbaru" width="480" height="800" />  
+Berikut adalah beberapa contoh Autotext yang ada di aplikasi ini.
 
   * ¨♥♥======♥♥♥♥♥♥♥♥ ѕєlαмαт нαяι яαуα Aι∂ιl Fιтяι 1435 н..
   * mïnÅl ÅïÐïn wÅl ƒÅ ïzïn.. мσнση мααƒ Lαнιя ∂αη вαтнιη
@@ -78,6 +59,4 @@ tags:
   * <span style="background-color: #ffffff;">اَللّهُ اَكْبَرُ، اَللّهُ اَكْبَرُ، اَللّهُ اَكْبَرُ، لاَ اِلَهَ اِلاَّ اللّهُ اَللّهُ اَكْبَرُ، اَللّهُ اَكْبَرُ، وَلِلّهِ الْحَمْدِ</span>
   * <span style="background-color: #ffffff;">تَقَبَّلَ اللّهُ مِنَّ وَ مِنْكُمْ تَقَبَّلْ يَا كَرِيْمُ</span>
 
-<p style="text-align: justify;">
-  So, bila Anda sedang mencari AutoTeks Lucu dan Imut terbaru, maka aplikasi AutoTeks Terbaru bisa menjadi pilihan yang tepat untuk di Install di Ponsel Android Anda. Selamat Mencoba!
-</p>
+So, bila Anda sedang mencari AutoTeks Lucu dan Imut terbaru, maka aplikasi AutoTeks Terbaru bisa menjadi pilihan yang tepat untuk di Install di Ponsel Android Anda. Selamat Mencoba!

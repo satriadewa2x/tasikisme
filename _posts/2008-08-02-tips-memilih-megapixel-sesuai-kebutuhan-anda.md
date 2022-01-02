@@ -4,7 +4,7 @@ title: Tips Memilih Megapixel sesuai Kebutuhan Anda?
 date: 2008-08-02T13:36:37+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=167
+guid: https://www.tasikisme.com/?p=167
 permalink: /tips-memilih-megapixel-sesuai-kebutuhan-anda/
 categories:
   - Tips

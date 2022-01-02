@@ -4,7 +4,7 @@ title: Cara Cepat dan Mudah jadi Selebgram
 date: 2008-03-17T15:47:35+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=46
+guid: https://www.tasikisme.com/?p=46
 permalink: /cara-mudah-jadi-bintang-star/
 categories:
   - Curhat

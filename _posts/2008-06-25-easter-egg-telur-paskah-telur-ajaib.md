@@ -4,7 +4,7 @@ title: Easter Egg = Telur Paskah = Telur Ajaib
 date: 2008-06-25T11:02:17+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=139
+guid: https://www.tasikisme.com/?p=139
 permalink: /easter-egg-telur-paskah-telur-ajaib/
 categories:
   - Informasi

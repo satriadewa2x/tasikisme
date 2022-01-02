@@ -4,7 +4,7 @@ title: Cerita Cinta Kau dan Dia
 date: 2008-03-02T05:58:54+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=35
+guid: https://www.tasikisme.com/?p=35
 permalink: /kau-dan-dia/
 categories:
   - Cinta

@@ -4,16 +4,14 @@ title: Laptop Panas? Penyebab dan Solusi Laptop Panas?
 date: 2010-11-15T23:54:18+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=441
+guid: https://www.tasikisme.com/?p=441
 permalink: /laptop-panas-penyebab-dan-solusi-laptop-panas/
 categories:
   - Komputer
 tags:
   - Komputer
 ---
-<p style="text-align: justify;">
-  Baru saja memakai laptop beberapa menit, Anda sudah merasakan panas yang muncul dari Laptop, sehingga membuat Anda tidak nyaman saat akan mengetik dan menggunakan Laptop. Kenapa Laptop Anda bisa panas berlebih, berikut ini adalah beberapa penyebab dan solusi kenapa Laptop Panas.
-</p>
+Baru saja memakai laptop beberapa menit, Anda sudah merasakan panas yang muncul dari Laptop, sehingga membuat Anda tidak nyaman saat akan mengetik dan menggunakan Laptop. Kenapa Laptop Anda bisa panas berlebih, berikut ini adalah beberapa penyebab dan solusi kenapa Laptop Panas.
 
 Ventilasi tersumbat debu atau kotoran. Di beberapa laptop akan ditemukan sebuah ventilasi yang berguna untuk menyalurkan panas yang keluar dari Laptop, Nah ada baiknya Anda cek jangan-jangan ventilasi tersebut tersumbat oleh debu atau kotoran sehingga proses pengeluaran panas menjadi tidak lancar.
 

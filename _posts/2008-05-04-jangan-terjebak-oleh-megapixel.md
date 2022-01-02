@@ -4,7 +4,7 @@ title: Jangan Terjebak oleh Megapixel
 date: 2008-05-04T02:19:05+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=88
+guid: https://www.tasikisme.com/?p=88
 permalink: /jangan-terjebak-oleh-megapixel/
 categories:
   - Tips

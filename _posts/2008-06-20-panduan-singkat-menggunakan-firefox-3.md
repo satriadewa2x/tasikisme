@@ -4,7 +4,7 @@ title: Panduan Singkat Menggunakan Firefox 3
 date: 2008-06-20T11:58:59+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=135
+guid: https://www.tasikisme.com/?p=135
 permalink: /panduan-singkat-menggunakan-firefox-3/
 categories:
   - Internet

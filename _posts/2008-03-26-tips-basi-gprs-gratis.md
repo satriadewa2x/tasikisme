@@ -4,7 +4,7 @@ title: Tips Basi GPRS Gratis …
 date: 2008-03-26T12:06:53+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=53
+guid: https://www.tasikisme.com/?p=53
 permalink: /tips-basi-gprs-gratis/
 categories:
   - Internet

@@ -4,7 +4,7 @@ title: Apa itu File MP3, AAC, WMA, WAV, dan PCM?
 date: 2009-01-06T17:11:20+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=224
+guid: https://www.tasikisme.com/?p=224
 permalink: /apa-itu-file-mp3-aac-wma-wav-dan-pcm/
 categories:
   - Komputer
@@ -22,7 +22,7 @@ Format File MP3 merupakan yang paling terkenal di kalangan umum, karena ukuran f
 
 **WMA** atau **Windows Media Audio** merupakan format kompresi audio yang dikembangkan oleh Microsoft sebagai saingan dari format file MP3
 
-**AAC** kependekan dari **Advanced Audio Coding** merupakan format kompresi audio yang digunakan dalam Apple iPod, iPhone dan iTunes. Namun k ini handphone keluaran terbaru pun telah banyak yang mendukung format file AAC ini
+**AAC** kependekan dari **Advanced Audio Coding** merupakan format kompresi audio yang digunakan dalam Apple iPod, iPhone dan iTunes. Namun kini handphone keluaran terbaru pun telah banyak yang mendukung format file AAC ini
 
 **PCM** = **Pulse Code Modulation** juga dikenal sebagai Linear PCM adalah standar untuk format CD Audio. Karena sifatnya yang tidak terkompresi, maka format PCM ini mempunyai ukuran file yang cukup besar bila dibandingkan dengan format MP3
 

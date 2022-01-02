@@ -4,22 +4,16 @@ title: Download Jadwal Liga Super Indonesia 2009-2010
 date: 2009-09-13T13:47:11+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=346
+guid: https://www.tasikisme.com/?p=346
 permalink: /download-jadwal-liga-super-indonesia-2009-2010/
 categories:
   - Olahraga
 tags:
   - Olahraga
 ---
-<p align="justify">
-  Untuk Jadwai Liga Super Indonesia 2010/2011 bisa dibaca di <strong>JADWAL INDONESIA SUPER LEAGUE 2010-2011</strong>
-</p>
+Untuk Jadwai Liga Super Indonesia 2010/2011 bisa dibaca di **JADWAL INDONESIA SUPER LEAGUE 2010-2011**
 
-<p align="justify">
-  Sepakbola tanah air bakal segera diramaikan kembali dengan datangnya musim kompetensi 2009/2010. Bagaimanakah peluang sang Juara bertahan untuk mempertahankan mahkota tertinggi Liga Super Indonesia? Akankah ada kambing hitam yang bakal menggebrak dan membuat kejutan? Selangkapnya inilah Jadwal Lengkap Indonesia Super League 2009-2010, dengan satu catatan bahwa jadwal ini masih bisa berubah-ubah (seperti tahun lalu) sesuai dengan kondisi dan situasi.
-</p>
-
-<!--more-->
+Sepakbola tanah air bakal segera diramaikan kembali dengan datangnya musim kompetensi 2009/2010. Bagaimanakah peluang sang Juara bertahan untuk mempertahankan mahkota tertinggi Liga Super Indonesia? Akankah ada kambing hitam yang bakal menggebrak dan membuat kejutan? Selangkapnya inilah Jadwal Lengkap Indonesia Super League 2009-2010, dengan satu catatan bahwa jadwal ini masih bisa berubah-ubah (seperti tahun lalu) sesuai dengan kondisi dan situasi.
 
 <table style="width: 467px; height: 3042px;" border="0">
   <tr align="left" valign="top">

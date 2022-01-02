@@ -4,16 +4,14 @@ title: » Setting GPRS Di Indonesia
 date: 2008-02-14T18:44:39+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=10
+guid: https://www.tasikisme.com/?p=10
 permalink: /r-setting-gprs-di-indonesia/
 categories:
   - Tips
 tags:
   - Tips
 ---
-<p class="MsoNormal">
-  <em>Untuk Setting otomatis atau manual GPRS bisa mengikuti langkah-langkah berikut</em>
-</p>
+_Untuk Setting otomatis atau manual GPRS bisa mengikuti langkah-langkah berikut_
 
 **Kartu Halo – Telkomsel**  
 Daftar di GRAPARI atau ketik sms “GPRS” dikirim ke 6616 dan “MMS” ke 6616

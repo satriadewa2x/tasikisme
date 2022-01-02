@@ -4,7 +4,7 @@ title: Apa Artinya Full HD 1080p itu?
 date: 2011-11-30T00:28:07+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=521
+guid: https://www.tasikisme.com/?p=521
 permalink: /apa-artinya-full-hd-1080p-itu/
 categories:
   - Komputer
@@ -13,9 +13,7 @@ tags:
   - Komputer
   - Video
 ---
-<p style="text-align: justify;">
-  Saat akan menonton sebuah video Youtube mungkin Anda pernah melihat Video Full HD, atau juga saat akan membuat sebuah gadget semisal iPhone, iPad 2 atau Tablet Android seperti Samsung Galaxy S2 mungkin Anda pernah membaca Full HD 1080p? Apa sih sebenarnya Full HD 1080p itu?
-</p>
+Saat akan menonton sebuah video Youtube mungkin Anda pernah melihat Video Full HD, atau juga saat akan membuat sebuah gadget semisal iPhone, iPad 2 atau Tablet Android seperti Samsung Galaxy S2 mungkin Anda pernah membaca Full HD 1080p? Apa sih sebenarnya Full HD 1080p itu?
 
 1080p atau dibaca “ten eighty pi” merupakan istilah singkat untuk HDTV High-Definition Video, yang merupakan mode video resolusi  1080 pixel (horizontal)dan progressive scan yang artinya gambar atau video tidak akan mengalami interlaced.
 

@@ -4,7 +4,7 @@ title: Nukilan Ayat-ayat Al-Qur’an didalam Game LittleBigPlanet
 date: 2008-10-18T10:29:53+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=189
+guid: https://www.tasikisme.com/?p=189
 permalink: /nukilan-ayat-ayat-al-quran-didalam-game-littlebigplanet/
 categories:
   - Informasi

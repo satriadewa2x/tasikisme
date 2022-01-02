@@ -4,7 +4,7 @@ title: Uang atau Pengetahuan, mana yang akan menang?
 date: 2008-05-10T08:38:39+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=94
+guid: https://www.tasikisme.com/?p=94
 permalink: /uang-atau-pengetahuan-mana-yang-akan-menang/
 categories:
   - Curhat

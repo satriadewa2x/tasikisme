@@ -4,7 +4,7 @@ title: Google Top Search untuk Tahun 2008
 date: 2008-12-17T11:11:19+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=213
+guid: https://www.tasikisme.com/?p=213
 permalink: /google-top-search-untuk-tahun-2008/
 categories:
   - Internet
@@ -29,7 +29,7 @@ Lalu, apakah yang banyak dicari orang lewat Google untuk tahun 2008 ini? Berikut
   * euro
   * jonas brothers
 
-Tak disangsikan lagi Pemilihan Presiden Amerika 2008 menjadi topik yang banyak dicari orang dari seluruh dunia. Tak mengherangkan jika sarah palin berhasil menduduki peringkat 1 sebagai kata kunci yang banyak dicari orang. Untuk urusan olahraga Olimpiade beijing 2008 berhasil menduduki peringkat 2 se dangkan pesta Sepakbola Benua Eropa euro berada pada posisi ke-9
+Tak disangsikan lagi Pemilihan Presiden Amerika 2008 menjadi topik yang banyak dicari orang dari seluruh dunia. Tak mengherangkan jika sarah palin berhasil menduduki peringkat 1 sebagai kata kunci yang banyak dicari orang. Untuk urusan olahraga Olimpiade beijing 2008 berhasil menduduki peringkat 2 sedangkan pesta Sepakbola Benua Eropa euro berada pada posisi ke-9
 
 Daftar diatas adalah top keyword atau kata kunci yang banyak dicari dari seluruh dunia secara umum. Untuk bi dang hiburan mulai dari film sampai artis juga lagu inilah Google Top Search untuk bi dang Hiburan.
 

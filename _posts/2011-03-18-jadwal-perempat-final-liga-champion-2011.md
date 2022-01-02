@@ -4,14 +4,12 @@ title: Jadwal Perempat Final Liga Champion 2011
 date: 2011-03-18T15:56:09+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=467
+guid: https://www.tasikisme.com/?p=467
 permalink: /jadwal-perempat-final-liga-champion-2011/
 categories:
   - Olahraga
 ---
-<p style="text-align: justify;">
-  Kemenangan Inter Milan atas Bayern Munchen mengantarkan tim satu-satu Italia ini lolos ke babak Perempat Final Liga Champion 2011? Bagaimana peluang sang Juara bertahan ini di babak perempat final? Dan bagaimana peluang tim lainnya di Babak Perempat Final ini.
-</p>
+Kemenangan Inter Milan atas Bayern Munchen mengantarkan tim satu-satu Italia ini lolos ke babak Perempat Final Liga Champion 2011? Bagaimana peluang sang Juara bertahan ini di babak perempat final? Dan bagaimana peluang tim lainnya di Babak Perempat Final ini.
 
 Dari hasil drawing, Real Madrid akan menantang tim dari Inggris yakni Tottenham Hotspur, sedangkan tim Inggris lainnya yakni Chelsea dan Manchester United akan saling jegal untuk memperebutkan satu tiket ke babak Semifinal Liga Champion 2011. Barcelona akan berhadapan dengan tim Shakhtar Donetsk dan juara bertahan Inter Milan akan bertarung dengan tim Jerman lainnya yakni Schalke 04.
 

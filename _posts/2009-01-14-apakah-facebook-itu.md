@@ -4,7 +4,7 @@ title: Apakah Facebook Itu?
 date: 2009-01-14T13:39:41+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=229
+guid: https://www.tasikisme.com/?p=229
 permalink: /apakah-facebook-itu/
 categories:
   - Facebook

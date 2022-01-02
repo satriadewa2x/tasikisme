@@ -4,7 +4,7 @@ title: Model S, Mobil Elektrik dari Tesla Motors
 date: 2009-03-29T09:55:46+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=289
+guid: https://www.tasikisme.com/?p=289
 permalink: /model-s-mobil-elektrik-dari-tesla-motors/
 categories:
   - Informasi

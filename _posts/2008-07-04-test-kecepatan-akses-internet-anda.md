@@ -4,7 +4,7 @@ title: Test Kecepatan Akses Internet Anda
 date: 2008-07-04T10:57:23+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=149
+guid: https://www.tasikisme.com/?p=149
 permalink: /test-kecepatan-akses-internet-anda/
 categories:
   - Internet

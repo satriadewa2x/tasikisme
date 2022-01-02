@@ -4,7 +4,7 @@ title: Apakah Uang Membuat kita Bahagia?
 date: 2008-07-16T03:38:33+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=159
+guid: https://www.tasikisme.com/?p=159
 permalink: /apakah-uang-membuat-kita-bahagia/
 categories:
   - Curhat

@@ -4,7 +4,7 @@ title: Jadwal Euro 2008 | Austria – Switzerland
 date: 2008-04-25T10:20:32+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=79
+guid: https://www.tasikisme.com/?p=79
 permalink: /jadwal-euro-2008-austria-switzerland/
 categories:
   - Olahraga

@@ -4,7 +4,7 @@ title: Alasan Kenapa Orang Ingin ‘Mencuri’ Akun Friendster Anda!
 date: 2008-09-05T19:34:48+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=178
+guid: https://www.tasikisme.com/?p=178
 permalink: /alasan-kenapa-orang-ingin-mencuri-akun-friendster-anda/
 categories:
   - Internet
@@ -32,7 +32,7 @@ Karena alasan tidak mau terus menerus dibohongi dan dicurangi oleh pacar/ kekasi
 
 Klise banget tapi inilah yang sering terjadi. Anda baru putus dengan kekasih anda, karena sang kekasih ketahuan selingkuh di belakang anda. Dan untuk melampiaskan kemarahan tersebut, sekaligus balas dendam atas rasa sakit hati, maka banyak orang yang tertarik untuk mencuri akun friendster Mantannya dan kemudian memakai akun tersebut untuk alasan fun, atau bahkan lebih buruknya, dipakai untuk menjelek-jelekan pribadi si mantan tersebut.
 
-Kalau boleh jujur, seseorang yang pernah disakiti pasti akan melakukan sebuah balas dendam yang “manis” kapanpun, dimanapun dan bagaimanapun terhadap orang yang pernah menyakitinya. Dan FS k ini seringkali dijadikan sebagai salah satu sarana untuk melampiaskan dendam tersebut.
+Kalau boleh jujur, seseorang yang pernah disakiti pasti akan melakukan sebuah balas dendam yang “manis” kapanpun, dimanapun dan bagaimanapun terhadap orang yang pernah menyakitinya. Dan FS kini seringkali dijadikan sebagai salah satu sarana untuk melampiaskan dendam tersebut.
 
 3. Melihat Photo Pribadi
 

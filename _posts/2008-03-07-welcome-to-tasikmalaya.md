@@ -4,7 +4,7 @@ title: Biodata Tasikmalaya dalam Bahasa Inggris
 date: 2008-03-07T18:12:48+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=38
+guid: https://www.tasikisme.com/?p=38
 permalink: /welcome-to-tasikmalaya/
 categories:
   - Internet

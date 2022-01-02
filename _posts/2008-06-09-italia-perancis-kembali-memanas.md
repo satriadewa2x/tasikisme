@@ -4,7 +4,7 @@ title: Italia – Perancis, Kembali Memanas
 date: 2008-06-09T10:25:17+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=123
+guid: https://www.tasikisme.com/?p=123
 permalink: /italia-perancis-kembali-memanas/
 categories:
   - Olahraga

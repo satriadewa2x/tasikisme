@@ -4,16 +4,14 @@ title: Jadwal Perempat Final dan Semi Final Liga Champion 2010
 date: 2010-03-13T02:40:47+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=380
+guid: https://www.tasikisme.com/?p=380
 permalink: /jadwal-perempat-final-dan-semi-final-liga-champion-2010/
 categories:
   - Olahraga
 tags:
   - Olahraga
 ---
-<p style="text-align: justify;">
-  Untuk Jadwal Lengkap Semifinal Liga Champion 2010, bisa dibaca di Jadwal Semifinal Liga Champion 2010.
-</p>
+Untuk Jadwal Lengkap Semifinal Liga Champion 2010, bisa dibaca di Jadwal Semifinal Liga Champion 2010.
 
 Liga Champion Eropa 2010 memasuki babak-babak akhir, paling tidak sampai artikel ini ditulis telah 4 tim yang memastikan diri lolos ke putaran Perempat Final Liga Champion 2010. Dua tim dari Inggris yakni MU dan Arsenal secara meyakinkan melenggang ke babak perempat final setelah membantai lawan-lawannya, Arsenal membantai FC Porto 5-0 (Agregrate akhir  6-2) dan  Man. United mengkandaskan impian Milan 4-0 sehingga agregrate akhir 7-2.
 

@@ -4,7 +4,7 @@ title: Mencoba GPRS Gratis dengan AXIS
 date: 2008-04-26T16:35:10+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=81
+guid: https://www.tasikisme.com/?p=81
 permalink: /mencoba-gprs-gratis-dengan-axis/
 categories:
   - Internet

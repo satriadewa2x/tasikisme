@@ -4,7 +4,7 @@ title: Selamatkan Nomor Telepon Penting dengan Backup Phonebook Online
 date: 2009-10-21T06:38:58+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=354
+guid: https://www.tasikisme.com/?p=354
 permalink: /selamatkan-nomor-telepon-penting-dengan-backup-phonebook-online/
 categories:
   - Handphone
@@ -14,11 +14,11 @@ tags:
 ---
 <div>
   <p>
-    Keberadaan phonebook saat ini telah menjadi sesuatu yang tidak bisa terpisahkan dalam kehidupan sehari-hari. Lancarnya sebuah komunikasi (entah itu SMS atau Nelpon) tak lepas dari keberadaan si Phonebook ini.
+    Keberadaan phonebook saat ini telah menjadi sesuatu yang tidak bisa terpisahkan dalam kehidupan sehari-hari. Lancarnya sebuah komunikasi (entah itu SMS atau Nelpon) tak lepas dari keberadaan si Phonebookini.
   </p>
   
   <p>
-    Maka dari itu sudah seharusnya kita menjaga phonebook ini dengan sebaik-baiknya karena anda tentu tidak ingin kan bila tiba-tiba suatu hari nanti (entah karena Handphone dicuri orang lain atau ponsel anda rusak) tiba-tiba anda mesti kehilangan phonebook? Yang sama artinya dengan kehilangan kontak dengan orang-orang yang anda kenal.
+    Maka dari itu sudah seharusnya kita menjaga phonebookini dengan sebaik-baiknya karena anda tentu tidak ingin kan bila tiba-tiba suatu hari nanti (entah karena Handphone dicuri orang lain atau ponsel anda rusak) tiba-tiba anda mesti kehilangan phonebook? Yang sama artinya dengan kehilangan kontak dengan orang-orang yang anda kenal.
   </p>
   
   <p>
@@ -155,11 +155,11 @@ tags:
   </p>
   
   <p>
-    Setelah semua tersinkronisasi, k ini andapun bisa mengedit phonebook anda di Mobical. Jangan khawatir dengan melakukan proses sinkronisasi ulang, hasil editan anda di komputer (server mobical) hasilnya bisa dilihat juga di handphone anda.
+    Setelah semua tersinkronisasi, kini andapun bisa mengedit phonebook anda di Mobical. Jangan khawatir dengan melakukan proses sinkronisasi ulang, hasil editan anda di komputer (server mobical) hasilnya bisa dilihat juga di handphone anda.
   </p>
   
   <p>
-    Sebagai contoh dibawah ini adalah phonebook milik tasikisme yang telah disinkronisasi. So, k ini saatnya anda untuk membackup phonebook handphone anda, jadi kalau suatu hari nanti handphone anda hilang atau mungkin juga anda mengganti handphone dengan yang baru, dengan mudah anda bisa mengakses phonebook anda.
+    Sebagai contoh dibawah ini adalah phonebook milik tasikisme yang telah disinkronisasi. So, kini saatnya anda untuk membackup phonebook handphone anda, jadi kalau suatu hari nanti handphone anda hilang atau mungkin juga anda mengganti handphone dengan yang baru, dengan mudah anda bisa mengakses phonebook anda.
   </p>
   
   <p>

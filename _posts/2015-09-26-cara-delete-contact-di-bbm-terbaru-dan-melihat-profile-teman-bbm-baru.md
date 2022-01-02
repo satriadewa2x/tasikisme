@@ -13,26 +13,14 @@ tags:
   - BBM
   - Tips
 ---
-<p style="text-align: justify;">
-  BBM terbaru untuk Android memang hadir dengan berbagai menu dan fitur yang lebih baru, fresh dan tentunya dengan tampilan yang jauh berbeda dengan BBM versi lama. Tampilan di BBM terbaru ini terkadang memang sedikit membuat bingung bagi kamu yang belum terbiasa. Semisal bila kamu ingin melihat profil teman BBM terbaru rasanya cukup sulit atau bila kamu ingin delete contact atau hapus teman di BBM terbaru caranya sedikit berbeda dengan BBM versi lama.<!--more-->
-</p>
+BBM terbaru untuk Android memang hadir dengan berbagai menu dan fitur yang lebih baru, fresh dan tentunya dengan tampilan yang jauh berbeda dengan BBM versi lama. Tampilan di BBM terbaru ini terkadang memang sedikit membuat bingung bagi kamu yang belum terbiasa. Semisal bila kamu ingin melihat profil teman BBM terbaru rasanya cukup sulit atau bila kamu ingin delete contact atau hapus teman di BBM terbaru caranya sedikit berbeda dengan BBM versi lama.
 
-<p style="text-align: justify;">
-  Bila kamu ingin hapus teman atau delcon di <a href="https://www.tasikisme.com/bbm-terbaru-versi-2-9-0-44-dengan-material-design">BBM terbaru v2.9</a> caranya mudah saja, pertama kamu masuk ke menu daftar kontak BBM, selanjutnya tekan beberapa saat pada teman atau kontak yang akan kamu hapus. Setelah itu akan muncul menu berupa tiga titik, sentuh pada menu tersebut lalu pilih Hapus atau Delete Contact BBM terbaru.
-</p>
+Bila kamu ingin hapus teman atau delcon di [BBM terbaru v2.9](https://www.tasikisme.com/bbm-terbaru-versi-2-9-0-44-dengan-material-design) caranya mudah saja, pertama kamu masuk ke menu daftar kontak BBM, selanjutnya tekan beberapa saat pada teman atau kontak yang akan kamu hapus. Setelah itu akan muncul menu berupa tiga titik, sentuh pada menu tersebut lalu pilih Hapus atau Delete Contact BBM terbaru.
 
-<p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="https://2.bp.blogspot.com/-SCqbzZ8NFcA/VgYAxVjBGYI/AAAAAAAAHCQ/1-sa3uuUCsE/s1600/cara-delcon-bbm-terbaru-1.png" alt="cara delcon bbm terbaru android" width="610" height="534" />
-</p>
+<img loading="lazy"  src="https://2.bp.blogspot.com/-SCqbzZ8NFcA/VgYAxVjBGYI/AAAAAAAAHCQ/1-sa3uuUCsE/s1600/cara-delcon-bbm-terbaru-1.png" alt="cara delcon bbm terbaru android" width="610" height="534" /> 
 
-<p style="text-align: justify;">
-  Sedangkan cara melihat profil teman BBM Terbaru juga tidak terlalu sulit, pertama kamu masuk ke daftar teman, lalu sentuh salah satu teman sampai kamu masuk ke area percakapan, selanjutnya untuk melihat profil teman bbm tersebut kamu sentuh pada bagian nama di bagian atas, dan jreeng kamu pun bisa melihat profil kontak bbm terbaru tersebut mulai dari PIN sampai DP BBM Terbaru teman tersebut.
-</p>
+Sedangkan cara melihat profil teman BBM Terbaru juga tidak terlalu sulit, pertama kamu masuk ke daftar teman, lalu sentuh salah satu teman sampai kamu masuk ke area percakapan, selanjutnya untuk melihat profil teman bbm tersebut kamu sentuh pada bagian nama di bagian atas, dan jreeng kamu pun bisa melihat profil kontak bbm terbaru tersebut mulai dari PIN sampai DP BBM Terbaru teman tersebut.
 
-<p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="https://2.bp.blogspot.com/-G7c5PiJd-wI/VgYAwEDZKgI/AAAAAAAAHCI/YbxS2v6Gn3I/s1600/cara-lihat-profil-teman-bbm-terbaru-2.png" alt="cara lihat profle teman bbm terbaru android" width="610" height="534" />
-</p>
+<img loading="lazy"  src="https://2.bp.blogspot.com/-G7c5PiJd-wI/VgYAwEDZKgI/AAAAAAAAHCI/YbxS2v6Gn3I/s1600/cara-lihat-profil-teman-bbm-terbaru-2.png" alt="cara lihat profle teman bbm terbaru android" width="610" height="534" /> 
 
-<p style="text-align: justify;">
-  Bagaimana, dengan sedikit latihan pasti kamu akan terbiasa untuk melakukan delcon di BBM terbaru dan juga bisa dengan mudah melihat profil dan DP kontak BBM terbaru di Android kamu.
-</p>
+Bagaimana, dengan sedikit latihan pasti kamu akan terbiasa untuk melakukan delcon di BBM terbaru dan juga bisa dengan mudah melihat profil dan DP kontak BBM terbaru di Android kamu.

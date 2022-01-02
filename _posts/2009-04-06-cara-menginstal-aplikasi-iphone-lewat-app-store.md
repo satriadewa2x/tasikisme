@@ -4,7 +4,7 @@ title: Cara Menginstal Aplikasi iPhone lewat App Store
 date: 2009-04-06T12:12:28+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=294
+guid: https://www.tasikisme.com/?p=294
 permalink: /cara-menginstal-aplikasi-iphone-lewat-app-store/
 categories:
   - Apple
@@ -14,13 +14,9 @@ tags:
   - Apple
   - iPhone
 ---
-<div style="text-align: justify;">
+<div >
   <p>
     Baru membeli iPhone? Dan k ini anda ingin menambahkan aplikasi (misal aplikasi Facebook) ke dalam iPhone agar iPhone anda tampil dan bekerja lebih optimal dan lebih menyenangkan? Berikut ini langkah demi langkah menginstal aplikasi di iPhone dengan lewat App Store langsung dari iPhone anda.
-  </p>
-  
-  <p>
-    <!--more-->
   </p>
   
   <p>

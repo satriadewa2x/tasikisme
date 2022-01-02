@@ -4,14 +4,14 @@ title: Empat Kesalahan Saat Akan Membeli Sebuah Camera Digital
 date: 2008-07-27T12:39:24+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=165
+guid: https://www.tasikisme.com/?p=165
 permalink: /empat-kesalahan-saat-akan-membeli-sebuah-camera-digital/
 categories:
   - Tips
 tags:
   - Tips
 ---
-Anda punya hobi potret memotret? Dan saat ini anda se dang berencana ingin membeli sebuah camera digital, untuk menyalurkan hobi anda tersebut? Ada berbagai faktor yang harus perhatikan ketika akan membeli sebuah camera digital, mulai dari Megapixel sampai kepada yang namanya Zoom.
+Anda punya hobi potret memotret? Dan saat ini anda sedang berencana ingin membeli sebuah camera digital, untuk menyalurkan hobi anda tersebut? Ada berbagai faktor yang harus perhatikan ketika akan membeli sebuah camera digital, mulai dari Megapixel sampai kepada yang namanya Zoom.
 
 Namun, ada baiknya juga adalah kenali 4 Kesalahan yang seringkali orang lakukan ketika akan membeli sebuah camera digital. Jadi ketika anda akan membeli sebuah camera digital, sebaiknya hindari 4 kesalahan kesalahan tersebut dibawah ini.
 

@@ -4,7 +4,7 @@ title: Lima Game Terbaik Untuk Xbox 360
 date: 2008-12-31T18:20:30+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=221
+guid: https://www.tasikisme.com/?p=221
 permalink: /lima-game-terbaik-untuk-xbox-360/
 categories:
   - Informasi

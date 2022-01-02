@@ -13,36 +13,18 @@ tags:
   - Aplikasi
   - Google Play Store
 ---
-<p style="text-align: justify;">
-  Apakah kamu penasaran ingin membuat tulisan jadi DP BBM atau Buat DP BBM dengan Nama dan kata-kata sendiri. Memakai DP BBM atau Line dengan menggunakan nama sendiri, selain lebih menarik juga akan membuat kita keren dan gaul. Untuk membuat DP BBM dengan nama dan tulisan sendiri ada berbagai macam cara bisa menggunakan program di laptop seperti photoshop atau bisa juga menggunakan aplikasi Android yang banyak tersedia di Google Playstore.
-</p>
+Apakah kamu penasaran ingin membuat tulisan jadi DP BBM atau Buat DP BBM dengan Nama dan kata-kata sendiri. Memakai DP BBM atau Line dengan menggunakan nama sendiri, selain lebih menarik juga akan membuat kita keren dan gaul. Untuk membuat DP BBM dengan nama dan tulisan sendiri ada berbagai macam cara bisa menggunakan program di laptop seperti photoshop atau bisa juga menggunakan aplikasi Android yang banyak tersedia di Google Playstore.
 
-<p style="text-align: justify;">
-  Untuk membuat DP BBM dengan nama dan tulisan sendiri, kamu bisa pakai aplikasi Android seperti Buat DP Keren, sebuah aplikasi yang memang khusus untuk membuat DP Lucu dan Keren di Android dengan mudah, cepat dan tentu saja hasilnya menarik.
-</p>
+Untuk membuat DP BBM dengan nama dan tulisan sendiri, kamu bisa pakai aplikasi Android seperti Buat DP Keren, sebuah aplikasi yang memang khusus untuk membuat DP Lucu dan Keren di Android dengan mudah, cepat dan tentu saja hasilnya menarik.
 
-<!--more-->
+<img loading="lazy"  src="https://4.bp.blogspot.com/-7piZlQteDrE/VWpgSXKwlDI/AAAAAAAAFkA/SuKilR9k8xs/s1600/membuat-dp-bbm-nama-sendiri-1.png" alt="Cara Membuat DP BBM sendiri" width="500" height="875" /> 
 
-<p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="https://4.bp.blogspot.com/-7piZlQteDrE/VWpgSXKwlDI/AAAAAAAAFkA/SuKilR9k8xs/s1600/membuat-dp-bbm-nama-sendiri-1.png" alt="Cara Membuat DP BBM sendiri" width="500" height="875" />
-</p>
+Setelah kamu install dan download aplikasi Membuat DP BBM Lucu dan Keren, selanjutnya kamu bisa menjalankan aplikasi. Pada tampilan awal, kamu bisa langsung menulis kata-kata cinta, galau, kata-kata nyindir ataupun kata-kata mutiara sesuai dengan keinginan kamu, selain itu kamu juga bisa mencantumkan nama sendiri di bawahnya, keren bukan?
 
-<p style="text-align: justify;">
-  Setelah kamu install dan download aplikasi Membuat DP BBM Lucu dan Keren, selanjutnya kamu bisa menjalankan aplikasi. Pada tampilan awal, kamu bisa langsung menulis kata-kata cinta, galau, kata-kata nyindir ataupun kata-kata mutiara sesuai dengan keinginan kamu, selain itu kamu juga bisa mencantumkan nama sendiri di bawahnya, keren bukan?
-</p>
+<img loading="lazy"  src="https://3.bp.blogspot.com/-Vy164wmRsoE/VWpgSXxGzRI/AAAAAAAAFkE/8wRM2SRImpw/s1600/membuat-dp-bbm-nama-sendiri-2.png" alt="Cara Membuat DP BBM Tulisan Sendiri" width="500" height="875" /> 
 
-<p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="https://3.bp.blogspot.com/-Vy164wmRsoE/VWpgSXxGzRI/AAAAAAAAFkE/8wRM2SRImpw/s1600/membuat-dp-bbm-nama-sendiri-2.png" alt="Cara Membuat DP BBM Tulisan Sendiri" width="500" height="875" />
-</p>
+Agar tampilan DP BBM Buatan kamu lebih keren dan menarik lagi, kamu bisa kok merubah jenis huruf dan warna belakang sesuai dengan keinginan kamu.
 
-<p style="text-align: justify;">
-  Agar tampilan DP BBM Buatan kamu lebih keren dan menarik lagi, kamu bisa kok merubah jenis huruf dan warna belakang sesuai dengan keinginan kamu.
-</p>
+<img loading="lazy"  src="https://2.bp.blogspot.com/-VqgQK1g_Gdk/VWpgSkeMBfI/AAAAAAAAFkI/BhWhbQHZvKw/s1600/membuat-dp-bbm-nama-sendiri-3.png" alt="Cara Membuat DP BBM Nama Sendiri" width="610" height="534" /> 
 
-<p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="https://2.bp.blogspot.com/-VqgQK1g_Gdk/VWpgSkeMBfI/AAAAAAAAFkI/BhWhbQHZvKw/s1600/membuat-dp-bbm-nama-sendiri-3.png" alt="Cara Membuat DP BBM Nama Sendiri" width="610" height="534" />
-</p>
-
-<p style="text-align: justify;">
-  Cukup mudah bukan untuk membuat gambar DP BBM pakai tulisan dan nama sendiri? Kamu bisa download aplikasi membuat DP BBM untuk di Android yaitu Buat DP BBM Keren dari <a href="https://goo.gl/NwsNSC"><strong>Google Playstore</strong></a> langsung dari hp Android kamu. Kini BBM kamu pun lebih menarik dan keren berkat aplikasi ini.
-</p>
+Cukup mudah bukan untuk membuat gambar DP BBM pakai tulisan dan nama sendiri? Kamu bisa download aplikasi membuat DP BBM untuk di Android yaitu Buat DP BBM Keren dari [**Google Playstore**](https://goo.gl/NwsNSC) langsung dari hp Android kamu. Kini BBM kamu pun lebih menarik dan keren berkat aplikasi ini.

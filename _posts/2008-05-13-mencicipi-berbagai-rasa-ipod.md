@@ -4,7 +4,7 @@ title: Mencicipi Berbagai Rasa iPod
 date: 2008-05-13T11:59:25+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=97
+guid: https://www.tasikisme.com/?p=97
 permalink: /mencicipi-berbagai-rasa-ipod/
 categories:
   - Apple
@@ -20,7 +20,7 @@ iPod yang satu ini sangat cocok buat anda yang sering bepergian atau berpetualan
 koleksi musik anda tidak terlalu banyak dan anda hanya menggunakan iPod sebatas untuk mendengarkan musik saja. Tapi kalau anda memiliki koleksi musik yang banyaksenang bergaya dengan menggunakan iPod menjadikan iPod sebagai tempat menyimpan foto-foto dan film anda  selain sebagai musik player tentunya iPod Shuffle tentu kurang cocok buat anda.
 
 2. iPod Nano  
-Nah kalau yang ini adalah iPod pertengahan cocok buat semua orang yang memiliki koleksi musik se dang-se dang saja alias tidak terlalu sedikit dan juga tidak terlalu banyak terus anda yang menyukai warna-warni dari iPod  
+Nah kalau yang ini adalah iPod pertengahan cocok buat semua orang yang memiliki koleksi musik sedang-sedang saja alias tidak terlalu sedikit dan juga tidak terlalu banyak terus anda yang menyukai warna-warni dari iPod  
 ingin sedikit bergaya dengan iPod dan anda yang menginginkan lebih dari sekedar mendengarkan musik. Tidak seperti iPod Shuffle yang tidak dilengkapi layar iPod Nano ini telah dipersenjatai dengan layar yang lumayan cerah  
 sehingga bisa menampilkan lagu-lagu yang sedang diputar.
 

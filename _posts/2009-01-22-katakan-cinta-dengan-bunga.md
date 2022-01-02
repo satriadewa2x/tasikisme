@@ -4,7 +4,7 @@ title: Berbagai Makna dan Arti Warna Bunga Mawar
 date: 2009-01-22T14:58:23+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=236
+guid: https://www.tasikisme.com/?p=236
 permalink: /katakan-cinta-dengan-bunga/
 categories:
   - Cinta

@@ -4,7 +4,7 @@ title: Portugal Masih Favorit Juara Euro 2008
 date: 2008-06-06T11:35:59+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=120
+guid: https://www.tasikisme.com/?p=120
 permalink: /portugal-masih-favorit-juara-euro-2008/
 categories:
   - Olahraga

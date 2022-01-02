@@ -4,7 +4,7 @@ title: Apa Bedanya iPad dan iPad 2?
 date: 2011-03-11T06:39:38+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=466
+guid: https://www.tasikisme.com/?p=466
 permalink: /apa-bedanya-ipad-dan-ipad-2/
 categories:
   - Apple
@@ -12,23 +12,15 @@ categories:
 tags:
   - Apple
 ---
-<p style="text-align: justify;">
-  iPad 2 sudah resmi direlease, meski tidak ada fitur-fitur terbaru yang revolusioner dari iPad 2 terbaru ini, tapi tetap saja kehadiranya menjadi pembicaraan disana-s ini. Sebenarnya apa sih perbedaan nyata dari iPad pertama dan iPad 2 ini? Mana yang lebih baik iPad atau iPad 2?
-</p>
+iPad 2 sudah resmi direlease, meski tidak ada fitur-fitur terbaru yang revolusioner dari iPad 2 terbaru ini, tapi tetap saja kehadiranya menjadi pembicaraan disana-s ini. Sebenarnya apa sih perbedaan nyata dari iPad pertama dan iPad 2 ini? Mana yang lebih baik iPad atau iPad 2?
 
-<p style="text-align: justify;">
-  Fitur paling menonjol dari iPad 2 (yang tidak ada di iPad sebelumnya) adalah kamera. Yups, iPad 2 telah dilengkapi dengan dua buah kamera, beda dengan iPad sebelumnya yang hadir tanpa kamera. Dari sisi berat iPad 2 lebih ringan 20 gram dari iPad pertama. Begitupun dari sisi prosesor jika iPad sebelumnya hanya menggunakan Prosesor Apple A4, maka iPad 2 sudah menggunakan Prosesor Apple A5 yang kecepatannya dua kali lebih cepat dibandingkan dengan Apple A4, itu artinya akses menu ke menu di iPad 2 akan lebih cepat!.
-</p>
+Fitur paling menonjol dari iPad 2 (yang tidak ada di iPad sebelumnya) adalah kamera. Yups, iPad 2 telah dilengkapi dengan dua buah kamera, beda dengan iPad sebelumnya yang hadir tanpa kamera. Dari sisi berat iPad 2 lebih ringan 20 gram dari iPad pertama.
 
-<p style="text-align: center;">
-  <img src="images/stories/iPad-2.jpg" border="0" alt="iPad 2" title="Spesifikasi iPad 2" />
-</p>
+Begitupun dari sisi prosesor jika iPad sebelumnya hanya menggunakan Prosesor Apple A4, maka iPad 2 sudah menggunakan Prosesor Apple A5 yang kecepatannya dua kali lebih cepat dibandingkan dengan Apple A4, itu artinya akses menu ke menu di iPad 2 akan lebih cepat!.
 
- 
+&nbsp;
 
-<p style="text-align: justify;">
-  Berikut adalah perbandingan resmi iPad dan iPad 2
-</p>
+Berikut adalah perbandingan resmi iPad dan iPad 2
 
 <table style="width: 540px;" border="1">
   <tr>
@@ -345,11 +337,11 @@ tags:
     </td>
     
     <td valign="top">
-      Built-in <br /> lithium-ion polymer
+      Built-in<br /> lithium-ion polymer
     </td>
     
     <td valign="top">
-      Built-in <br /> lithium-ion polymer
+      Built-in<br /> lithium-ion polymer
     </td>
   </tr>
   
@@ -485,13 +477,11 @@ tags:
     </td>
     
     <td valign="top">
-      April 2010 untuk versi Wifi <br /> May 2010 untuk versi iPad versi 3G
+      April 2010 untuk versi Wifi<br /> May 2010 untuk versi iPad versi 3G
     </td>
     
     <td valign="top">
-      <p>
-        11 Maret 2011, di Amerika dan 25 Maret 2011 &#8211; 25 di negara lain!
-      </p>
+      11 Maret 2011, di Amerika dan 25 Maret 2011 &#8211; 25 di negara lain!
     </td>
   </tr>
 </table>

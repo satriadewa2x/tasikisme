@@ -4,7 +4,7 @@ title: Cara Print dari Android
 date: 2011-11-05T00:50:11+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=516
+guid: https://www.tasikisme.com/?p=516
 permalink: /cara-print-dari-android/
 categories:
   - Android
@@ -12,9 +12,7 @@ tags:
   - Android
   - Tips
 ---
-<p style="text-align: justify;">
-  Seperti kita ketahui, di Android baik itu Froyo ataupun Gingerbread belum dilengkapi dengan kemampuan untuk Print dokumen secara langsung dari Handphone atau Tablet Android. Lalu bagaimana caranya agar bisa print dokumen dari Android tanpa harus mengcopy file yang akan diprint tersebut ke Laptop atau Netbook? berikut ini beberapa alternatif Print atau cetak dokumen langsung dari HP Android.
-</p>
+Seperti kita ketahui, di Android baik itu Froyo ataupun Gingerbread belum dilengkapi dengan kemampuan untuk Print dokumen secara langsung dari Handphone atau Tablet Android. Lalu bagaimana caranya agar bisa print dokumen dari Android tanpa harus mengcopy file yang akan diprint tersebut ke Laptop atau Netbook? berikut ini beberapa alternatif Print atau cetak dokumen langsung dari HP Android.
 
 Untuk Proses Printing dari Android Anda bisa memanfaatkan sebuah aplikasi bernama PrinterShare yang bisa didownload dari printeranywhere dot com jangan lupa download Aplikasi untuk Windows buat di Install di Laptop dan Aplikasi untuk Androidnya yang bisa didownload di Android Market.  
 

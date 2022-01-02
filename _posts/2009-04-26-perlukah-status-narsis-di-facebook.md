@@ -4,7 +4,7 @@ title: Perlukah Status Narsis di Facebook?
 date: 2009-04-26T06:49:42+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=300
+guid: https://www.tasikisme.com/?p=300
 permalink: /perlukah-status-narsis-di-facebook/
 categories:
   - Facebook
@@ -17,7 +17,7 @@ Status di Facebook memang jadi hal vital, seperti juga di Twitter begitu kamu me
 
 So… dengan seringnya kita meng-update profile maka semakin sering juga kita bakal muncul dan kemungkinan besar banyak dibaca oleh friend-friend kita.
 
-Lalu perlukah kita menuliskan hal-hal narsis di status kita? apakah perlu kita mengabarkan kepada setiap orang (seluruh dunia) tentang apa yang se dang, akan dan telah kita alami?
+Lalu perlukah kita menuliskan hal-hal narsis di status kita? apakah perlu kita mengabarkan kepada setiap orang (seluruh dunia) tentang apa yang sedang, akan dan telah kita alami?
 
 Apakah orang akan menganggap penting dari status update kita? atau jangan-jangan orang yang baca status kita malah jadi sebel sama kita, karena hal-hal nggak penting aja mesti diberitahukan kepada seluruh dunia?
 

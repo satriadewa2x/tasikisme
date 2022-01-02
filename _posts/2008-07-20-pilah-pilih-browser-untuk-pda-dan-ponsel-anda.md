@@ -4,7 +4,7 @@ title: Pilah Pilih Browser untuk PDA dan Ponsel Anda
 date: 2008-07-20T08:03:15+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=162
+guid: https://www.tasikisme.com/?p=162
 permalink: /pilah-pilih-browser-untuk-pda-dan-ponsel-anda/
 categories:
   - Handphone

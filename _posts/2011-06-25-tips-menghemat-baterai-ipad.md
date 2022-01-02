@@ -4,7 +4,7 @@ title: Tips Menghemat Baterai iPad
 date: 2011-06-25T00:21:14+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=483
+guid: https://www.tasikisme.com/?p=483
 permalink: /tips-menghemat-baterai-ipad/
 categories:
   - Apple
@@ -12,9 +12,7 @@ categories:
 tags:
   - Apple
 ---
-<p style="text-align: justify;">
-  Tak dipungkiri iPad memiliki daya tahan baterai 10 jam, namun jika iPad dipakai internetan secara terus menerus apalagi dipakai untuk nonton streaming video atau film, maka  daya tahan baterai iPad akan cepat habis. Nah, tips berikut adalah cara menghemat Baterai iPad
-</p>
+Tak dipungkiri iPad memiliki daya tahan baterai 10 jam, namun jika iPad dipakai internetan secara terus menerus apalagi dipakai untuk nonton streaming video atau film, maka  daya tahan baterai iPad akan cepat habis. Nah, tips berikut adalah cara menghemat Baterai iPad
 
 Atur Brightness – seperti kita ketahui iPad memiliki fitur Auto Brightness itu artinya iPad akan secara otomatis menambah Brightness ke level tinggi jika kita berada di ruang terbuka dengan cahaya matahari. Nah,tidak ada salahnya jika kita mengatur Brightness ini secara manual, sehingga iPad tidak secara terus menerus merubah Brightness ke level tertinggi
 

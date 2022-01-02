@@ -4,7 +4,7 @@ title: Sisi Positif FS, FB atau MS
 date: 2009-01-14T17:36:32+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=230
+guid: https://www.tasikisme.com/?p=230
 permalink: /sisi-positif-fs-fb-atau-ms/
 categories:
   - Facebook

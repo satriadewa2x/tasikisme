@@ -4,7 +4,7 @@ title: Solusi Consider Replacing Your Battery di Windows 7 pada Laptop
 date: 2011-11-12T02:36:26+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=518
+guid: https://www.tasikisme.com/?p=518
 permalink: /solusi-consider-replacing-your-battery-di-windows-7-pada-laptop/
 categories:
   - Komputer
@@ -13,9 +13,7 @@ tags:
   - Tips
   - Windows
 ---
-<p style="text-align: justify;">
-  Satu yang sering dialami oleh pengguna Windows 7, terutama mereka yang menggunakan Laptop model lama yang dikeluarkan sebelum adanya Windows 7 adalah Error Consider Replacing Your Battery dengan tanda cakra (x) merah di indikator baterai. Bagaimana cara  mengatasi tanda merah di baterai ini?
-</p>
+Satu yang sering dialami oleh pengguna Windows 7, terutama mereka yang menggunakan Laptop model lama yang dikeluarkan sebelum adanya Windows 7 adalah Error Consider Replacing Your Battery dengan tanda cakra (x) merah di indikator baterai. Bagaimana cara  mengatasi tanda merah di baterai ini?
 
 Penyebab serius dari masalah Consider Replacing Your Battery adalah karena Windows 7 “salah” dalam membaca ACPI dari Laptop tersebut. Alhasil, maka Windows 7 pun akan mengeluarkan warning atau error yang salah? Lho kok bisa? Ini karena BIOS laptop tersebut belum mendukung sepenuhnya Windows 7 sehingga antara BIOS dan OS Windows 7 tidak sinkron. Solusi Consider Replacing Your Battery di Laptop dengan Windows 7 adalah beberapa cara diantaranya adalah sebagai berikut :
 

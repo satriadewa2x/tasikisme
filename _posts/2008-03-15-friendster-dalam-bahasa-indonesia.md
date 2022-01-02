@@ -4,7 +4,7 @@ title: Friendster dalam Bahasa Indonesia!
 date: 2008-03-15T12:50:53+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=44
+guid: https://www.tasikisme.com/?p=44
 permalink: /friendster-dalam-bahasa-indonesia/
 categories:
   - Internet

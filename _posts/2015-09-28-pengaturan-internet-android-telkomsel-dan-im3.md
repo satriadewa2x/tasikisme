@@ -12,30 +12,16 @@ tags:
   - Android
   - Internet
 ---
-<p style="text-align: justify;">
-  Apa jadinya bila Android tanpa koneksi internet? Yang pasti kinerja android tidak akan maksimal dan hanya bisa dipakai nelpon dan sms saja. Koneksi Internet sangat dibutuhkan oleh Android karena berbagai fitur dan menu di Android hanya bisa berfungsi dan berjalan dengan sempurna saat handphone terkoneksi ke internet.<!--more-->
-</p>
+Apa jadinya bila Android tanpa koneksi internet? Yang pasti kinerja android tidak akan maksimal dan hanya bisa dipakai nelpon dan sms saja. Koneksi Internet sangat dibutuhkan oleh Android karena berbagai fitur dan menu di Android hanya bisa berfungsi dan berjalan dengan sempurna saat handphone terkoneksi ke internet.
 
-<p style="text-align: justify;">
-  Pernahkah kamu mengalami masalah tidak bisa internetan di Android padahal kuota internet masih banyak dan baru berlangganan paket super internet? Internet error di Android bisa disebabkan karena pengaturan akses point name atau titik akses yang tidak sesuai dengan operator yang kamu pakai, semisal bila kamu pakai kartu im3 sedangkan APN yang aktif di Android adalah APN telkomsel maka tentu saja internet di Android kamu tidak akan stabil dan maksimal dan bahkan error tidak bisa konek.
-</p>
+Pernahkah kamu mengalami masalah tidak bisa internetan di Android padahal kuota internet masih banyak dan baru berlangganan paket super internet? Internet error di Android bisa disebabkan karena pengaturan akses point name atau titik akses yang tidak sesuai dengan operator yang kamu pakai, semisal bila kamu pakai kartu im3 sedangkan APN yang aktif di Android adalah APN telkomsel maka tentu saja internet di Android kamu tidak akan stabil dan maksimal dan bahkan error tidak bisa konek.
 
-<p style="text-align: justify;">
-  Untuk merubah Pengaturan APN Internet Android Telkomsel, pertama kamu masuk ke menu Pengaturan – Lainnya – Jaringan Seluler – Nama Titik Akses seperti di bawah ini. Selanjutnya untuk APN Telkomsel cukup isi pada bagian Nama yang bisa diisi bebas dan APN isi dengan telkomsel atau internet untuk kolom yang lainnya cukup dikosongkan saja.
-</p>
+Untuk merubah Pengaturan APN Internet Android Telkomsel, pertama kamu masuk ke menu Pengaturan – Lainnya – Jaringan Seluler – Nama Titik Akses seperti di bawah ini. Selanjutnya untuk APN Telkomsel cukup isi pada bagian Nama yang bisa diisi bebas dan APN isi dengan telkomsel atau internet untuk kolom yang lainnya cukup dikosongkan saja.
 
-<p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="https://2.bp.blogspot.com/-ux5WdxmQqYI/VgfUvnsu4FI/AAAAAAAAHFg/apsa1PM_rho/s1600/pengaturan-internet-android-telkomsel-1.png" alt="pengaturan internet android telkomsel" width="610" height="534" />
-</p>
+<img loading="lazy"  src="https://2.bp.blogspot.com/-ux5WdxmQqYI/VgfUvnsu4FI/AAAAAAAAHFg/apsa1PM_rho/s1600/pengaturan-internet-android-telkomsel-1.png" alt="pengaturan internet android telkomsel" width="610" height="534" /> 
 
-<p style="text-align: justify;">
-  Lalu bagaimana untuk pengaturan internet Android IM3? Cara hampir sama dengan Telkomsel, kamu tinggal merubah pada bagian nama (bebas), APN isi dengan indosatgprs sedangkan username dan password isi dengan indosat atau lebih lengkapnya lihat pada tabel di bawah ini.
-</p>
+Lalu bagaimana untuk pengaturan internet Android IM3? Cara hampir sama dengan Telkomsel, kamu tinggal merubah pada bagian nama (bebas), APN isi dengan indosatgprs sedangkan username dan password isi dengan indosat atau lebih lengkapnya lihat pada tabel di bawah ini.
 
-<p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="https://3.bp.blogspot.com/-Y04joA3VXgA/VgfUvhdl2-I/AAAAAAAAHFc/P28z6nelgWQ/s1600/pengaturan-internet-android-im3.png" alt="pengaturan internet android im3" width="610" height="610" />
-</p>
+<img loading="lazy"  src="https://3.bp.blogspot.com/-Y04joA3VXgA/VgfUvhdl2-I/AAAAAAAAHFc/P28z6nelgWQ/s1600/pengaturan-internet-android-im3.png" alt="pengaturan internet android im3" width="610" height="610" /> 
 
-<p style="text-align: justify;">
-  Dengan mengatur APN yang benar dan sesuai dengan operator yang kamu pakai, maka sudah bisa dipastikan koneksi internet di Android kamu akan lebih lancar dan stabil.
-</p>
+Dengan mengatur APN yang benar dan sesuai dengan operator yang kamu pakai, maka sudah bisa dipastikan koneksi internet di Android kamu akan lebih lancar dan stabil.

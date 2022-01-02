@@ -4,7 +4,7 @@ title: Pamer Nama dekat Jam di Komputer Anda
 date: 2009-03-06T13:56:15+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=272
+guid: https://www.tasikisme.com/?p=272
 permalink: /pamer-nama-dekat-jam-di-komputer-anda/
 categories:
   - Informasi
@@ -26,10 +26,6 @@ tags:
   
   <p>
     Langkahnya cukup sederhana, hanya perlu waktu 2 menit untuk anda mulai memamerkan nama anda di komputer atau laptop anda.
-  </p>
-  
-  <p>
-    <!--more-->
   </p>
   
   <p>

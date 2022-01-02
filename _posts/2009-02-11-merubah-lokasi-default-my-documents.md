@@ -4,7 +4,7 @@ title: Merubah Lokasi Default My Documents
 date: 2009-02-11T17:33:37+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=255
+guid: https://www.tasikisme.com/?p=255
 permalink: /merubah-lokasi-default-my-documents/
 categories:
   - Komputer
@@ -24,31 +24,19 @@ Dengan demikian bila suatu saat komputer anda terserang virus dan mengharuskan k
 
 Untuk merubah default lokasi My Documents langkahnya sangat mudah dan hanya memerlukan waktu kurang dari 2 menit.
 
-1. Klik kanan pada My Documents kemudian Properties
+1. Klik kanan pada My Documents kemudian Properties  
+<img title="Dokument Properties" src="https://wisatacinta.files.wordpress.com/2009/01/document_01.gif" alt="Dokument Properties" border="0" /> </div> 
 
-<div style="text-align: center;">
-  <img title="Dokument Properties" src="https://wisatacinta.files.wordpress.com/2009/01/document_01.gif" alt="Dokument Properties" border="0" />
-</div>
-
-2. Setelah itu akan muncul My Documents Properties
-
-<div style="text-align: center;">
-  <img title="My Document Properties" src="https://wisatacinta.files.wordpress.com/2009/01/document_02.gif" alt="My Document Properties" border="0" />
-</div>
+2. Setelah itu akan muncul My Documents Properties  
+<img title="My Document Properties" src="https://wisatacinta.files.wordpress.com/2009/01/document_02.gif" alt="My Document Properties" border="0" /> </div> 
 
 3. Untuk merubah lokasi Default My Documents, tinggal anda klik Move
 
-4. Pada jendela Select a Destination, tentukan lokasi baru untuk folder My Documents (Sebaiknya anda buat folder baru dengan mengklik Make New Folder pada Drive D terpisah dari lokasi instalasi windows XP anda, dalam contoh penulis membuat folder baru bernama Tasikisme, setelah itu klik OK
+4. Pada jendela Select a Destination, tentukan lokasi baru untuk folder My Documents (Sebaiknya anda buat folder baru dengan mengklik Make New Folder pada Drive D terpisah dari lokasi instalasi windows XP anda, dalam contoh penulis membuat folder baru bernama Tasikisme, setelah itu klik OK  
+<img title="Select A Destination" src="https://wisatacinta.files.wordpress.com/2009/01/document_03.gif" alt="Select A Destination" border="0" /> </div> 
 
-<div style="text-align: center;">
-  <img title="Select A Destination" src="https://wisatacinta.files.wordpress.com/2009/01/document_03.gif" alt="Select A Destination" border="0" />
-</div>
-
-5. Kembali ke jendela My Documents Properties, k ini terlihat bahwa posisi atau target My Documents anda telah berubah ke lokasi D:/Tasikisme. Untuk menyimpan perubahan yang baru saja dilakukan klik tombol APPLY dan kemudian OK
-
-<div style="text-align: center;">
-  <img title="Dokument Propersties" src="https://wisatacinta.files.wordpress.com/2009/01/document_04.gif" alt="Dokument Propersties" border="0" />
-</div>
+5. Kembali ke jendela My Documents Properties, kini terlihat bahwa posisi atau target My Documents anda telah berubah ke lokasi D:/Tasikisme. Untuk menyimpan perubahan yang baru saja dilakukan klik tombol APPLY dan kemudian OK  
+<img title="Dokument Propersties" src="https://wisatacinta.files.wordpress.com/2009/01/document_04.gif" alt="Dokument Propersties" border="0" /> </div> 
 
 K ini setiap anda menyimpan data di My Documents maka akan tersimpan pada Folder yang sesuai dengan yang anda tentukan, dan andapun bisa terhindar dari resiko kehilangan data dan dokument bila suatu saat nanti Komputer anda harus diinstal ulang karena virus.
 

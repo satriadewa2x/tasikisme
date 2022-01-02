@@ -4,7 +4,7 @@ title: 'Hati-hati  Fakebooking yang bertebaran di Facebook'
 date: 2009-02-24T10:34:33+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=266
+guid: https://www.tasikisme.com/?p=266
 permalink: /hati-hati-fakebooking-yang-bertebaran-di-facebook/
 categories:
   - Facebook

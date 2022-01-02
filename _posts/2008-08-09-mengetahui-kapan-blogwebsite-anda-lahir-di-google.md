@@ -4,7 +4,7 @@ title: Mengetahui Kapan Blog/Website Anda Lahir di Google
 date: 2008-08-09T19:20:22+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=170
+guid: https://www.tasikisme.com/?p=170
 permalink: /mengetahui-kapan-blogwebsite-anda-lahir-di-google/
 categories:
   - Internet
@@ -23,7 +23,7 @@ Langkah mengetahui Kelahiran Blog/Web Anda Di Google
 
 Dengan menggunakan proses pencarian seperti berikut ini anda bisa mengetahui tanggal berapa Blog anda lahir di Google. Dalam contoh diatas cukup anda ganti keyword www.tasikisme.com dengan alamat blog anda (misal anda punya Blog di WordPress maka ganti keyword tersebut menjadi (misalnya) akucintakaudandia.wordpress.com
 
-That’s All… k ini anda bisa tahu pasti kapan Anda harus merayakan hari ulang tahun blog anda.
+That’s All… kini anda bisa tahu pasti kapan Anda harus merayakan hari ulang tahun blog anda.
 
 Catatan :
 

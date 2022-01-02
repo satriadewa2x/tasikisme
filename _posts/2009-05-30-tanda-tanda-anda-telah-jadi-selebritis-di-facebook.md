@@ -4,7 +4,7 @@ title: Tanda-Tanda Anda telah jadi Selebritis di Facebook
 date: 2009-05-30T17:38:06+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=315
+guid: https://www.tasikisme.com/?p=315
 permalink: /tanda-tanda-anda-telah-jadi-selebritis-di-facebook/
 categories:
   - Facebook
@@ -18,10 +18,6 @@ tags:
   
   <p>
     Selamat, kalau tanda-tanda seperti diatas mulai menyerang anda? atau bahkan mungkin telah lama anda rasakan, berarti anda telah menjadi seorang fesbukholic alias orang yang telah kecanduan sama yang namanya fesbuk? pertanyaan selanjutnya sudahkah anda menjadi seorang selebritis di facebook? atau mungkin anda hanya jadi ‘orang biasa-biasa’ di fesbuk?
-  </p>
-  
-  <p>
-    <!--more-->
   </p>
   
   <ul>

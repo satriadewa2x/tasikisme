@@ -4,7 +4,7 @@ title: Print Out dengan Koneksi Bluetooth
 date: 2008-10-28T12:03:48+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=192
+guid: https://www.tasikisme.com/?p=192
 permalink: /print-out-dengan-koneksi-bluetooth/
 categories:
   - Komputer

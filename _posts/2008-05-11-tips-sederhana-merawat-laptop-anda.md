@@ -4,7 +4,7 @@ title: Tips Sederhana Merawat Laptop Anda
 date: 2008-05-11T08:06:52+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=96
+guid: https://www.tasikisme.com/?p=96
 permalink: /tips-sederhana-merawat-laptop-anda/
 categories:
   - Laptop
@@ -13,7 +13,7 @@ tags:
   - Laptop
   - Tips
 ---
-Masih ingat sama ungkapan ini, “Kembali ke.. Laptop”? Tak bisa dipungkiri lagi, saat ini keberadaan Laptop sudah merupakan sebuah kebutuhan sehari-hari kita. Berbagai macam merk Laptop k ini tersedia di pasaran sehingga memudahkan kita untuk memilihnya, apalagi dengan kisaran harga yang semakin murah tapi dengan fitur-fitur yang semakin canggih.
+Masih ingat sama ungkapan ini, “Kembali ke.. Laptop”? Tak bisa dipungkiri lagi, saat ini keberadaan Laptop sudah merupakan sebuah kebutuhan sehari-hari kita. Berbagai macam merk Laptop kini tersedia di pasaran sehingga memudahkan kita untuk memilihnya, apalagi dengan kisaran harga yang semakin murah tapi dengan fitur-fitur yang semakin canggih.
 
 Tapi semahal dan secanggih apapun Laptop kita, kalau tanpa perawatan yang baik, maka jangan mengharapkan Laptop kita akan berumur panjang dan bekerja dengan baik. Nah bagi anda yang punya Laptop, ada baiknya anda coba tips sederhana merawat laptop berikut ini, mudah-mudahan bermanfaat.
 

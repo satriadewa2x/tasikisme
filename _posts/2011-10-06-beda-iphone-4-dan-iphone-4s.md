@@ -4,7 +4,7 @@ title: Beda iPhone 4 dan iPhone 4S
 date: 2011-10-06T11:45:11+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=509
+guid: https://www.tasikisme.com/?p=509
 permalink: /beda-iphone-4-dan-iphone-4s/
 categories:
   - Apple
@@ -14,9 +14,7 @@ tags:
   - Apple
   - iPhone
 ---
-<p style="text-align: justify;">
-  Apple mengumumkan kehadiran iPhone terbaru yakni iPhone 4S? lalu ada bedanya antara iPhone 4 dan 4S? Jika Anda penggemar berat produk Apple terutama iPhone, dan bingung apakah harus mengganti iPhone 4 dengan iPhone 4S, soalnya dari segi bentuk dan fisik, iPhone 4 dan iPhone 4S memang sama dan tidak mengalami perubahan yang signifikan. Berikut ini sekilas perbedaan antara iPhone 4 dan iPhone 4S.
-</p>
+Apple mengumumkan kehadiran iPhone terbaru yakni iPhone 4S? lalu ada bedanya antara iPhone 4 dan 4S? Jika Anda penggemar berat produk Apple terutama iPhone, dan bingung apakah harus mengganti iPhone 4 dengan iPhone 4S, soalnya dari segi bentuk dan fisik, iPhone 4 dan iPhone 4S memang sama dan tidak mengalami perubahan yang signifikan. Berikut ini sekilas perbedaan antara iPhone 4 dan iPhone 4S.
 
 iPhone 4S menggunakan prosesor yang lebih cepat dibandingkan dengan iPhone 4. Prosesor yang dipakai oleh iPhone 4S sama dengan proses yang dipakai oleh iPad 2 yakni Prosesor Apple A5 Dual Core begitu juga dari sisi grafis, sehingga tentunya kinerja iPhone 4S akan 2x lebih cepat dibandingkan iPhone 4 dan kemampuan grafis 7x lebih cepat dibandingkan pada iPhone 4.
 

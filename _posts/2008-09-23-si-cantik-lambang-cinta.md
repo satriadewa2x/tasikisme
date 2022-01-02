@@ -4,7 +4,7 @@ title: Apa Lambang Cinta di Dunia?
 date: 2008-09-23T13:18:19+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=183
+guid: https://www.tasikisme.com/?p=183
 permalink: /si-cantik-lambang-cinta/
 categories:
   - Cinta

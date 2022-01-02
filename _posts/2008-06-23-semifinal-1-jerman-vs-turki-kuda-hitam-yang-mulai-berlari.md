@@ -4,7 +4,7 @@ title: 'Semifinal 1 |  Jerman vs Turki, Kuda Hitam yang mulai berlari'
 date: 2008-06-23T13:08:27+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=138
+guid: https://www.tasikisme.com/?p=138
 permalink: /semifinal-1-jerman-vs-turki-kuda-hitam-yang-mulai-berlari/
 categories:
   - Olahraga
@@ -31,6 +31,6 @@ Michael Ballack cs akan bertarung mati-matian untuk mempersembahkan gelar Euro 2
 Secara statistik, head to head, Jerman harus diakui jauh lebih unggul daripada Turki. Dari 17 kali bertemu,  
 Jerman membukukan kemenangan11 Kali, sedang Turki hanya 3 kali, dengan 3 kali Drawn. Begitu juga dengan produktivitas gol, erman mampu melesakan 40 gol ke gawang Turki, sedang Turki hanya mampu memasukan 10 gol saja.
 
-Jadi, dari kedua perhitungan matematika dan statistik ini, kedua Tim sama-sama punya kekuatan tersendiri. Siapa yang bakal jadi pemenangnya dan mendapatkan satu tiket ke babak Final Euro 2008? Kita tunggu jawabannya tanggal 25 Juni mendatang langsung dari stadion St. Jakob Park, Basel.
+Jadi, dari kedua perhitungan matematika dan statistikini, kedua Tim sama-sama punya kekuatan tersendiri. Siapa yang bakal jadi pemenangnya dan mendapatkan satu tiket ke babak Final Euro 2008? Kita tunggu jawabannya tanggal 25 Juni mendatang langsung dari stadion St. Jakob Park, Basel.
 
 Sebagai tambahan, saat ini di beberapa bursa taruhan international, Jerman masih diunggulkan atas Turki dengan kondisi 79-9-12 untuk Tim Jerman. Turki hanya diunggulkan 12 % saja, dengan 9% drawn. Tapi sekali lagi, bola itu bundar. Hasil akhir tetap tergantung 90 menit yang terjadi di lapangan. So, siapa tim jagoan Anda? Jerman atau Turki?

@@ -4,7 +4,7 @@ title: Merayakan Valentine Day sebagai V-Day
 date: 2009-02-02T17:36:02+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=247
+guid: https://www.tasikisme.com/?p=247
 permalink: /merayakan-valentine-day-sebagai-v-day/
 categories:
   - Cinta

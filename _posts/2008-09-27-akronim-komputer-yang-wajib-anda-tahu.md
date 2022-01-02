@@ -4,7 +4,7 @@ title: Akronim Komputer Yang Wajib Anda Tahu
 date: 2008-09-27T13:37:13+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=184
+guid: https://www.tasikisme.com/?p=184
 permalink: /akronim-komputer-yang-wajib-anda-tahu/
 categories:
   - Informasi
@@ -15,7 +15,7 @@ tags:
 ---
 Meski anda hanya sebagai “end user” atau user biasa, yang hanya berperan sebagai pengguna komputer saja, ada baiknya anda ketahui sedikit tentang akronim-akronim di bi dang per-komputeran.
 
-Hingga bila suatu saat anda mengalami masalah dengan komputer yang anda pakai, anda bisa sedikit tahu apa dan bagaimana masalah yang se dang anda hadapi.
+Hingga bila suatu saat anda mengalami masalah dengan komputer yang anda pakai, anda bisa sedikit tahu apa dan bagaimana masalah yang sedang anda hadapi.
 
 Selain itu, dengan mengetahui beberapa akronim komputer, paling tidak anda bisa mencegah dari tindakan penipuan yang kemungkinan terjadi karena ketidaktahuan anda tentang istilah-istilah umum di bidang komputer.
 

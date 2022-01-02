@@ -4,7 +4,7 @@ title: Mengatasi Sulit Tidur dengan Mudah dan Cepat
 date: 2008-11-21T12:25:31+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=200
+guid: https://www.tasikisme.com/?p=200
 permalink: /bagaimana-agar-anda-bisa-tertidur-dengan-cepat/
 categories:
   - Informasi

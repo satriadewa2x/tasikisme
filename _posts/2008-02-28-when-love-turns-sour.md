@@ -4,7 +4,7 @@ title: Contoh Cerita Pendek Patah Hati dalam Bahasa Inggris
 date: 2008-02-28T17:26:32+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=32
+guid: https://www.tasikisme.com/?p=32
 permalink: /when-love-turns-sour/
 categories:
   - Cinta

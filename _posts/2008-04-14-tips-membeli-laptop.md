@@ -4,7 +4,7 @@ title: Tips Membeli Laptop
 date: 2008-04-14T16:39:32+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=67
+guid: https://www.tasikisme.com/?p=67
 permalink: /tips-membeli-laptop/
 categories:
   - Laptop

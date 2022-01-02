@@ -4,7 +4,7 @@ title: Browsing lebih Cepat dengan Mobile View
 date: 2009-01-18T06:05:07+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=234
+guid: https://www.tasikisme.com/?p=234
 permalink: /browsing-lebih-cepat-dengan-mobile-view/
 categories:
   - Internet

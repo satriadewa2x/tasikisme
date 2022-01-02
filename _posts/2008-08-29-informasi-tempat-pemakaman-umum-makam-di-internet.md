@@ -4,14 +4,14 @@ title: Informasi Tempat Pemakaman Umum (Makam) di Internet
 date: 2008-08-29T12:40:54+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=176
+guid: https://www.tasikisme.com/?p=176
 permalink: /informasi-tempat-pemakaman-umum-makam-di-internet/
 categories:
   - Informasi
 tags:
   - Informasi
 ---
-Informasi apapun k ini bisa diperoleh dengan mudah secara online di internet, mulai dari informasi tentang film teranyar, lagu terbaru dari group band terkenal, informasi bisnis, informasi tentang pertanian, bahkan secara online pun anda bisa mendapatkan informasi tentang Tempat Pemakaman Umum alias TPU atau makam.
+Informasi apapun kini bisa diperoleh dengan mudah secara online di internet, mulai dari informasi tentang film teranyar, lagu terbaru dari group band terkenal, informasi bisnis, informasi tentang pertanian, bahkan secara online pun anda bisa mendapatkan informasi tentang Tempat Pemakaman Umum alias TPU atau makam.
 
 Yups, bila anda berencana untuk mencari TPU/Makam, tidak ada salahnya bila mulai dari sekarang anda mulai mencari-cari tentang TPU yang mungkin cocok dan tentunya paling banyak digunakan dan terkenal sampai ke seluruh pelosok dunia 🙂
 

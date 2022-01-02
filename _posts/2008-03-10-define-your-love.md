@@ -4,7 +4,7 @@ title: Definisi Cinta itu Apa?
 date: 2008-03-10T16:34:38+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=41
+guid: https://www.tasikisme.com/?p=41
 permalink: /define-your-love/
 categories:
   - Cinta

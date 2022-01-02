@@ -4,7 +4,7 @@ title: Mengembalikan “Folder Option” yang hilang?
 date: 2008-04-25T10:17:46+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=78
+guid: https://www.tasikisme.com/?p=78
 permalink: /mengembalikan-folder-option-yang-hilang/
 categories:
   - Komputer

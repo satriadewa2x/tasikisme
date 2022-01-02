@@ -4,7 +4,7 @@ title: Tips Merawat Handphone Biar Awet
 date: 2008-04-01T16:42:44+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=56
+guid: https://www.tasikisme.com/?p=56
 permalink: /jagalah-hape-anda/
 categories:
   - Handphone

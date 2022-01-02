@@ -4,17 +4,15 @@ title: Hati-hati Virus yang Bertebaran di Facebook
 date: 2009-06-14T08:19:57+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=321
+guid: https://www.tasikisme.com/?p=321
 permalink: /hati-hati-virus-yang-bertebaran-di-facebook/
 categories:
   - Facebook
 tags:
   - Facebook
 ---
-<div style="text-align: justify;">
-  <p style="text-align: justify;">
-    Anda pernah menerima message dari Friend anda di Facebook yang di dalamnya berisi sebuah link untuk melihat sebuah Video? Yups… jika anda pernah menerima message seperti itu, hati-hati saja ada kemungkinan anda memang se dang diserang oleh sebuah virus. Kalau selama ini anda mengira bahwa Facebook atau Friendster ataupun MySpace dan Sosial Networking lainnya adalah tempat yang indah, aman dan bebas dari segala macam ancaman, maka anggapan anda tersebut 100% sangat salah. Facebook k ini telah menjadi salah satu target bagi penyebaran virus-virus yang tentunya sangat membahayakan kegiatan online anda.
-  </p>
+<div >
+  Anda pernah menerima message dari Friend anda di Facebook yang di dalamnya berisi sebuah link untuk melihat sebuah Video? Yups… jika anda pernah menerima message seperti itu, hati-hati saja ada kemungkinan anda memang se dang diserang oleh sebuah virus. Kalau selama ini anda mengira bahwa Facebook atau Friendster ataupun MySpace dan Sosial Networking lainnya adalah tempat yang indah, aman dan bebas dari segala macam ancaman, maka anggapan anda tersebut 100% sangat salah. Facebook k ini telah menjadi salah satu target bagi penyebaran virus-virus yang tentunya sangat membahayakan kegiatan online anda.</p> 
   
   <p>
     Kalau anda tidak percaya, simak beberapa virus yang telah, se dang dan mungkin akan menyerang anda lewat Facebook maupun online social networking lainnya seperti Friendster, MySpace ataupun Bebo.

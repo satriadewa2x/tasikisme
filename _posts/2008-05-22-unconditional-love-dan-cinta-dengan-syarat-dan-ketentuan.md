@@ -4,7 +4,7 @@ title: Unconditional Love dan Cinta dengan “Syarat dan Ketentuan”
 date: 2008-05-22T11:40:11+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=104
+guid: https://www.tasikisme.com/?p=104
 permalink: /unconditional-love-dan-cinta-dengan-syarat-dan-ketentuan/
 categories:
   - Cinta

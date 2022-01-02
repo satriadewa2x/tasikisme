@@ -4,7 +4,7 @@ title: Download Need For Speed Undercover untuk iPhone
 date: 2009-05-08T15:04:32+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=307
+guid: https://www.tasikisme.com/?p=307
 permalink: /download-need-for-speed-undercover-untuk-iphone/
 categories:
   - Apple
@@ -14,7 +14,7 @@ tags:
   - Apple
   - iPhone
 ---
-<div style="text-align: justify;">
+<div >
   <p>
     Kalau anda penggemar game Need For Speed jangan pernah lewatkan game teranyar dari EA Mobile Games untuk iPhone anda, <strong>Need For Speed Undercover</strong>. Game balap mobil ini layak anda mainkan untuk mengisi waktu santai anda.
   </p>

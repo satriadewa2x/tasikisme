@@ -4,7 +4,7 @@ title: Tips Menghindari Scareware atau Rogue Scanner
 date: 2008-11-04T11:14:29+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=195
+guid: https://www.tasikisme.com/?p=195
 permalink: /tips-menghindari-scareware-atau-rogue-scanner/
 categories:
   - Informasi
@@ -13,7 +13,7 @@ tags:
   - Informasi
   - Komputer
 ---
-Saat anda surfing mungkin anda pernah melihat iklan yang menawarkan “scan atau system tune up online” secara gratis, atau mungkin juga anda pernah menerima email berisi iklan tentang “free antivirus terbaru yang menawarkan berbagai service gratis”, nah bila anda pernah mengalami ini semua, hati-hati saja kemungkinan besar anda se dang berhadapan dengan yang namanya “Scareware”.
+Saat anda surfing mungkin anda pernah melihat iklan yang menawarkan “scan atau system tune up online” secara gratis, atau mungkin juga anda pernah menerima email berisi iklan tentang “free antivirus terbaru yang menawarkan berbagai service gratis”, nah bila anda pernah mengalami ini semua, hati-hati saja kemungkinan besar anda sedang berhadapan dengan yang namanya “Scareware”.
 
 Scareware termasuk dalam kategori scam software yaitu software yang sepertinya diciptakan untuk “menolong” anda padahal secara diam-diam tujuan utamanya adalah “menipu” anda dengan berbagai cara. Scareware yang juga dikenal dengan sebutan Rogue Scanner, bisa berbentuk sebagai antivirus, antispyware atau program security lainnya.
 
@@ -23,7 +23,7 @@ UUD yups Ujung-Ujungnya Duit scareware ini tadinya memang ditawarkan secara grat
 
 Selain itu harga “Full Version” dari scareware ini mungkin tertulis “hanya” 20 US Dollar tapi begitu anda melakukan transaksi jangan kaget bila kemudian di kartu kredit anda akan tertera transaksi sebesar 200 US Dollar atau malah lebih besar lagi.
 
-Scareware atau Rogue Scanner k ini banyak beredar di internet dan untuk menarik perhatian orang biasanya scareware tidak segan-segan memasang iklan sebagai “Free antivirus atau Free System Tune Up”.
+Scareware atau Rogue Scanner kini banyak beredar di internet dan untuk menarik perhatian orang biasanya scareware tidak segan-segan memasang iklan sebagai “Free antivirus atau Free System Tune Up”.
 
 Tidak hanya itu mereka juga secara giat mengirimkan email ke calon korban yang dianggap potensial untuk ditipu dengan email scam yang berisi berita terbaru tentang sebuah antivirus yang mampu membasmi virus-virus yang sedang gentayangan saat ini.
 

@@ -4,7 +4,7 @@ title: 5 Game Terbaik Nintendo Wii
 date: 2008-12-28T17:29:34+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=218
+guid: https://www.tasikisme.com/?p=218
 permalink: /5-game-terbaik-nintendo-wii/
 categories:
   - Informasi
@@ -12,7 +12,7 @@ tags:
   - Game
   - Informasi
 ---
-Bermain game memang mengasyikan, dan tak jarang membuat kita lupa dengan waktu. Apalagi k ini kita dimanjakan oleh berbagai macam konsol untuk bermain game mulai dari Playstation, Xbox 360, PC sampai ke Nintendo Wii.
+Bermain game memang mengasyikan, dan tak jarang membuat kita lupa dengan waktu. Apalagi kini kita dimanjakan oleh berbagai macam konsol untuk bermain game mulai dari Playstation, Xbox 360, PC sampai ke Nintendo Wii.
 
 Tak hanya itu para produsen Games pun berlomba-lomba menciptakan games yang semakin hari semakin bervariatif dan imajinatif, sehingga banyak pilihan untuk kita bisa bermain game.
 

@@ -4,7 +4,7 @@ title: Menangis terharu menonton Ayat-ayat Cinta!
 date: 2008-03-25T14:37:41+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=50
+guid: https://www.tasikisme.com/?p=50
 permalink: /menangis-terharu-menonton-ayat-ayat-cinta/
 categories:
   - Cinta
@@ -24,6 +24,6 @@ he..he… malah ada salah seorang teman penulis yang menangis, karena ternyata d
 Terlepas dari berbagai macam alasan yang membuat orang menangis terharu saat menonton film Ayat-Ayat Cinta ini kita harus mengakui bahwa film ini memang keren dan top banget. Hanung Bramantyo sukses menerjemahkan novel Ayat-ayat Cinta ini dalam bentuk film yang sanggup mengaduk emosi penonton dan yang lebih membanggakan masyarakat begitu antusias dan menyambut baik terhadap film yang bergenre religius ini.
 
 Di saat televisi-televisi kita berlomba-lomba menghadirkan sinetron yang cenderung berorientasi pada kehidupan mewah dunia bebas atau bahkan hal-hal yang berbau mistik sihir film Ayat-Ayat Cinta ini hadir di tengah-tengah masyarakat dan seolah-olah menjadi penawar dahaga masyarakat atas film-film yang bernuansa religius  
-yang k ini jarang sekali ada di televisi-televisi kita
+yang kini jarang sekali ada di televisi-televisi kita
 
 Terakhir Bila Habibie aja sampai menangis bagaimana dengan pengalaman kamu saat menonton film Ayat-ayat ini? menangis juga? Oia buat yang belum lihat filmnya baca dulu dech resensi singkat Ayat-Ayat Cinta biar pas kamu nonton kamu bakal tahu apa perbedaan antara film dan Novelnya.

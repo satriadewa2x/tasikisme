@@ -4,7 +4,7 @@ title: Kehilangan Password Windows XP Anda? Inilah Salah Satu Solusinya
 date: 2008-06-17T10:02:26+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=131
+guid: https://www.tasikisme.com/?p=131
 permalink: /kehilangan-password-windows-xp-anda-inilah-salah-satu-solusinya/
 categories:
   - Komputer

@@ -4,7 +4,7 @@ title: Julukan atau Nickname Team Euro 2008
 date: 2008-06-05T21:55:05+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=119
+guid: https://www.tasikisme.com/?p=119
 permalink: /julukan-atau-nickname-team-euro-2008/
 categories:
   - Olahraga

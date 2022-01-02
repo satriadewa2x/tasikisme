@@ -4,7 +4,7 @@ title: Cara mudah Memunculkan Kembali File yang ter-Hidden karena Virus
 date: 2008-06-29T06:47:16+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=144
+guid: https://www.tasikisme.com/?p=144
 permalink: /cara-mudah-memunculkan-kembali-file-yang-ter-hidden-karena-virus/
 categories:
   - Komputer

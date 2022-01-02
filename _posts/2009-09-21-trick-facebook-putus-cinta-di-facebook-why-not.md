@@ -4,16 +4,14 @@ title: 'Trick Facebook : Putus Cinta di Facebook, Why Not?'
 date: 2009-09-21T09:35:46+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=347
+guid: https://www.tasikisme.com/?p=347
 permalink: /trick-facebook-putus-cinta-di-facebook-why-not/
 categories:
   - Facebook
 tags:
   - Facebook
 ---
-<p style="text-align: justify;">
-  Zaman sekarang, apapun bisa dilakukan secara online, mulai dari belanja barang (laptop, handphone ataupun baju sekalipun), melakukan transaksi online banking, membayar pajak bahkan sampai kepada mencari pacar secara online. Dan satu lagi yang bisa kita lakukan secara online adalah Putus Cinta alias memutuskan pacar kita? Kok bisa? Bagaimana caranya?
-</p>
+Zaman sekarang, apapun bisa dilakukan secara online, mulai dari belanja barang (laptop, handphone ataupun baju sekalipun), melakukan transaksi online banking, membayar pajak bahkan sampai kepada mencari pacar secara online. Dan satu lagi yang bisa kita lakukan secara online adalah Putus Cinta alias memutuskan pacar kita? Kok bisa? Bagaimana caranya?
 
 Kalau anda pernah memutuskan seseorang, tentu anda pernah merasakan bagaimana sulitnya untuk memutuskan seseorang (yang masih mencintai kita), kita  mesti dihadapkan dengan wajah sedih dari orang yang kita putuskan, sampai kepada berbagai perasaan negatif yang muncul dari pasangan kita dan bahkan mungkin mesti beradu argumen, kenapa dan mengapa kita memutuskan dia.
 

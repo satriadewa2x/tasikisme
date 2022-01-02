@@ -4,7 +4,7 @@ title: Raport Sementara Euro 2008
 date: 2008-06-20T11:35:20+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=133
+guid: https://www.tasikisme.com/?p=133
 permalink: /raport-sementara-euro-2008/
 categories:
   - Olahraga

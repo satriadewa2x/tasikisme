@@ -4,16 +4,14 @@ title: Cara Membatalkan Permintaan Menjadi Teman di Facebook
 date: 2010-04-29T08:51:52+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=393
+guid: https://www.tasikisme.com/?p=393
 permalink: /cara-membatalkan-permintaan-menjadi-teman-di-facebook/
 categories:
   - Facebook
 tags:
   - Facebook
 ---
-<p style="text-align: justify;">
-  Tanpa sadar anda mengklik Add as Friend atau Tambahkan sebagai Teman saat melihat profil Facebook sang mantan. Karena sesuatu hal dan alasan pribadi mungkin anda ingin membatalkan permintaan sebagai teman tersebut, karena anda tidak menginginkan sang Mantan menjadi ge-er dan merasa bahwa anda masih mencintainya. Tips sederhana berikut adalah Cara Membatalkan Friends Request atau permintaan menjadi teman.
-</p>
+Tanpa sadar anda mengklik Add as Friend atau Tambahkan sebagai Teman saat melihat profil Facebook sang mantan. Karena sesuatu hal dan alasan pribadi mungkin anda ingin membatalkan permintaan sebagai teman tersebut, karena anda tidak menginginkan sang Mantan menjadi ge-er dan merasa bahwa anda masih mencintainya. Tips sederhana berikut adalah Cara Membatalkan Friends Request atau permintaan menjadi teman.
 
 Pertama setelah Login, masuk ke Menu [Account] dan pilih [Edit Friend]
 

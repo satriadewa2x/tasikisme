@@ -4,7 +4,7 @@ title: 10 Tips Terbaik untuk Nokia Lumia 800
 date: 2012-04-27T03:21:12+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=535
+guid: https://www.tasikisme.com/?p=535
 permalink: /10-tips-terbaik-untuk-nokia-lumia-800/
 categories:
   - Handphone
@@ -14,9 +14,7 @@ tags:
   - Tips
   - Trick
 ---
-<p style="text-align: justify;">
-  Hadir dengan Windows Phone 7 jajaran ponsel seri Nokia Lumia mulai dari Lumia 800, 710 sampai Nokia Lumia 900 memang sangat nyaman untuk dipakai dan digunakan dan tentunya tampilan Windows Phone 7 dengan menu berbentuk kotak-kotak persegi menambah keindahan dan tentunya pengalaman tersendiri dalam menggunakan sebuah ponsel.
-</p>
+Hadir dengan Windows Phone 7 jajaran ponsel seri Nokia Lumia mulai dari Lumia 800, 710 sampai Nokia Lumia 900 memang sangat nyaman untuk dipakai dan digunakan dan tentunya tampilan Windows Phone 7 dengan menu berbentuk kotak-kotak persegi menambah keindahan dan tentunya pengalaman tersendiri dalam menggunakan sebuah ponsel.
 
 Berikut ini adalah 10 tips terbaik untuk Nokia Lumia yang hadir dengan sistem operasi Windows Phone 7
 
@@ -26,17 +24,11 @@ Dua, Baterai Nokia Lumia Anda cepat habis? Sedikit tips untuk menghemat baterai 
 
 Tiga, ingin melakukan test terhadap Nokia Lumia 800/710 atau Lumia 610 cukup tekan ##634# nantinya Anda bisa melakukan serangkai test terhadap fungsi atau fitur di Nokia Lumia.
 
-<p style="text-align: center;">
-  <img loading="lazy" src="https://4.bp.blogspot.com/-2VZgPeG5oyI/T5oHAY1g6lI/AAAAAAAABAY/Rzar8_C9g1A/s1600/nokia_lumia_trick.JPG" border="0" alt="Nokia Lumia Tips" width="576" height="622" />
-</p>
+<img loading="lazy" src="https://4.bp.blogspot.com/-2VZgPeG5oyI/T5oHAY1g6lI/AAAAAAAABAY/Rzar8_C9g1A/s1600/nokia_lumia_trick.JPG" border="0" alt="Nokia Lumia Tips" width="576" height="622" /> 
 
-<p style="text-align: justify;">
-  Empat, agar tetap terhubung ke teman dekat atau pacar di Facebook, Anda bisa menambahkan shortcut dari profile Facebook orang tersebut di homescreen Windows Phone 7, tentunya pastikan terlebih dahulu Anda melakukan sinkronisasi Fb di Windows Phone 7
-</p>
+Empat, agar tetap terhubung ke teman dekat atau pacar di Facebook, Anda bisa menambahkan shortcut dari profile Facebook orang tersebut di homescreen Windows Phone 7, tentunya pastikan terlebih dahulu Anda melakukan sinkronisasi Fb di Windows Phone 7
 
-<p style="text-align: justify;">
-  Lima, punya catatan penting, atau daftar kegiatan buat esok hari, ataupun daftar belanja. Pergunakan notes di Windows Phone 7. Caranya masuk ke aplikasi Office lalu pilih Notes dan sentuh pada tanda plus (+) untuk menambah notes di Homescreen
-</p>
+Lima, punya catatan penting, atau daftar kegiatan buat esok hari, ataupun daftar belanja. Pergunakan notes di Windows Phone 7. Caranya masuk ke aplikasi Office lalu pilih Notes dan sentuh pada tanda plus (+) untuk menambah notes di Homescreen
 
 Enam, membutuhkan kalkulator lengkap atau kalkulator scientific, pastikan saat membuka kalkulator, ponsel Nokia Lumia Anda dalam posisi Landscap!
 

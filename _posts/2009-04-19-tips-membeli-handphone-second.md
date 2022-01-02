@@ -4,14 +4,14 @@ title: Tips Membeli Handphone Second!
 date: 2009-04-19T10:01:04+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=298
+guid: https://www.tasikisme.com/?p=298
 permalink: /tips-membeli-handphone-second/
 categories:
   - Handphone
 tags:
   - Handphone
 ---
-<div style="text-align: justify;">
+<div >
   <p>
     Membeli sebuah handphone second atau bekas memang ada sisi positif dan negatifnya. Sisi positifnya, harga handphone second lebih murah dibandingkan dengan handphone baru. Namun sisi negatifnya justru ka dang lebih banyak, mulai dari kondisi fisik handphone yang sudah pasti bakal ada bekas goresan disana-s ini (tidak mulus), terus baterai yang terka dang nge-drop, sampai kepada masalah layar, speaker dan mungkin kamera yang bermasalah (banyak bercak dan noise pada hasil foto). Nah, berikut ini beberapa tips, sebelum anda membeli handphone second.
   </p>

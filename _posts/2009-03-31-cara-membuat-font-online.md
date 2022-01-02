@@ -4,7 +4,7 @@ title: Cara Membuat Font Online
 date: 2009-03-31T10:42:24+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=290
+guid: https://www.tasikisme.com/?p=290
 permalink: /cara-membuat-font-online/
 categories:
   - Internet
@@ -23,27 +23,27 @@ tags:
 
 <div>
   <ul>
-    <li style="text-align: justify;">
+    <li >
       Pertama anda kunjungi Your Fonts, sebagai font generator online yang akan membantu untuk membuat font sesuai dengan tulisan tangan anda sendiri.
     </li>
-    <li style="text-align: justify;">
+    <li >
       Cetak sebuah template. Template tersedia dalam bentuk pdf.
     </li>
-    <li style="text-align: justify;">
+    <li >
       Setelah itu isilah template yang telah di print tersebut dengan tulisan-tulisan tangan anda Begitu template terisi dengan tulisan tangan, selanjutnya scan dan save.
     </li>
-    <li style="text-align: justify;">
+    <li >
       Kemudian upload hasil scan template tadi.
     </li>
-    <li style="text-align: justify;">
+    <li >
       Preview, download dan instal font yang telah tercipta ke laptop anda pada folder Windows/Fonts.
     </li>
-    <li style="text-align: justify;">
+    <li >
       Selesai
     </li>
   </ul>
 </div>
 
-<div style="text-align: justify;">
+<div >
   K ini andapun bisa menggunakan tulisan tangan anda sebagai fonts default di laptop anda.
 </div>

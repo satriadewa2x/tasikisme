@@ -4,16 +4,14 @@ title: Download Jadwal Liga Inggris 2011-2012
 date: 2011-06-18T00:54:36+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=482
+guid: https://www.tasikisme.com/?p=482
 permalink: /download-jadwal-liga-inggris-2011-2012/
 categories:
   - Olahraga
 tags:
   - Olahraga
 ---
-<p style="text-align: justify;">
-  Sebagai Juara Bertahan, Manchester United akan memulai pertarungan Liga Inggris Musim Kompetisi 2011-2012 dengan bertandang ke kandang West Brom, selanjutnya dua laga kemudian Setan Merah akan menghadapi Tottenham dan Arsenal di markasnya Old Trafford.
-</p>
+Sebagai Juara Bertahan, Manchester United akan memulai pertarungan Liga Inggris Musim Kompetisi 2011-2012 dengan bertandang ke kandang West Brom, selanjutnya dua laga kemudian Setan Merah akan menghadapi Tottenham dan Arsenal di markasnya Old Trafford.
 
 Chelsea, di hari perdana Liga Inggris 2011-2012 akan berhadapan dengan Stoke City, untuk kemudian menjamu West Brom di Stamford Bridge. Nasib berat dihadapi Arsenal yang harus berhadapan langsung dengan Liverpool kemudian melakukan perjalanan ke Old Trafford melawan MU.
 

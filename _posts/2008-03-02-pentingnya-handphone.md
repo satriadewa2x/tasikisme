@@ -4,7 +4,7 @@ title: Seberapa Penting HP bagi Kehidupan Anda?
 date: 2008-03-02T05:51:16+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=34
+guid: https://www.tasikisme.com/?p=34
 permalink: /pentingnya-handphone/
 categories:
   - Handphone

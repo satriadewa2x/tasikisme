@@ -4,7 +4,7 @@ title: Etika Pergaulan dalam Kehidupan Sehari-hari
 date: 2008-02-16T13:41:14+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=14
+guid: https://www.tasikisme.com/?p=14
 permalink: /gadis-itu-bernama-alit/
 categories:
   - Cinta

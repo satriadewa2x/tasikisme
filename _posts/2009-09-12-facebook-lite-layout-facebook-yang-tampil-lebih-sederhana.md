@@ -4,7 +4,7 @@ title: Facebook Lite – Layout Facebook yang Tampil Lebih Sederhana
 date: 2009-09-12T03:30:37+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=345
+guid: https://www.tasikisme.com/?p=345
 permalink: /facebook-lite-layout-facebook-yang-tampil-lebih-sederhana/
 categories:
   - Facebook
@@ -18,10 +18,6 @@ tags:
   
   <p>
     Facebook Lite bisa diakses dengan lebih cepat dibandingkan Facebook versi Standar, ini dikarenakan Facebook Lite telah dioptimize sedemikian rupa sehingga hanya sedikit saja ‘kode” yang mesti didownload oleh browser anda untuk menampilkan halaman Facebook. Kesan pertama dari Facebook Lite tentu saja : Sederhana dan cepat.
-  </p>
-  
-  <p>
-    <!--more-->
   </p>
   
   <p>

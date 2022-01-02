@@ -4,7 +4,7 @@ title: Euro 2008 | Profil Team Group D | Mampukah Yunani Mempertahankan Mahkota 
 date: 2008-06-03T10:47:17+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=117
+guid: https://www.tasikisme.com/?p=117
 permalink: /euro-2008-profil-team-group-d-mampukah-yunani-mempertahankan-mahkota-euro/
 categories:
   - Olahraga

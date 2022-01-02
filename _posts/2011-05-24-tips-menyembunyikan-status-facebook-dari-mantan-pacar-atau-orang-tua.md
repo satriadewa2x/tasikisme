@@ -4,44 +4,28 @@ title: Tips Menyembunyikan Status Facebook dari Mantan Pacar atau Orang Tua
 date: 2011-05-24T02:32:39+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=476
+guid: https://www.tasikisme.com/?p=476
 permalink: /tips-menyembunyikan-status-facebook-dari-mantan-pacar-atau-orang-tua/
 categories:
   - Facebook
 tags:
   - Facebook
 ---
-<p style="text-align: justify;">
-  Suatu ketika, mungkin Anda ingin mengupdate status Facebook yang berisi hal-hal romantis, namun Anda khawatir kalau orang tua akan membaca Status Update tersebut, sehingga bisa saja mereka marah. Di lain waktu, Anda ingin mengkritik seorang guru di sekolah lewat status update, tapi demi menjaga perasaan guru tersebut, Anda tidak ingin guru yang bersangkutan membaca status update yang berisi kritikan terhadapnya.
-</p>
+Suatu ketika, mungkin Anda ingin mengupdate status Facebook yang berisi hal-hal romantis, namun Anda khawatir kalau orang tua akan membaca Status Update tersebut, sehingga bisa saja mereka marah.
 
-<p style="text-align: justify;">
-  Untuk menyembunyikan status update Anda dari orang-orang tertentu, misal mantan pacar ataupun orang tua, caranya cukup sederhana, saat Anda selesai menulis kata-kata yang akan dijadikan status update, tinggal klik gambar kunci yang berada di bagian bawah kolom status update Facebook, seperti gambar di bawah.
-</p>
+Di lain waktu, Anda ingin mengkritik seorang guru di sekolah lewat status update, tapi demi menjaga perasaan guru tersebut, Anda tidak ingin guru yang bersangkutan membaca status update yang berisi kritikan terhadapnya.
 
-<p style="text-align: center;">
-  <img src="images/stories/status-facebook.jpg" border="0" alt="Status Facebook" title="Cara Update Status Facebook" />
-</p>
+Untuk menyembunyikan status update Anda dari orang-orang tertentu, misal mantan pacar ataupun orang tua, caranya cukup sederhana, saat Anda selesai menulis kata-kata yang akan dijadikan status update, tinggal klik gambar kunci yang berada di bagian bawah kolom status update Facebook, seperti gambar di bawah.
 
-<p style="text-align: justify;">
-  Tersedia beberapa pilihan diantaranya adalah :
-</p>
+Tersedia beberapa pilihan diantaranya adalah :
 
   * Everyone – artinya semua orang, tidak hanya teman, bisa membaca status update Facebook.
   * Friends of Friends – teman dari teman yang bisa membaca status update
   * Friends Only – hanya teman-teman Anda saja yang bisa membaca status update
   * Costumise – dis ini Anda bisa mengatur siapa saja yang bisa melihat ataupun tidak bisa melihat status update Anda.
 
-<p style="text-align: justify;">
-  Misal, Anda memilih Costumise, maka akan muncul pilihan seperti di bawah ini.
-</p>
+Misal, Anda memilih Costumise, maka akan muncul pilihan seperti di bawah ini.
 
-<p style="text-align: center;">
-  <img src="images/stories/update-status-facebook.jpg" border="0" />
-</p>
-
-<p style="text-align: justify;">
-  Biar orang tua, mantan pacar ataupun orang-orang tertentu tidak melihat Status Update Anda, tinggal masukan nama mereka pada kolom Hide From These People. Setelah selesai jangan lupa klik Save Setting.
-</p>
+Biar orang tua, mantan pacar ataupun orang-orang tertentu tidak melihat Status Update Anda, tinggal masukan nama mereka pada kolom Hide From These People. Setelah selesai jangan lupa klik Save Setting.
 
 Mudah Bukan?

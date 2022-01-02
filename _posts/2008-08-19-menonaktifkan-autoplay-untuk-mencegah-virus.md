@@ -4,7 +4,7 @@ title: Menonaktifkan “AutoPlay” untuk Mencegah Virus
 date: 2008-08-19T10:36:23+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=173
+guid: https://www.tasikisme.com/?p=173
 permalink: /menonaktifkan-autoplay-untuk-mencegah-virus/
 categories:
   - Komputer
@@ -23,7 +23,7 @@ Padahal ada sebuah pencegahan kecil yang cukup bermanfaat dan berguna untuk menc
 
 Yups…. dengan cara menonaktifkan fitur “AutoPlay” di komputer anda, paling tidak, anda sudah melakukan sebuah langkah sederhana untuk mencegah sebuah virus berjalan (menyerang) secara otomatis, ketika sebuah flashdisk (yang ada virusnya) dicolokan ke komputer anda.
 
-Dengan langkah sederhana ini juga, anda tidak perlu lagi khawatir ketika mencolokkan sebuah flashdisk ke komputer anda. Tidak perlu lagi anda menebak-nebak,  apalah flashdisk ini aman dari virus atau tidak, juga tidak perlu lagi merasa takut, komputer bakal terkena virus hanya karena mencolokkan sebuah flashdisk. (dengan asumsi bahwa anda tidak sembarangan mengklik sebuah file yang terdapat di flashdisk tersebut)
+Dengan langkah sederhana ini juga, anda tidak perlu lagi khawatir ketika mencolokkan sebuah flashdisk ke komputer anda. Tidak perlu lagi anda menebak-nebak,  apalah flashdiskini aman dari virus atau tidak, juga tidak perlu lagi merasa takut, komputer bakal terkena virus hanya karena mencolokkan sebuah flashdisk. (dengan asumsi bahwa anda tidak sembarangan mengklik sebuah file yang terdapat di flashdisk tersebut)
 
 Untuk menonaktifkan fitur “AutoPlay” inilah langkah-langkah :
 

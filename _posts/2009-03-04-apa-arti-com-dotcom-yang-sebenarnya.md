@@ -4,7 +4,7 @@ title: Apa Arti .COM (dotcom) yang sebenarnya?
 date: 2009-03-04T10:14:33+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=271
+guid: https://www.tasikisme.com/?p=271
 permalink: /apa-arti-com-dotcom-yang-sebenarnya/
 categories:
   - Internet

@@ -4,7 +4,7 @@ title: Solusi Cinta Tanpa Restu Orang Tua
 date: 2008-07-30T11:56:27+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=166
+guid: https://www.tasikisme.com/?p=166
 permalink: /ketika-orang-tua-tidak-merestui-kisah-cinta-kita/
 categories:
   - Cinta
@@ -20,7 +20,7 @@ Dan mungkin yang paling sering terjadi adalah ketika orang tua tidak setuju atas
 
 Bila anda pernah mengalami seperti hal seperti ini, dimana hubungan cinta kita tidak mendapat restu dari orang tua, jangan kecil hati dulu dan jangan terburu-buru mengambil langkah yang bisa jadi, justru akan merugikan kehidupan kita.
 
-Ketika orang tua tidak merestui hubungan kita, ada baiknya anda melakukan lagi cek dan rechek atas permasalahan yang se dang dihadapi, dan anda harus siap melihat dan menerima sisi baik maupun sisi buruk dari masalah ini.
+Ketika orang tua tidak merestui hubungan kita, ada baiknya anda melakukan lagi cek dan rechek atas permasalahan yang sedang dihadapi, dan anda harus siap melihat dan menerima sisi baik maupun sisi buruk dari masalah ini.
 
 ### Cek Motivasi Hubungan Cinta ini
 

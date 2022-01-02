@@ -4,7 +4,7 @@ title: Aku Cinta Kau dan Dia…
 date: 2008-03-26T12:03:57+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=52
+guid: https://www.tasikisme.com/?p=52
 permalink: /aku-cinta-kau-dan-dia/
 categories:
   - Cinta
@@ -14,11 +14,11 @@ tags:
   - Cinta
   - Curhat
 ---
-Judul diatas adalah sebuah judul lagu lama yang k ini populer lagi setelah dinyanyikan oleh Mulan Kwok. Aku Cinta Kau dan Dia,  sebuah kalimat yang simple dan mudah diucapkan tapi akibat dari ucapan tersebut, sudah bisa dipastikan bakal ada hati yang terluka, nggak percaya?
+Judul diatas adalah sebuah judul lagu lama yang kini populer lagi setelah dinyanyikan oleh Mulan Kwok. Aku Cinta Kau dan Dia,  sebuah kalimat yang simple dan mudah diucapkan tapi akibat dari ucapan tersebut, sudah bisa dipastikan bakal ada hati yang terluka, nggak percaya?
 
 Buat kamu yang seneng selingkuh (terutama para Playboy atau Playgirl) mungkin lagu ini wajib jadi lagu kebangsaan buat kamu. Tapi buat kamu yang senengnya jadi korban selingkuh, sudah bisa dipastikan, bakalan nggak mau dech dengerin lagu ini, he…he….
 
-Selingkuh…. bagi mereka yang emang se dang menjalaninya, mungkin inilah petualangan yang penuh tantangan. Tantangan yang mengharuskan kamu untuk selalu hati-hati dalam segala ucap, langkah dan tindakan.
+Selingkuh…. bagi mereka yang emang sedang menjalaninya, mungkin inilah petualangan yang penuh tantangan. Tantangan yang mengharuskan kamu untuk selalu hati-hati dalam segala ucap, langkah dan tindakan.
 
 Bagaimanapun usaha untuk membohongi pacar “sah” kamu dan meyakinkan bahwa kamu tipe setia, sama beratnya dengan usaha menyembunyikan “status” kamu pada selingkuhan kamu dan meyakinkan dia bahwa kamu masih single alias belum punya pacar.
 

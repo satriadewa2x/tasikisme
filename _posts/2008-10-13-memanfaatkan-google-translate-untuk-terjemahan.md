@@ -4,7 +4,7 @@ title: Memanfaatkan Google Translate untuk Terjemahan
 date: 2008-10-13T10:41:34+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=187
+guid: https://www.tasikisme.com/?p=187
 permalink: /memanfaatkan-google-translate-untuk-terjemahan/
 categories:
   - Internet

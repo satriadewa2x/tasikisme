@@ -4,7 +4,7 @@ title: Check Status Online/Offline di YM, AIM dan MSN
 date: 2008-12-05T15:58:58+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=208
+guid: https://www.tasikisme.com/?p=208
 permalink: /check-status-onlineoffline-di-ym-aim-dan-msn/
 categories:
   - Internet

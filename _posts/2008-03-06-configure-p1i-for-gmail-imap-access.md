@@ -4,7 +4,7 @@ title: Cek Email Gmail di Ponsel Terbaru
 date: 2008-03-06T16:41:46+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=37
+guid: https://www.tasikisme.com/?p=37
 permalink: /configure-p1i-for-gmail-imap-access/
 categories:
   - Handphone

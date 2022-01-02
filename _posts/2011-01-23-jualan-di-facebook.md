@@ -4,16 +4,14 @@ title: Jualan di Facebook
 date: 2011-01-23T03:59:33+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=458
+guid: https://www.tasikisme.com/?p=458
 permalink: /jualan-di-facebook/
 categories:
   - Facebook
 tags:
   - Facebook
 ---
-<p style="text-align: justify;">
-  Sudah tidak bisa dipungkiri, feisbuk sekarang itu udah ibarat pasar, banyak orang-orang yang mencoba peruntungan, mencari rupiah atau dollar dengan menjual sebuah produk, entah itu baju, jam tangan dan bahkan sampai ke handphone dan laptop. Makanya tak heran, bila setiap hari selalu saja ada yang nge-Tag foto-foto baju atau produk yang dijual, tujuannya sekedar promosi.
-</p>
+Sudah tidak bisa dipungkiri, feisbuk sekarang itu udah ibarat pasar, banyak orang-orang yang mencoba peruntungan, mencari rupiah atau dollar dengan menjual sebuah produk, entah itu baju, jam tangan dan bahkan sampai ke handphone dan laptop. Makanya tak heran, bila setiap hari selalu saja ada yang nge-Tag foto-foto baju atau produk yang dijual, tujuannya sekedar promosi.
 
 Memanfaatkan feisbuk sebagai tempat jualan barang memang mengasyikan, selain kita bisa feisbukan, juga kita bisa mendapatkan income alias pendapatan. Namun tentunya, tak bisa kita pungkiri juga, effek negatif dari jualan di facebook tersebut, kita bisa kehilangan teman alias di unfriend oleh seseorang yang tidak suka dengan kegiatan kita tersebut.
 

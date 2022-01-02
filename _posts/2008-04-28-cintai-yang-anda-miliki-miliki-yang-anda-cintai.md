@@ -4,7 +4,7 @@ title: Cintai yang Anda miliki, miliki yang Anda cintai
 date: 2008-04-28T18:06:40+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=82
+guid: https://www.tasikisme.com/?p=82
 permalink: /cintai-yang-anda-miliki-miliki-yang-anda-cintai/
 categories:
   - Cinta
@@ -22,7 +22,7 @@ Padahal belum tentu yang dimiliki oleh orang lain itu lebih baik atau lebih bagu
 Jadi mulai sekarang ada baiknya kita mulai mencintai yang kita miliki. Caranya cukup sederhana dengan cara bersyukur atas apa yang diberikan Tuhan kepada kita dan menyadari bahwa Tuhan akan selalu memberikan yang terbaik buat umatnya. Sebuah hal yang mustahil terjadi Tuhan memberikan sesuatu yang tidak berguna atau bukan yang terbaik kepada umatnya.
 
 Jadi kalau anda ketemu wanita cantik di jalan  mulailah menyadari dalam hati bahwa pacar anda jauh lebih cantik  
-lebih baik dan lebih mengerti anda dibanding wanita tersebut. Jangan malah anda menyesal dan berkata “kenapa nggak dari dulu ketemu wanita secantik ini?”.
+lebih baik dan lebih mengerti anda dibanding wanita tersebut. Jangan malah anda menyesal dan berkata “kenapa nggak dari dulu ketemu wanita secantikini?”.
 
 Miliki yang anda cintai kalimat ini mengajarkan kita untuk pantang menyerah dan jangan mudah putus asa. Anda punya cita-cita atau anda mencintai seseorang? Maka berusahalah sekuat tenaga agar anda mampu membuat dia jadi milik anda. Jangan sampai belum juga anda berusaha anda malah telah berputus asa dan merasa diri nggak mampu.
 

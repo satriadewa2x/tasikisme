@@ -16,26 +16,14 @@ tags:
   - Tips
   - Trick
 ---
-<p style="text-align: justify;">
-  Baru beli iPhone atau iPad? Dan masih bingung bagaimana sih cara memasukan lagu atau MP dari laptop ke iPhone? Ada beberapa cara untuk memasukan MP3 ke iPhone, bisa pakai CopyTrans Manager, iFunBox ataupun iTunes. Nah, tips berikut ini adalah cara memasukan MP3 ke iPhone menggunakan iFunBox.
-</p>
+Baru beli iPhone atau iPad? Dan masih bingung bagaimana sih cara memasukan lagu atau MP dari laptop ke iPhone? Ada beberapa cara untuk memasukan MP3 ke iPhone, bisa pakai CopyTrans Manager, iFunBox ataupun iTunes. Nah, tips berikut ini adalah cara memasukan MP3 ke iPhone menggunakan iFunBox.
 
-<p style="text-align: justify;">
-  Pertama, Install terlebih dahulu iTunes di Laptop Anda, guna agar laptop Anda bisa mendetect iPhone ketika disambungkan ke laptop. Setelah terinstall iTunes, kemudian install juga iFunBox yang bisa di download di <strong>https://goo.gl/qNdx8d</strong>
-</p>
+Pertama, Install terlebih dahulu iTunes di Laptop Anda, guna agar laptop Anda bisa mendetect iPhone ketika disambungkan ke laptop. Setelah terinstall iTunes, kemudian install juga iFunBox yang bisa di download di **https://goo.gl/qNdx8d**
 
-<p style="text-align: justify;">
-  Sambungkan iPhone ke Laptop, jalankan iFunBox, tunggu beberapa saat sampai iPhone Anda ke detect oleh iFunBox. Selanjutnya untuk memulai proses copy MP3 pada menu Import klik Music.
-</p>
+Sambungkan iPhone ke Laptop, jalankan iFunBox, tunggu beberapa saat sampai iPhone Anda ke detect oleh iFunBox. Selanjutnya untuk memulai proses copy MP3 pada menu Import klik Music.
 
-<p style="text-align: justify;">
-  Browse lagu yang ingin Anda copy ke iPhone, pastikan filenya berjenis MP3, WAV atau AIF.
-</p>
+Browse lagu yang ingin Anda copy ke iPhone, pastikan filenya berjenis MP3, WAV atau AIF.
 
-<p style="text-align: justify;">
-  Tunggu beberapa detik, sampai proses selesai.
-</p>
+Tunggu beberapa detik, sampai proses selesai.
 
-<p style="text-align: justify;">
-  Jreeng, kini lagu pun telah berhasil di copy ke iPhone menggunakan iFunBox. Apabila Anda masih bingung, Anda bisa menggunakan cara lain di <strong>https://goo.gl/sEKZCC</strong> untuk memasukan lagu ke iPhone menggunakan CopyTrans Manager!
-</p>
+Jreeng, kini lagu pun telah berhasil di copy ke iPhone menggunakan iFunBox. Apabila Anda masih bingung, Anda bisa menggunakan cara lain di **https://goo.gl/sEKZCC** untuk memasukan lagu ke iPhone menggunakan CopyTrans Manager!

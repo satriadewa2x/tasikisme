@@ -4,7 +4,7 @@ title: 'Mentari&#8230;.Gadis Manis dari Tasik!'
 date: 2008-02-21T16:40:06+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=21
+guid: https://www.tasikisme.com/?p=21
 permalink: /mentarigadis-manis-dari-tasik/
 categories:
   - Curhat

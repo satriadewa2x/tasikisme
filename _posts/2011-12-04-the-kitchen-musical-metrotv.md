@@ -4,16 +4,14 @@ title: The Kitchen Musical – MetroTV
 date: 2011-12-04T02:47:06+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=522
+guid: https://www.tasikisme.com/?p=522
 permalink: /the-kitchen-musical-metrotv/
 categories:
   - Informasi
 tags:
   - Film
 ---
-<p style="text-align: justify;">
-  Selama ini mungkin kita bakal mengira bahwa di kitchen atau dapur hanya akan ada bumbu, sayuran, resep ataupun masakan yang siap untuk dihidangkan, disantap dan dinikmati.  Namun pandangan Anda tentang sebuah dapur akan berubah jika melihat drama berjudul The Kitchen Musical yang ditayangkan Sabtu malam jam 21.30 di MetroTV.
-</p>
+Selama ini mungkin kita bakal mengira bahwa di kitchen atau dapur hanya akan ada bumbu, sayuran, resep ataupun masakan yang siap untuk dihidangkan, disantap dan dinikmati.  Namun pandangan Anda tentang sebuah dapur akan berubah jika melihat drama berjudul The Kitchen Musical yang ditayangkan Sabtu malam jam 21.30 di MetroTV.
 
 Drama The Kitchen Musical bercerita tentang kehidupan koki di sebuah restoran terkenal bernama Avilon.  Adalah Christian Bautista yang berperan sebagai Daniel Ray seorang koki piawai dan terkenal bersama empat orang rekannya yakni Selena Argon, Harry Shaw, Alex Marcus dan Maddie Avilon (Anak sang pemilik Restoran Avilon) bekerja bahu membahu di dapur Restoran Avilon dengan penuh intrik dan tentunya tak ketinggalan tarian, serta musik.
 

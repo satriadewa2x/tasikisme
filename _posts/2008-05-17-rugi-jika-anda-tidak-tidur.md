@@ -4,7 +4,7 @@ title: Rugi Jika Anda Tidak Tidur
 date: 2008-05-17T13:08:19+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=101
+guid: https://www.tasikisme.com/?p=101
 permalink: /rugi-jika-anda-tidak-tidur/
 categories:
   - Curhat

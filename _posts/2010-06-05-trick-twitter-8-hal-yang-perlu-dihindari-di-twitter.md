@@ -4,7 +4,7 @@ title: 'Trick Twitter :  8 Hal yang Perlu Dihindari di Twitter'
 date: 2010-06-05T00:17:43+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=399
+guid: https://www.tasikisme.com/?p=399
 permalink: /trick-twitter-8-hal-yang-perlu-dihindari-di-twitter/
 categories:
   - Internet
@@ -13,9 +13,7 @@ tags:
   - Internet
   - Twitter
 ---
-<p style="text-align: justify;">
-  Tweet, Twitter, ReTweet saat ini sudah menjadi hal biasa yang bisa kita lakukan saat online. Apalagi dengan semakin banyaknya aplikasi Twitter versi Mobile maka kegiatan ber-Twitter pun semakin mudah. Kalau Anda fans Blackberry pasti sudah kenal dengan Twitterberry atau Twitter for Blackberry, kalau Anda pengguna handphone Android seperti Motorola Milestone, atau Samsung Spica pasti deh udah kenal sama aplikasi TwitterCaster.
-</p>
+Tweet, Twitter, ReTweet saat ini sudah menjadi hal biasa yang bisa kita lakukan saat online. Apalagi dengan semakin banyaknya aplikasi Twitter versi Mobile maka kegiatan ber-Twitter pun semakin mudah. Kalau Anda fans Blackberry pasti sudah kenal dengan Twitterberry atau Twitter for Blackberry, kalau Anda pengguna handphone Android seperti Motorola Milestone, atau Samsung Spica pasti deh udah kenal sama aplikasi TwitterCaster.
 
 Nah trick berikut ini 8 hal yang perlu dihindari saat anda ber-Twitter ria.
 

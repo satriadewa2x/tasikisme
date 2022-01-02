@@ -4,7 +4,7 @@ title: Windows XP…. wush….. wush……..!
 date: 2008-02-16T13:44:49+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=15
+guid: https://www.tasikisme.com/?p=15
 permalink: /windows-xp-wush-wush/
 categories:
   - Komputer
@@ -13,9 +13,7 @@ tags:
   - Tips
   - Trick
 ---
-<p style="text-align: justify;">
-  Windows anda semakin lambat dari hari ke hari? Tip-tips berikut akan menjadikan Windows anda lebih cepat daripada yang anda rasakan selama ini. Satu hal yang mesti diperhatikan, tips yang akan dikemukan di bawah ini mengakses jauh ke sistem windows sehingga mengandung resiko. Jadi demi mendapatkan hasil yang maksimal disarankan anda untuk berhati-hati.
-</p>
+Windows anda semakin lambat dari hari ke hari? Tip-tips berikut akan menjadikan Windows anda lebih cepat daripada yang anda rasakan selama ini. Satu hal yang mesti diperhatikan, tips yang akan dikemukan di bawah ini mengakses jauh ke sistem windows sehingga mengandung resiko. Jadi demi mendapatkan hasil yang maksimal disarankan anda untuk berhati-hati.
 
 ### Mempercepat Booting Windows
 
@@ -24,7 +22,7 @@ pada tab start up, hilangkan tanda centang pada program-program yang tidak ingin
 
 **Matikan layanan yang tidak perlu**
 
-Klik [Start] > [Run] dan buka jendela Services dengan mengetikan perintah berikut : services.msc klik kanan pada layanan yang tidak anda perlukan misal pada ‘Wireless Zero Configuration’, klik Propertis, klik Stop (bila layanan ini emang se dang berjalan), terus pada Start Up ubah menjadi Disable atau Manual sesuai kebutuhan anda.
+Klik [Start] > [Run] dan buka jendela Services dengan mengetikan perintah berikut : services.msc klik kanan pada layanan yang tidak anda perlukan misal pada ‘Wireless Zero Configuration’, klik Propertis, klik Stop (bila layanan ini emang sedang berjalan), terus pada Start Up ubah menjadi Disable atau Manual sesuai kebutuhan anda.
 
 **Bersih-bersih registry**
 

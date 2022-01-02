@@ -4,7 +4,7 @@ title: The Winner Goes to Spain
 date: 2008-06-29T22:49:05+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=145
+guid: https://www.tasikisme.com/?p=145
 permalink: /the-winner-goes-to-spain/
 categories:
   - Olahraga

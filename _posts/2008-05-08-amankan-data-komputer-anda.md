@@ -4,7 +4,7 @@ title: Saatnya Mengamankan Data Pribadi dan Penting di Komputer Anda
 date: 2008-05-08T10:39:21+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=91
+guid: https://www.tasikisme.com/?p=91
 permalink: /amankan-data-komputer-anda/
 categories:
   - Komputer

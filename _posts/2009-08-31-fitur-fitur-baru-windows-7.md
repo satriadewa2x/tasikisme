@@ -4,7 +4,7 @@ title: Fitur-Fitur Baru Windows 7
 date: 2009-08-31T10:31:40+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=341
+guid: https://www.tasikisme.com/?p=341
 permalink: /fitur-fitur-baru-windows-7/
 categories:
   - Windows
@@ -12,9 +12,7 @@ tags:
   - Komputer
   - Windows
 ---
-<p style="text-align: justify;">
-  Windows 7 telah memasuki babak RTM (Release To Manufacturing), dan rencananya pada 22 Oktober 2009 nanti versi Final dari Windows 7 bakal keluar. Bagaimana kinerja Windows 7 dan apa saja fitur-fitur yang dibawa oleh Windows? Apakah sama dengan Windows Vista atau mungkin justru lebih baik? Dan apakah bagi anda pengguna Windows XP harus menggantinya dengan Windows 7. Biar tidak penasaran berikut ini adalah rangkuman secara sekilas tentang fitur baru yang ada Windows 7.
-</p>
+Windows 7 telah memasuki babak RTM (Release To Manufacturing), dan rencananya pada 22 Oktober 2009 nanti versi Final dari Windows 7 bakal keluar. Bagaimana kinerja Windows 7 dan apa saja fitur-fitur yang dibawa oleh Windows? Apakah sama dengan Windows Vista atau mungkin justru lebih baik? Dan apakah bagi anda pengguna Windows XP harus menggantinya dengan Windows 7. Biar tidak penasaran berikut ini adalah rangkuman secara sekilas tentang fitur baru yang ada Windows 7.
 
 Action Center, memungkinkan kita mengatur alert atau peringatan apa saja yang Windows 7 boleh tampilkan, sangat berguna untuk mengontrol UAC Messages yang memang tidak bisa didisable secara permanen
 

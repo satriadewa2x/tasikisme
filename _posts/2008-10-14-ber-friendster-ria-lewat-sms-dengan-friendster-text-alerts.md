@@ -4,7 +4,7 @@ title: Ber-Friendster Ria Lewat SMS dengan Friendster Text Alerts
 date: 2008-10-14T17:13:35+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=188
+guid: https://www.tasikisme.com/?p=188
 permalink: /ber-friendster-ria-lewat-sms-dengan-friendster-text-alerts/
 categories:
   - Internet
@@ -12,7 +12,7 @@ tags:
   - Internet
   - SMS
 ---
-Yups… dengan memanfaatkan fasilitas Friendster Text Alerts anda bisa terus ber-Friendster ria dengan teman-teman anda, meskipun anda tidak se dang online atau bahkan anda hanya memakai handphone jadul seperti Nokia 3310 atau 5110.
+Yups… dengan memanfaatkan fasilitas Friendster Text Alerts anda bisa terus ber-Friendster ria dengan teman-teman anda, meskipun anda tidak sedang online atau bahkan anda hanya memakai handphone jadul seperti Nokia 3310 atau 5110.
 
 Yang terpenting handphone anda bisa mengirim dan menerima SMS, maka itu sudah cukup bagi anda untuk bisa terus ber-Friendster ria mulai dari notifikasi saat anda menerima Comment, Friend Request, Menerima Messages,  
 Bulletin, Horoskop bahkan anda pun bisa mem-Post Bulletin sampai Shout Out.

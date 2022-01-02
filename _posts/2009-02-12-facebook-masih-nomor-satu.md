@@ -4,7 +4,7 @@ title: Facebook Masih Nomor Satu
 date: 2009-02-12T13:43:58+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=256
+guid: https://www.tasikisme.com/?p=256
 permalink: /facebook-masih-nomor-satu/
 categories:
   - Facebook

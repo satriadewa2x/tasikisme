@@ -4,7 +4,7 @@ title: 'Valentine Romantis: Macam-macam Parfum untuk Merayakan Valentine Day'
 date: 2011-02-08T04:21:57+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=460
+guid: https://www.tasikisme.com/?p=460
 permalink: /valentine-romantis-macam-macam-parfum-untuk-merayakan-valentine-day/
 categories:
   - Cinta
@@ -15,9 +15,7 @@ tags:
   - Tips
   - Valentine
 ---
-<p style="text-align: justify;">
-  Merayakan Valentine tidak selamanya identik dengan memberikan hadiah yang mahal yang akan menguras isi kantong. Merayakan Valentine berdua bisa lebih romantis, tentunya jika Anda bisa tampil sempurna dan lain dari hari-hari biasa. Satu yang bisa mendukung Anda tampil sempurna adalah dengan memakai wewangian alias Parfum yang pas, yang mampu membuat pacar atau kekasih Anda merasa betah dan nyaman berada di dekat Anda. Iyalah… Anda juga pasti pernah merasakan kan betapa tidak nyamannya berada dekat orang yang bau keringat alias Parfum alami? Nah, pacar atau kekasih Anda pun, pasti akan merasakan hal yang sama.
-</p>
+Merayakan Valentine tidak selamanya identik dengan memberikan hadiah yang mahal yang akan menguras isi kantong. Merayakan Valentine berdua bisa lebih romantis, tentunya jika Anda bisa tampil sempurna dan lain dari hari-hari biasa. Satu yang bisa mendukung Anda tampil sempurna adalah dengan memakai wewangian alias Parfum yang pas, yang mampu membuat pacar atau kekasih Anda merasa betah dan nyaman berada di dekat Anda. Iyalah… Anda juga pasti pernah merasakan kan betapa tidak nyamannya berada dekat orang yang bau keringat alias Parfum alami? Nah, pacar atau kekasih Anda pun, pasti akan merasakan hal yang sama.
 
 Bicara tentang Parfum, tentunya saat akan membeli sebuah Parfum Anda akan dihadapkan dengan berbagai pilihan mulai dari Eau de Toilette, Eau de Cologne sampai Eau de Parfum? Belum lagi ada Tester Parfum? Apakah perbedaan?
 

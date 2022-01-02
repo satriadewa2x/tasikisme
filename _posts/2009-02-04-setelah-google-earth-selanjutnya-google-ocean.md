@@ -4,7 +4,7 @@ title: Setelah Google Earth, selanjutnya Google Ocean?
 date: 2009-02-04T10:41:59+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=248
+guid: https://www.tasikisme.com/?p=248
 permalink: /setelah-google-earth-selanjutnya-google-ocean/
 categories:
   - Internet

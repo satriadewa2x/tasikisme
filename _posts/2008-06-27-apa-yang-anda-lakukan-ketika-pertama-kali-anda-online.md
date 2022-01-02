@@ -4,7 +4,7 @@ title: Apa yang Anda Lakukan Ketika Pertama Kali Anda Online?
 date: 2008-06-27T11:37:28+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=141
+guid: https://www.tasikisme.com/?p=141
 permalink: /apa-yang-anda-lakukan-ketika-pertama-kali-anda-online/
 categories:
   - Internet

@@ -4,7 +4,7 @@ title: Berbagai Aplikasi Twitter untuk iPhone
 date: 2009-08-25T07:23:04+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=339
+guid: https://www.tasikisme.com/?p=339
 permalink: /berbagai-aplikasi-twitter-untuk-iphone/
 categories:
   - Apple
@@ -16,9 +16,7 @@ tags:
   - iPhone
   - Twitter
 ---
-<p style="text-align: justify;">
-  Tak dipungkiri Twitter telah menjadi trend masa kini, tak lengkapnya rasanya online tanpa mengupdate ataupun mengakses Twitter. Bila di Blackberry anda telah mengenal Berbagai Aplikasi Twitter Untuk Blackberry, yang satu diantaranya adalah TwitterBerry ataupun SocialScope maka untuk iPhone pun kini tersedia berbagai pilihan aplikasi atau Twitter Client untuk iPhone.
-</p>
+Tak dipungkiri Twitter telah menjadi trend masa kini, tak lengkapnya rasanya online tanpa mengupdate ataupun mengakses Twitter. Bila di Blackberry anda telah mengenal Berbagai Aplikasi Twitter Untuk Blackberry, yang satu diantaranya adalah TwitterBerry ataupun SocialScope maka untuk iPhone pun kini tersedia berbagai pilihan aplikasi atau Twitter Client untuk iPhone.
 
 Untuk mendapatkan satu dari sekian banyak Aplikasi Twitter untuk iPhone anda bisa mendownloadnya  lewat iTunes Apps Store langsung lewat iPhone, dan pilih Twitter client yang sesuai dengan kebutuhan anda, dan tentunya yang bisa memudahkan anda untuk ber-tweet ria dengan teman ataupun orang-orang yang anda follow.
 

@@ -11,21 +11,13 @@ categories:
 tags:
   - Android
 ---
-<p style="text-align: justify;">
-  Tak bisa dipungkiri meskipun pendatang baru namun keberadaan handphone Android Oppo sudah banyak menyita perhatian banyak orang dan tentunya dijadikan pilihan untuk mereka yang membutuhkan sebuah hp Android yang berkualitas, spesifikasi tinggi namun dengan harga yang relatif terjangkau.
-</p>
+Tak bisa dipungkiri meskipun pendatang baru namun keberadaan handphone Android Oppo sudah banyak menyita perhatian banyak orang dan tentunya dijadikan pilihan untuk mereka yang membutuhkan sebuah hp Android yang berkualitas, spesifikasi tinggi namun dengan harga yang relatif terjangkau.
 
-<p style="text-align: justify;">
-  Tak ketinggalan bagi mereka yang suka selfi tentunya memilih hp Android Oppo adalah langkah tepat karena seperti kita ketahui saat ini banyak hp terbaik dari Oppo yang memiliki kamera depan handal seperti OPPO F1s dan OPPO F1 Plus FCB Edition.
-</p>
+Tak ketinggalan bagi mereka yang suka selfi tentunya memilih hp Android Oppo adalah langkah tepat karena seperti kita ketahui saat ini banyak hp terbaik dari Oppo yang memiliki kamera depan handal seperti OPPO F1s dan OPPO F1 Plus FCB Edition.
 
-<p style="text-align: justify;">
-  Khusus untuk kamu yang ingin download firmware Oppo terbaru karena hp yang kamu pakai mengalami masalah seperti bootloop ataupun tidak bisa masuk ke menu utama. Proses flashing bisa menggunakan menu flashtool di komputer ataupun secara langsung dari menu Pembaruan di Oppo.
-</p>
+Khusus untuk kamu yang ingin download firmware Oppo terbaru karena hp yang kamu pakai mengalami masalah seperti bootloop ataupun tidak bisa masuk ke menu utama. Proses flashing bisa menggunakan menu flashtool di komputer ataupun secara langsung dari menu Pembaruan di Oppo.
 
-<p style="text-align: justify;">
-  Nah, berikut ini adalah daftar firmware Oppo lengkap, terbaru dan tentu saja bisa di resume sehingga cocok bagi kamu yang memiliki koneksi internet tidak stabil tanpa harus takut harus download dari awal ketika terjadi error setelah beberapa persen.
-</p>
+Nah, berikut ini adalah daftar firmware Oppo lengkap, terbaru dan tentu saja bisa di resume sehingga cocok bagi kamu yang memiliki koneksi internet tidak stabil tanpa harus takut harus download dari awal ketika terjadi error setelah beberapa persen.
 
 <li class="box-heading">
   <a href="https://downloads.oppo.com.s3.amazonaws.com/firmware/A1601/A1601EX_11_OTA_019_all_201610112241_local.zip">OPPO F1s</a>

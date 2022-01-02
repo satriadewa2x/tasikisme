@@ -4,7 +4,7 @@ title: Yahoo Briefcase Pergi, GDrive Datang
 date: 2009-02-01T13:45:44+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=246
+guid: https://www.tasikisme.com/?p=246
 permalink: /yahoo-briefcase-pergi-gdrive-datang/
 categories:
   - Internet

@@ -4,7 +4,7 @@ title: Koneksi Internet dengan Menggunakan Handphone Ber-Bluetooth
 date: 2008-10-31T11:15:39+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=193
+guid: https://www.tasikisme.com/?p=193
 permalink: /koneksi-internet-dengan-menggunakan-handphone-ber-bluetooth/
 categories:
   - Internet
@@ -13,7 +13,7 @@ tags:
 ---
 Bagi Anda yang baru membeli handphone terbaru dengan berbagai fitur yang serba mutakhir, rugi jadinya bila handphone ‘hanya’ dipakai untuk Nelp dan SMS-an.
 
-Padahal berbagai fitur yang tersedia di Handphone anda, tujuan utamanya adalah untuk memberikan kenyaman dalam menjalani hidup ini. Sia-sia jadinya, jutaan rupiah anda keluarkan demi sebuah handphone, se dang anda tidak merasakan sama sekali fitur-fitur yang menjadikan harga handphone tersebut mahal.
+Padahal berbagai fitur yang tersedia di Handphone anda, tujuan utamanya adalah untuk memberikan kenyaman dalam menjalani hidup ini. Sia-sia jadinya, jutaan rupiah anda keluarkan demi sebuah handphone, sedang anda tidak merasakan sama sekali fitur-fitur yang menjadikan harga handphone tersebut mahal.
 
 Punya handphone mewah, mahal dan dipersenjatai koneksi Wireless Bluetooth, tapi anda masih sering ke warnet untuk sekedar mengecek email dan FS anda? emh&#8230; kenapa nggak anda manfaatkan handphone anda sebagai modem, sehingga anda bisa terkoneksi ke dunia maya, kapanpun dan dimanapun. Selain itu jangan sampai anda hanya memanfaatkan Bluetooth sekedar untuk tukar menukar lagu dan foto.
 

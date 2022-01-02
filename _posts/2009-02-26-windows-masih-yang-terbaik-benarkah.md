@@ -4,7 +4,7 @@ title: Windows, masih yang terbaik, benarkah?
 date: 2009-02-26T00:30:48+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=267
+guid: https://www.tasikisme.com/?p=267
 permalink: /windows-masih-yang-terbaik-benarkah/
 categories:
   - Windows

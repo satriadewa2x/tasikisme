@@ -4,7 +4,7 @@ title: Cara Backup Registry Windows XP
 date: 2008-10-01T10:09:26+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=185
+guid: https://www.tasikisme.com/?p=185
 permalink: /memback-up-registry-windows-xp/
 categories:
   - Komputer
@@ -31,7 +31,7 @@ Dan inilah langkah singkat untuk memback up Registry Windows XP :
 
 > Pada Jendela Export Registry File, pada pilihan Save In tentukan lokasi dimana anda akan menyimpan File Back Up anda; pada File Name tentukan nama file back up anda, kemudian pada Save as Type, sebaiknya anda biarkan secara default yaitu as *.reg
 
-> Kemudian di bagian bawah ada opsi Export Range, anda pilih All bila ingin membackup registry anda secara keseluruhan (semua registry anda back up) atau anda pilih Selected Branch bila anda menginginkan hanya Branch yang terseleksi saja (Branch yang se dang dan akan anda edit).
+> Kemudian di bagian bawah ada opsi Export Range, anda pilih All bila ingin membackup registry anda secara keseluruhan (semua registry anda back up) atau anda pilih Selected Branch bila anda menginginkan hanya Branch yang terseleksi saja (Branch yang sedang dan akan anda edit).
 
 > Setelah selesai klik Save
 

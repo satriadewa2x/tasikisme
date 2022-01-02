@@ -4,16 +4,14 @@ title: 'Panduan Twitter :   Istilah di Twitter yang Harus Diketahui'
 date: 2010-01-17T05:18:21+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=372
+guid: https://www.tasikisme.com/?p=372
 permalink: /panduan-twitter-istilah-di-twitter-yang-harus-diketahui/
 categories:
   - Twitter
 tags:
   - Twitter
 ---
-<p style="text-align: justify;">
-  Pernahkah anda merasakan sebuah twitterphoria saat ada seorang terkenal menjadi follower anda? Atau mungkin anda sering reTweet atau mungkin juga malah keseringan melakukan Dweet  di Twitter sehingga kadang membuat orang kebingungan.
-</p>
+Pernahkah anda merasakan sebuah twitterphoria saat ada seorang terkenal menjadi follower anda? Atau mungkin anda sering reTweet atau mungkin juga malah keseringan melakukan Dweet  di Twitter sehingga kadang membuat orang kebingungan.
 
 Twitter memang telah menjadi sebuah fenomena, di bidang microbloging, dan di Indonesia Twitter semakin terkenal apalagi dengan banyaknya orang terkenal, artis sampai politikus yang mempunyai akun twitter dengan ribuan follower, seperti Luna Maya misalnya.
 
@@ -48,6 +46,4 @@ Kalau anda baru menjadi Tweeple dan sedikit bingung dengan berbagai istilah di d
   * Twittertude. Sebuah sikap buruk di Twitter
   * Twitticisms. Sebuah Tweet yang lucu.
 
-<p style="text-align: justify;">
-  Ingin tetap update dengan info seputar Twitter, jangan lupa masukan email anda di bawah ini dan klik subscibe!
-</p>
+Ingin tetap update dengan info seputar Twitter, jangan lupa masukan email anda di bawah ini dan klik subscibe!

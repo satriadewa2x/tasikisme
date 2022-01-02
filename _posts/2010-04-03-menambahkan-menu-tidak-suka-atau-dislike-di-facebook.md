@@ -4,7 +4,7 @@ title: Menambahkan Menu Tidak Suka Atau Dislike di Facebook
 date: 2010-04-03T07:34:11+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=385
+guid: https://www.tasikisme.com/?p=385
 permalink: /menambahkan-menu-tidak-suka-atau-dislike-di-facebook/
 categories:
   - Facebook
@@ -12,9 +12,7 @@ tags:
   - Facebook
   - Tips
 ---
-<p style="text-align: justify;">
-  Saat kita mengakses home atau beranda di profile Facebook kita, ada berbagai macam status update dari teman-teman kita, ada yang bernada promosi, namun kebanyakan sih bernada lebay atau alay. Seperti kita sering temukan, dibawah status update tersebut selalu ada link “Comment” dan “Like”. Maksudnya supaya kita bisa memberikan komentar atas status update teman kita tersebut, atau menyukai Status update dari teman kita itu.
-</p>
+Saat kita mengakses home atau beranda di profile Facebook kita, ada berbagai macam status update dari teman-teman kita, ada yang bernada promosi, namun kebanyakan sih bernada lebay atau alay. Seperti kita sering temukan, dibawah status update tersebut selalu ada link “Comment” dan “Like”. Maksudnya supaya kita bisa memberikan komentar atas status update teman kita tersebut, atau menyukai Status update dari teman kita itu.
 
 Lalu bagaimana jika kita ingin melakukan sebaliknya yaitu Tidak Suka alias Dislike Status Update Teman. Apalagi saat kita membaca status yang bernada promosi, dan kita benar-benar tidak menyukai status tersebut?
 

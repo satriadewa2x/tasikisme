@@ -4,7 +4,7 @@ title: Menonaktifkan Fungsi USB Storage Device (Flashdisk)
 date: 2008-11-28T16:33:17+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=204
+guid: https://www.tasikisme.com/?p=204
 permalink: /menonaktifkan-dan-mengaktifkan-fungsi-usb-storage-device-flashdisk/
 categories:
   - Komputer
@@ -22,7 +22,7 @@ Bila suatu ketika ada teman anda iseng mencolokan Flashdisknya, komputer anda ti
 
 Trik berikut akan berguna sekali terutama bagi anda yang selalu sharing komputer di kantor atau sekolah, dengan mendisable atau menonaktifkan fungsi USB Storage Device, tidak akan sembarang orang bisa mengcopy paste file dari maupun ke flashdisk.
 
-Karena langkah berikut ini berkaitan dengan proses edting Registry Windows anda, ada baiknya sebelum melakukan trick ini anda Back Up Dulu Registry Windows, sehingga bila nantinya terjadi kesalahan, anda bisa merestore registry anda ke posisi semula sebelum terjadinya proses editing.
+Karena langkah berikut ini berkaitan dengan proses edting Registry Windows anda, ada baiknya sebelum melakukan trickini anda Back Up Dulu Registry Windows, sehingga bila nantinya terjadi kesalahan, anda bisa merestore registry anda ke posisi semula sebelum terjadinya proses editing.
 
 **Menonaktifkan Fungsi USB di Laptop** 
 

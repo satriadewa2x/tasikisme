@@ -4,7 +4,7 @@ title: Apa Sih Siri itu?
 date: 2011-10-23T06:16:18+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=512
+guid: https://www.tasikisme.com/?p=512
 permalink: /apa-sih-siri-itu/
 categories:
   - Apple
@@ -13,9 +13,7 @@ tags:
   - Apple
   - iPhone
 ---
-<p style="text-align: justify;">
-  Satu fitur terbaru yang diperkenal di iPhone 4S adalah SIRI? Apakah sebenarnya Siri itu? Secara sederhana Siri adalah sebuah aplikasi terbaru di iPhone 4S yang berguna untuk mengontrol iPhone menggunakan perintah suara. So, jika selama ini kita hanya menggunakan perintah sentuh (touch), dengan fitur Siri, kita bisa memerintah iPhone menggunakan suara kita. Hebat bukan?
-</p>
+Satu fitur terbaru yang diperkenal di iPhone 4S adalah SIRI? Apakah sebenarnya Siri itu? Secara sederhana Siri adalah sebuah aplikasi terbaru di iPhone 4S yang berguna untuk mengontrol iPhone menggunakan perintah suara. So, jika selama ini kita hanya menggunakan perintah sentuh (touch), dengan fitur Siri, kita bisa memerintah iPhone menggunakan suara kita. Hebat bukan?
 
 Lalu bagaimana cara kerja Siri? Siri bekerja berdasarkan perintah suara yang diterimanya. Misalkan, ketika ada sebuah SMS masuk ke iPhone 4S, Anda bisa memerintahkan Siri untuk membaca SMS tersebut, dan bahkan kemudian Anda bisa memerintah Siri untuk membalas SMS tersebut, dengan kata-kata yang Anda ucapkan.  Alhasil, Andapun tidak harus selalu melihat layar iPhone untuk membaca dan kemudian membalas SMS, karena sudah ada Asisten Pribadi di iPhone 4S yang bernama Siri.
 

@@ -4,7 +4,7 @@ title: Hal yang Membuat Laptop Lama Nyala alias Loading
 date: 2008-05-09T17:31:11+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=92
+guid: https://www.tasikisme.com/?p=92
 permalink: /hal-yang-bisa-membuat-bootup-windows-anda-telat/
 categories:
   - Windows

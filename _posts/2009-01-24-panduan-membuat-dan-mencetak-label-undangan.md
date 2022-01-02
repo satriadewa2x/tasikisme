@@ -4,7 +4,7 @@ title: Panduan Membuat dan Mencetak Label Undangan
 date: 2009-01-24T00:21:08+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=237
+guid: https://www.tasikisme.com/?p=237
 permalink: /panduan-membuat-dan-mencetak-label-undangan/
 categories:
   - Informasi
@@ -21,36 +21,22 @@ Tips berikut akan menunjukkan bagaimana cara mencetak (nge-print) di Label undan
 
 Alat-alat yang dibutuhkan hanya seperangkat komputer plus printer, ditambah dengan penggaris dan tentunya selembar kertas label (lihat gambar) dengan ukuran bebas terserah kebutuhan anda.
 
-<!--more-->
-
 1.Jalankan Microsoft Office, setelah itu buat dokumen baru **[File]** &#8211;> **[New]**  
 2.Klik Menu **[Tools]** &#8211;> **[Letters and Mailings]** &#8211;> **[Envelopes and Labels]** 
 
-&nbsp;
-
-<div style="text-align: center;">
-  <img title="Label Tutorial Langkah 1" src="https://wisatacinta.files.wordpress.com/2009/01/label_tutorial01.gif" alt="Label Tutorial Langkah 1" border="0" />
-</div>
+&nbsp;  
+<img title="Label Tutorial Langkah 1" src="https://wisatacinta.files.wordpress.com/2009/01/label_tutorial01.gif" alt="Label Tutorial Langkah 1" border="0" /> </div> 
 
 3. Untuk Office 2007 klik menu **[Mailings]** dan klik **[Label]** yang terletak di sebelah kiri.
 
-4.Pada jendela **Envelopes and Labels** , klik Tab Label kemudian klik tombol **Options** 
+4.Pada jendela **Envelopes and Labels** , klik Tab Label kemudian klik tombol **Options**  
+<img loading="lazy" title="Label Tutorial Langkah 2" src="https://wisatacinta.files.wordpress.com/2009/01/label_tutorial02.gif" alt="Label Tutorial Langkah 2" width="456" height="357" border="0" /> </div> 
 
-<div style="text-align: center;">
-  <img loading="lazy" title="Label Tutorial Langkah 2" src="https://wisatacinta.files.wordpress.com/2009/01/label_tutorial02.gif" alt="Label Tutorial Langkah 2" width="456" height="357" border="0" />
-</div>
+5.Akan muncul **Label Options** , bisa anda lihat disana secara default telah ada berbagai macam merek label, untuk memulai membuat Label yang sesuai dengan yang anda miliki tinggal klik **[New Label]**  
+<img title="Label Tutorial Langkah 3" src="https://wisatacinta.files.wordpress.com/2009/01/label_tutorial03.gif" alt="Label Tutorial Langkah 3" border="0" /> </div> 
 
-5.Akan muncul **Label Options** , bisa anda lihat disana secara default telah ada berbagai macam merek label, untuk memulai membuat Label yang sesuai dengan yang anda miliki tinggal klik **[New Label]** 
-
-<div style="text-align: center;">
-  <img title="Label Tutorial Langkah 3" src="https://wisatacinta.files.wordpress.com/2009/01/label_tutorial03.gif" alt="Label Tutorial Langkah 3" border="0" />
-</div>
-
-6.Pada jendela **New Costum Laser** masukan data-data yang diperlukan
-
-<div style="text-align: center;">
-  <img title="Tutorial Membuat Label Langkah 4" src="https://wisatacinta.files.wordpress.com/2009/01/label_tutorial04.gif" alt="Tutorial Membuat Label Langkah 4" border="0" />
-</div>
+6.Pada jendela **New Costum Laser** masukan data-data yang diperlukan  
+<img title="Tutorial Membuat Label Langkah 4" src="https://wisatacinta.files.wordpress.com/2009/01/label_tutorial04.gif" alt="Tutorial Membuat Label Langkah 4" border="0" /> </div> 
 
 &nbsp;
 
@@ -94,11 +80,8 @@ Alat-alat yang dibutuhkan hanya seperangkat komputer plus printer, ditambah deng
 
 8. Lalu pada Label Options klik OK
 
-9. Pada Jendela [Envelopes and Labels] k ini terlihat jenis Label yang baru saja anda buat, dalam contoh Tasikisme Label.
-
-<div style="text-align: center;">
-  <img title="Label Tutorial Langkah 5" src="https://wisatacinta.files.wordpress.com/2009/01/label_tutorial05.gif" alt="Label Tutorial Langkah 5" border="0" />
-</div>
+9. Pada Jendela [Envelopes and Labels] kini terlihat jenis Label yang baru saja anda buat, dalam contoh Tasikisme Label.  
+<img title="Label Tutorial Langkah 5" src="https://wisatacinta.files.wordpress.com/2009/01/label_tutorial05.gif" alt="Label Tutorial Langkah 5" border="0" /> </div> 
 
 Untuk memulai mencetak nama-nama pada Label, kemudian klik [New Document] dan anda akan dibawa ke halaman baru yang berisi tabel dengan jumlah kolom dan baris sesuai dengan kolom dan baris pada Label Properties yang telah anda buat.
 

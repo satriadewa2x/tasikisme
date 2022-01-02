@@ -4,7 +4,7 @@ title: 7 Tanda Dia “Falling in Love With You”
 date: 2008-07-04T11:19:00+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=150
+guid: https://www.tasikisme.com/?p=150
 permalink: /7-tanda-dia-falling-in-love-with-you/
 categories:
   - Curhat

@@ -4,7 +4,7 @@ title: Hati-hati Virus Valentine Day Mulai Bertebaran
 date: 2009-02-05T17:16:37+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=250
+guid: https://www.tasikisme.com/?p=250
 permalink: /hati-hati-virus-valentine-day-mulai-bertebaran/
 categories:
   - Cinta

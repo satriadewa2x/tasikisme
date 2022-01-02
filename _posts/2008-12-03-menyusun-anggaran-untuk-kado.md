@@ -4,7 +4,7 @@ title: Menyusun Anggaran Untuk Kado
 date: 2008-12-03T13:32:58+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=207
+guid: https://www.tasikisme.com/?p=207
 permalink: /menyusun-anggaran-untuk-kado/
 categories:
   - Curhat

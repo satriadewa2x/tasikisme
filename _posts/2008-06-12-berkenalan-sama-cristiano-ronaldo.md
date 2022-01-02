@@ -4,7 +4,7 @@ title: Berkenalan sama Cristiano Ronaldo
 date: 2008-06-12T03:26:52+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=126
+guid: https://www.tasikisme.com/?p=126
 permalink: /berkenalan-sama-cristiano-ronaldo/
 categories:
   - Olahraga

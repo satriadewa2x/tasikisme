@@ -16,20 +16,11 @@ tags:
   - Tips
   - Trick
 ---
-<p style="text-align: left;">
-  Terhubung ke jaringan Wifi merupakan salah satu cara agar kita bisa internetan di iPad atau iPhone. Apalagi jika iPad yang kita miliki cuma iPad versi Wifi tanpa 3G, maka terkoneksi ke Wifi menjadi hal yang wajib agar kita bisa Facebookan, BBM-an di iPad. Namun saat akan connect ke Wifi, tiba-tiba saja di iPad muncul error “Unable to join the Network”. Bagaimana cara mengatasi error seperti ini.
-</p>
+Terhubung ke jaringan Wifi merupakan salah satu cara agar kita bisa internetan di iPad atau iPhone. Apalagi jika iPad yang kita miliki cuma iPad versi Wifi tanpa 3G, maka terkoneksi ke Wifi menjadi hal yang wajib agar kita bisa Facebookan, BBM-an di iPad. Namun saat akan connect ke Wifi, tiba-tiba saja di iPad muncul error “Unable to join the Network”. Bagaimana cara mengatasi error seperti ini.
 
-<p style="text-align: left;">
-  Untuk mengatasi error seperti ini, kita bisa melakukan sebuah trick sederhana yaitu melakukan reset jaringan network di iPad kita.
-</p>
+Untuk mengatasi error seperti ini, kita bisa melakukan sebuah trick sederhana yaitu melakukan reset jaringan network di iPad kita.
 
-<p style="text-align: left;">
-  Pertama masuk ke menu <strong>Setting – General – Reset</strong> kemudian pilih <strong>Reset Network Settings</strong>. Masukan passcode/ kode pengaman iPad jika diminta. Jangan khawatir proses reset network setting ini tidak akan menghapus data, lagu atau film di iPad karena proses reset network hanya akan menghapus pengaturan jaringan di iPad saja.
-</p>
+Pertama masuk ke menu **Setting – General – Reset** kemudian pilih **Reset Network Settings**. Masukan passcode/ kode pengaman iPad jika diminta. Jangan khawatir proses reset network setting ini tidak akan menghapus data, lagu atau film di iPad karena proses reset network hanya akan menghapus pengaturan jaringan di iPad saja.
 
-<img loading="lazy" class="aligncenter" src="https://4.bp.blogspot.com/-OKe2qk6dz8Y/UxPQepn5ZiI/AAAAAAAACv0/36YpA7hzirg/s1600/wifi_error_unable_to_join_the_network.png" alt="mengatasi tidak bisa konek wifi" width="470" height="627" /> 
-
-<p style="text-align: left;">
-  Tunggu sampai proses reset network selesai, dan iPad atau iPhone akan restart. Setelah selesai proses reset, Anda bisa mencoba untuk connect lagi ke Wifi.
-</p>
+<img loading="lazy"  src="https://4.bp.blogspot.com/-OKe2qk6dz8Y/UxPQepn5ZiI/AAAAAAAACv0/36YpA7hzirg/s1600/wifi_error_unable_to_join_the_network.png" alt="mengatasi tidak bisa konek wifi" width="470" height="627" />  
+Tunggu sampai proses reset network selesai, dan iPad atau iPhone akan restart. Setelah selesai proses reset, Anda bisa mencoba untuk connect lagi ke Wifi.

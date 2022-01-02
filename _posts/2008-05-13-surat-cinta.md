@@ -4,7 +4,7 @@ title: Surat Cinta
 date: 2008-05-13T12:05:14+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=99
+guid: https://www.tasikisme.com/?p=99
 permalink: /surat-cinta/
 categories:
   - Cinta

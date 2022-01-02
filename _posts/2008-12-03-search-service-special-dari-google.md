@@ -4,7 +4,7 @@ title: Search Service Special dari Google
 date: 2008-12-03T13:22:15+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=206
+guid: https://www.tasikisme.com/?p=206
 permalink: /search-service-special-dari-google/
 categories:
   - Internet

@@ -4,7 +4,7 @@ title: Teknologi dan Hilangnya Seni Berpikir
 date: 2008-06-14T12:52:01+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=128
+guid: https://www.tasikisme.com/?p=128
 permalink: /teknologi-dan-hilangnya-seni-berpikir/
 categories:
   - Curhat

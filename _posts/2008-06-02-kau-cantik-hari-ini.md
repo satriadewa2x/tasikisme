@@ -4,7 +4,7 @@ title: Kau Cantik Hari ini…
 date: 2008-06-02T11:47:49+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=114
+guid: https://www.tasikisme.com/?p=114
 permalink: /kau-cantik-hari-ini/
 categories:
   - Curhat

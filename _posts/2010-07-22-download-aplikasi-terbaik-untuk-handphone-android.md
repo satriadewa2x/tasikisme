@@ -4,16 +4,14 @@ title: Download Aplikasi Terbaik Untuk Handphone Android
 date: 2010-07-22T06:43:57+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=409
+guid: https://www.tasikisme.com/?p=409
 permalink: /download-aplikasi-terbaik-untuk-handphone-android/
 categories:
   - Handphone
 tags:
   - Android
 ---
-<p style="text-align: justify;">
-  Sistem Operasi Android, memang lagi naik daun terbukti dengan berlomba-lombanya para produsen ponsel ternama untuk mempergunakan Sistem Operasi dari Google di Ponsel mereka. Sebut saja Sony Ericsson dengan Sony Ericsson xPeria X10, Motorola dengan Motorola Droid atau Motorola Milestone, HTC dengan HTC Evo 4G atau HTC Hero, sampai Samsung dengan Samsung Galaxy Spica.
-</p>
+Sistem Operasi Android, memang lagi naik daun terbukti dengan berlomba-lombanya para produsen ponsel ternama untuk mempergunakan Sistem Operasi dari Google di Ponsel mereka. Sebut saja Sony Ericsson dengan Sony Ericsson xPeria X10, Motorola dengan Motorola Droid atau Motorola Milestone, HTC dengan HTC Evo 4G atau HTC Hero, sampai Samsung dengan Samsung Galaxy Spica.
 
 Nah, Kalau Anda masih baru dengan Sistem Operasi Android, dan penasaran Aplikasi apa saja sih yang bagus untuk diinstal di Ponsel Android Anda? Berikut ini aplikasi-aplikasi yang menurut Tasikisme cukup bermanfaat untuk diinstal di ponsel Android Anda, sesuai dengan pengalaman Tasikisme sendiri yang menggunakan Ponsel Motorola Milestone dengan Sistem Operasi Android 2.1 “Enclair”. Aplikasi-aplikasi berikut bisa Anda dapatkan dengan mudah lewat Market di Ponsel Android Anda.
 

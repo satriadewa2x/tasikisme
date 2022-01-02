@@ -4,16 +4,14 @@ title: Cara Menyembunyikan Foto yang di-Tag oleh Teman di Facebook
 date: 2010-04-23T02:34:07+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=391
+guid: https://www.tasikisme.com/?p=391
 permalink: /cara-menyembunyikan-foto-yang-di-tag-oleh-teman-di-facebook/
 categories:
   - Facebook
 tags:
   - Facebook
 ---
-<p style="text-align: justify;">
-  Menyebalkan memang bila foto-foto di profile kita ternyata hanya dipenuhi oleh photo yang di-Tag oleh teman-teman kita. Iya kalau di foto yang di Tag itu kita tampil cantik dan manis sehingga bisa menambah daya tarik kita. Tapi kalau yang di Tag adalah foto saat kita ngantuk/ tertidur pulas di bis saat pulang study tour apalagi sampai iler kita kelihatan, nah itu sih bisa-bisa menjatuhkan daya tarik kita, he..he…
-</p>
+Menyebalkan memang bila foto-foto di profile kita ternyata hanya dipenuhi oleh photo yang di-Tag oleh teman-teman kita. Iya kalau di foto yang di Tag itu kita tampil cantik dan manis sehingga bisa menambah daya tarik kita. Tapi kalau yang di Tag adalah foto saat kita ngantuk/ tertidur pulas di bis saat pulang study tour apalagi sampai iler kita kelihatan, nah itu sih bisa-bisa menjatuhkan daya tarik kita, he..he…
 
 Lalu bagaimana caranya menyembunyikan foto yang di Tag oleh teman-teman kita supaya tidak tampil di profile kita tanpa harus menghapus Tag di foto tersebut? Berikut adalah tips singkat Cara Menyembunyikan Photo yang di Tag di Facebook tanpa menghilangkan Tag itu sendiri.
 

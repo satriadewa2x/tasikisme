@@ -27,16 +27,9 @@ Bisa kita jadikan kesempatan untuk kita lebih mengenal teman, sahabat atau kerab
 
 Internet memang sangat penting bagi kehidupan kita sekarang ini, bahkan karena sangat pentingnya internet, tak mengherankan bila salah satu operator besar di Indonesia yakni Telkomsel mencanangkan **Gerakan Indonesia Genggam Internet** yang tujuannya tiada lain agar seluruh rakyat Indonesia bisa mengenal dan merasakan manfaat internet.
 
-Oleh karena itu mari kita sebarkan manfaat internet dan berantas buta internet ke seluruh pelosok tanah air, tanpa harus kehilangan esensi kita sebagai homo socius. Jangan sampai, kehadiran internet di kehidupan kita malah membuat kita terisolasi dan terkucilkan dari lingkungan dimana kita berada.
+Oleh karena itu mari kita sebarkan manfaat internet dan berantas buta internet ke seluruh pelosok tanah air, tanpa harus kehilangan esensi kita sebagai homo socius. Jangan sampai, kehadiran internet di kehidupan kita malah membuat kita terisolasi dan terkucilkan dari lingkungan dimana kita berada.  
+<img loading="lazy" class="aligncenter wp-image-846 size-full" src="https://www.tasikisme.com/wp-content/uploads/2014/04/sehari_tanpa_internet.jpg" alt="sehari tanpa internet" width="300" height="300" srcset="https://www.tasikisme.com/wp-content/uploads/2014/04/sehari_tanpa_internet.jpg 300w, https://www.tasikisme.com/wp-content/uploads/2014/04/sehari_tanpa_internet-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /> 
 
-<p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter wp-image-846 size-full" src="https://www.tasikisme.com/wp-content/uploads/2014/04/sehari_tanpa_internet.jpg" alt="sehari tanpa internet" width="300" height="300" srcset="https://www.tasikisme.com/wp-content/uploads/2014/04/sehari_tanpa_internet.jpg 300w, https://www.tasikisme.com/wp-content/uploads/2014/04/sehari_tanpa_internet-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />
-</p>
+Mari kita kenalkan internet kepada anak-anak sejak dini, agar mereka mengenal teknologi dan tentunya bisa berkomunikasi dengan menggunakan bahasa global.
 
-<p style="text-align: justify;">
-  Mari kita kenalkan internet kepada anak-anak sejak dini, agar mereka mengenal teknologi dan tentunya bisa berkomunikasi dengan menggunakan bahasa global.
-</p>
-
-<p style="text-align: justify;">
-  Ajarkan kepada anak-anak bagaimana cara mencari sebuah informasi yang baik dan benar lewat internet, bimbing mereka dengan seksama agar mereka bisa memfilter informasi apa saja yang boleh dan tidak boleh mereka di lihat dan diakses. Ajarkan kepada mereka bahwa internet bisa memperluas wawasan, memperkaya ilmu pengetahuan dan mempererat persaudaraan.
-</p>
+Ajarkan kepada anak-anak bagaimana cara mencari sebuah informasi yang baik dan benar lewat internet, bimbing mereka dengan seksama agar mereka bisa memfilter informasi apa saja yang boleh dan tidak boleh mereka di lihat dan diakses. Ajarkan kepada mereka bahwa internet bisa memperluas wawasan, memperkaya ilmu pengetahuan dan mempererat persaudaraan.

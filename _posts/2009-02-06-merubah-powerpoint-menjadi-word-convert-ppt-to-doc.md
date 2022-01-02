@@ -4,7 +4,7 @@ title: Merubah Powerpoint Menjadi Word (Convert ppt to doc)
 date: 2009-02-06T17:24:27+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=251
+guid: https://www.tasikisme.com/?p=251
 permalink: /merubah-powerpoint-menjadi-word-convert-ppt-to-doc/
 categories:
   - Komputer

@@ -4,7 +4,7 @@ title: Merayakan Valentine Day, Murah tapi Romantis
 date: 2009-02-14T03:56:36+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=258
+guid: https://www.tasikisme.com/?p=258
 permalink: /merayakan-valentine-day-murah-tapi-romantis/
 categories:
   - Cinta

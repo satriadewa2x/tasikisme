@@ -4,7 +4,7 @@ title: Berapa Core sebenarnya yang kita perlukan?
 date: 2009-01-31T17:32:23+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=245
+guid: https://www.tasikisme.com/?p=245
 permalink: /berapa-core-sebenarnya-yang-kita-perlukan/
 categories:
   - Informasi

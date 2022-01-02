@@ -4,16 +4,14 @@ title: Daftar Program Terbaik untuk Flashdisk
 date: 2010-07-03T13:37:11+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=405
+guid: https://www.tasikisme.com/?p=405
 permalink: /daftar-program-terbaik-untuk-flashdisk/
 categories:
   - Komputer
 tags:
   - Komputer
 ---
-<p style="text-align: justify;">
-  Flashdisk tidak hanya berguna untuk menyimpan data, tapi juga bisa dimanfaatkan untuk menginstall program, dan menjalankan program secara langsung dari Flashdisk. Keuntunganya tentu saja, Anda bisa membawa program kesayangan Anda kemanapun juga, dan Anda bisa menjalankan program tersebut di komputer atau laptop manapun, tanpa harus terpaku pada satu komputer.
-</p>
+Flashdisk tidak hanya berguna untuk menyimpan data, tapi juga bisa dimanfaatkan untuk menginstall program, dan menjalankan program secara langsung dari Flashdisk. Keuntunganya tentu saja, Anda bisa membawa program kesayangan Anda kemanapun juga, dan Anda bisa menjalankan program tersebut di komputer atau laptop manapun, tanpa harus terpaku pada satu komputer.
 
 Program kecil yang biasa disebut dengan Portable Apps memang sangat efisien dan mudah digunakan. Portable Apps kebanyakan tidak perlu diinstal, cukup Anda download filenya dalam bentuk Zip atau Rar, kemudian ekstrak ke folder di Flashdisk, selesai, Andapun bisa langsung menjalankan program tersebut, di komputer atau laptop manapun.
 
@@ -27,6 +25,4 @@ Kalau Anda penasaran Portable Apps apa saja yang layak dan untuk diinstal di Fla
   * **Video Cache**. Bermanfaat bila anda ingin menyimpan Video yang baru saja anda lihat secara online.
   * **Infra Recorder-Portable CD dan DVD Burning Tool.** Kalau Anda terbiasa membackup CD/DVD dengan menggunakan program Nero, maka program yang satu ini bisa dijadikan sebagai alternatif Nero.
 
-<p style="text-align: justify;">
-  Ada banyak berbagai Program Portable yang bisa Anda instal atau Anda bawa di Flashdisk Anda, yang tentunya bisa disesuaikan dengan kebutuhan Anda. Anda bisa menemukan berbagai program portable gratis di PortableApps dot com.
-</p>
+Ada banyak berbagai Program Portable yang bisa Anda instal atau Anda bawa di Flashdisk Anda, yang tentunya bisa disesuaikan dengan kebutuhan Anda. Anda bisa menemukan berbagai program portable gratis di PortableApps dot com.

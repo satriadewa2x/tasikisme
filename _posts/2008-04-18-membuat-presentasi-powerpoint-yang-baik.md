@@ -4,7 +4,7 @@ title: 'Membuat Presentasi Powerpoint  yang Baik'
 date: 2008-04-18T10:06:39+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=71
+guid: https://www.tasikisme.com/?p=71
 permalink: /membuat-presentasi-powerpoint-yang-baik/
 categories:
   - Komputer

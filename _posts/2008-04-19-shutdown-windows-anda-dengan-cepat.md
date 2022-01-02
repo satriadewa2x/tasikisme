@@ -4,7 +4,7 @@ title: Shutdown Windows Anda dengan cepat!
 date: 2008-04-19T14:20:21+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=73
+guid: https://www.tasikisme.com/?p=73
 permalink: /shutdown-windows-anda-dengan-cepat/
 categories:
   - Tips
@@ -13,11 +13,11 @@ tags:
   - Tips
   - Windows
 ---
-Anda pasti pernah mengalami, saat akan men-Shutdown Windows XP ternyata prosesnya lama sekali. Apalagi ketika anda se dang membuka beberapa aplikasi lalu anda ingin Shutdown Windows anda, maka sudah bisa dipastikan prosesnya bakal lama, sebab Windows akan meng-close dulu program-program yang se dang anda jalankan satu persatu satu.
+Anda pasti pernah mengalami, saat akan men-Shutdown Windows XP ternyata prosesnya lama sekali. Apalagi ketika anda sedang membuka beberapa aplikasi lalu anda ingin Shutdown Windows anda, maka sudah bisa dipastikan prosesnya bakal lama, sebab Windows akan meng-close dulu program-program yang sedang anda jalankan satu persatu satu.
 
-Nah, trik berikut akan menunjukkan kepada anda, bagaimana menyiasiti biar Windows anda bisa di Shutdown dengan cepat kilat. Meskipun anda se dang menjalankan beberapa aplikasi/program, Anda bisa men-shutdown windows anda dengan instant alias dengan cepat tanpa harus menunggu aplikasi tersebut di-close satu per satu.
+Nah, trik berikut akan menunjukkan kepada anda, bagaimana menyiasiti biar Windows anda bisa di Shutdown dengan cepat kilat. Meskipun anda sedang menjalankan beberapa aplikasi/program, Anda bisa men-shutdown windows anda dengan instant alias dengan cepat tanpa harus menunggu aplikasi tersebut di-close satu per satu.
 
-Sebelumnya pastikan dulu anda memback-up registry anda jadi dimana terjadi eror setelah melakukan trik ini  
+Sebelumnya pastikan dulu anda memback-up registry anda jadi dimana terjadi eror setelah melakukan trikini  
 anda bisa merestore registry anda dan komputer anda akan kembali normal seperti biasanya.
 
   * Dari Start Menu klik tombol Run dan ketik : REGEDIT

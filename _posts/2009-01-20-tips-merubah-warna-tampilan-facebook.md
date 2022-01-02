@@ -4,7 +4,7 @@ title: Tips Merubah Warna Tampilan Facebook
 date: 2009-01-20T13:16:12+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=235
+guid: https://www.tasikisme.com/?p=235
 permalink: /tips-merubah-warna-tampilan-facebook/
 categories:
   - Facebook

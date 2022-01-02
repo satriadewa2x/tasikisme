@@ -4,7 +4,7 @@ title: Get Ready for USB 3.0
 date: 2008-11-17T12:07:26+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=199
+guid: https://www.tasikisme.com/?p=199
 permalink: /get-ready-for-usb-30/
 categories:
   - Informasi
@@ -21,7 +21,7 @@ Yang lebih enaknya lagi, kita bisa sekalian nge-charge peralatan elektronik kita
 
 Jadi tidak masalah, sambil kita nge-print kita juga bisa sekalian mengcopy lagu pada PDA atau handphone kita.
 
-Sejak pertama kali diperkenalkan pada tahun 1996 USB k ini telah menjadi standar koneksi pada berbagai macam gadget mulai dari PDA, Handphone, Camcorder, Kamera Digital, Printer sampai kepada Keyboard, Mouse dan bahkan musik player.
+Sejak pertama kali diperkenalkan pada tahun 1996 USB kini telah menjadi standar koneksi pada berbagai macam gadget mulai dari PDA, Handphone, Camcorder, Kamera Digital, Printer sampai kepada Keyboard, Mouse dan bahkan musik player.
 
 USB yang sekarang banyak beredar di pasaran masih mengadopsi USB 2.0 dengan kecepatan maksimal 480 megabit per second (Mbps) dan bahkan kita sering juga menemukan peralatan yang masih memakai USB 1.0 yang ‘hanya’ berkecepatan 12 Mbps.
 

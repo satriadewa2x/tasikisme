@@ -4,7 +4,7 @@ title: Mendelete Akun Friendster dengan Aman dan Bersih
 date: 2008-12-22T12:02:18+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=215
+guid: https://www.tasikisme.com/?p=215
 permalink: /mendelete-akun-friendster-dengan-aman-dan-bersih/
 categories:
   - Internet

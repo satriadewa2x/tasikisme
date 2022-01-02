@@ -4,7 +4,7 @@ title: 'Trick Facebook : Menggabungkan Akun Facebook dengan Gmail, MySpace atau 
 date: 2010-09-11T10:49:13+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=425
+guid: https://www.tasikisme.com/?p=425
 permalink: /trick-facebook-menggabungkan-akun-facebook-dengan-gmail-myspace-atau-yahoo-mail/
 categories:
   - Facebook

@@ -4,18 +4,14 @@ title: Download Jadwal F1 2011 Lengkap
 date: 2011-02-20T08:46:42+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=462
+guid: https://www.tasikisme.com/?p=462
 permalink: /download-jadwal-f1-2011-lengkap/
 categories:
   - Olahraga
 ---
-<p style="text-align: justify;">
-  Formula 1 akhirnya datang juga, memasuki musim 2011, tentu saja banyak sekali inovasi dan regulasi baru yang bakal diterapkan di F1 2011. Setelah menjadi Juara Dunia Tahun Lalu, akankah Sebastian Vettel mampu mempertahankan gelar juara tersebut di musim 2011 ini? Begitu juga RBR-Renault apakah akan mampu mempertahankan gelar Constructor tahun lalu dari pesaing-pesaing terdekatnya Ferarri dan McLaren-Mercedes!
-</p>
+Formula 1 akhirnya datang juga, memasuki musim 2011, tentu saja banyak sekali inovasi dan regulasi baru yang bakal diterapkan di F1 2011. Setelah menjadi Juara Dunia Tahun Lalu, akankah Sebastian Vettel mampu mempertahankan gelar juara tersebut di musim 2011 ini? Begitu juga RBR-Renault apakah akan mampu mempertahankan gelar Constructor tahun lalu dari pesaing-pesaing terdekatnya Ferarri dan McLaren-Mercedes!
 
-<p style="text-align: justify;">
-  Bagaimana peluang Jenson Button, Lewis Hamilton, Felipe Massa, Fernando Alonso, Michael Schumacher sampai Heikki Kovalainen, yang pasti inilah Jadwal Lengkap F1 2011.
-</p>
+Bagaimana peluang Jenson Button, Lewis Hamilton, Felipe Massa, Fernando Alonso, Michael Schumacher sampai Heikki Kovalainen, yang pasti inilah Jadwal Lengkap F1 2011.
 
   * 11 &#8211; 13 Maret 2011 &#8211; FORMULA 1 GULF AIR BAHRAIN GRAND PRIX (Sakhir) &#8211; DITUNDA 
   * 25 &#8211; 27 Maret 2011 &#8211; FORMULA 1 QANTAS AUSTRALIAN GRAND PRIX (Melbourne) 

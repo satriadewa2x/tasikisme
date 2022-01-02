@@ -4,7 +4,7 @@ title: 8 Pemain Yang “Wajib” dilihat di Euro 2008
 date: 2008-06-06T11:38:42+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=121
+guid: https://www.tasikisme.com/?p=121
 permalink: /8-pemain-yang-wajib-dilihat-di-euro-2008/
 categories:
   - Olahraga

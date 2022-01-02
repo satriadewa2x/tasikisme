@@ -4,20 +4,17 @@ title: Cara Mudah Menghemat Uang
 date: 2010-04-03T13:27:44+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=386
+guid: https://www.tasikisme.com/?p=386
 permalink: /cara-mudah-menghemat-uang/
 categories:
   - Informasi
 tags:
   - Tips
 ---
-<p style="text-align: justify;">
-  Hidup hemat, sangat dianjurkan oleh siapapun. Dengan berhemat, kita bisa mengatur keuangan dengan lebih bijak, sehingga suatu waktu bila kita membutuhkan dana yang lumayan besar, kita bisa memenuhinya karena memiliki simpanan dari hasil kita berhemat. Tips berikut ini cara menghemat uang yang mungkin akan sangat bermanfaat bagi anda, ingatlah berhemat lebih memberikan keuntungan daripada menghambur-hambur uang untuk sesuatu yang kurang mendatangkan manfaat.
-</p>
+Hidup hemat, sangat dianjurkan oleh siapapun. Dengan berhemat, kita bisa mengatur keuangan dengan lebih bijak, sehingga suatu waktu bila kita membutuhkan dana yang lumayan besar, kita bisa memenuhinya karena memiliki simpanan dari hasil kita berhemat. Tips berikut ini cara menghemat uang yang mungkin akan sangat bermanfaat bagi anda, ingatlah berhemat lebih memberikan keuntungan daripada menghambur-hambur uang untuk sesuatu yang kurang mendatangkan manfaat.
 
-<p style="text-align: justify;">
-  <strong>Berpikir 24 jam, malah lebih baik 72 jam!</strong><br />Saat anda ngebet ingin membeli sebuah barang (Handphone misalnya), sebelum memutuskan untuk langsung membelinya, ada baiknya anda kembali ke rumah, terus berpikirlah selama 24 jam, apakah memang anda benar-benar membutuhkan handphone baru? Apakah handphone lama memang sudah tidak bisa memenuhi kebutuhan komunikasi anda? Berpikir ulang selama 72 jam akan lebih, sehingga anda tambah yakin, apakah memang membutuhkan benda tersebut? Dengan demikian anda bisa tahu plus minus dari keinginan anda membeli barang tersebut. Dan tentunya, jika ternyata anda menyadari bahwa anda saat ini tidak terlalu membutuhkan HP baru, karena HP lama masih bisa anda gunakan, berarti anda telah menghemat ribuan rupiah.
-</p>
+**Berpikir 24 jam, malah lebih baik 72 jam!**  
+Saat anda ngebet ingin membeli sebuah barang (Handphone misalnya), sebelum memutuskan untuk langsung membelinya, ada baiknya anda kembali ke rumah, terus berpikirlah selama 24 jam, apakah memang anda benar-benar membutuhkan handphone baru? Apakah handphone lama memang sudah tidak bisa memenuhi kebutuhan komunikasi anda? Berpikir ulang selama 72 jam akan lebih, sehingga anda tambah yakin, apakah memang membutuhkan benda tersebut? Dengan demikian anda bisa tahu plus minus dari keinginan anda membeli barang tersebut. Dan tentunya, jika ternyata anda menyadari bahwa anda saat ini tidak terlalu membutuhkan HP baru, karena HP lama masih bisa anda gunakan, berarti anda telah menghemat ribuan rupiah.
 
 **Cari yang Gratis**  
 Siapa sih yang tidak suka gratisan, setiap orang pasti sangat menyukai mendapatkan sesuatu dengan gratis. Nah, sebelum anda memutuskan untuk membeli sebuah buku, mending anda kunjungi dulu perpustakaan umum, terus cari buku yang anda ingin baca tersebut, dengan demikian anda bisa menghemat beberapa ribu rupiah.

@@ -4,7 +4,7 @@ title: Euro 2008 | Profil Team Group B | Tuan Rumah Siap Membuat Kejutan.
 date: 2008-06-03T10:53:38+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=118
+guid: https://www.tasikisme.com/?p=118
 permalink: /euro-2008-profil-team-group-b-tuan-rumah-siap-membuat-kejutan/
 categories:
   - Olahraga

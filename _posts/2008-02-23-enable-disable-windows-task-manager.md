@@ -4,7 +4,7 @@ title: Cara Enable dan Disable Windows Task Manager
 date: 2008-02-23T12:40:29+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=25
+guid: https://www.tasikisme.com/?p=25
 permalink: /enable-disable-windows-task-manager/
 categories:
   - Komputer

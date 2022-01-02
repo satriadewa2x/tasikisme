@@ -4,7 +4,7 @@ title: Memanfaatkan Google untuk Kesehatan Hidup Kita
 date: 2009-01-11T08:38:04+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=226
+guid: https://www.tasikisme.com/?p=226
 permalink: /memanfaatkan-google-untuk-kesehatan-hidup-kita/
 categories:
   - Internet
@@ -16,7 +16,7 @@ Bukan bermaksud iklan, tapi kita memang bisa memanfaatkan Google untuk hidup leb
 
 Mulai dari bi dang ekonomi, politik, sosial, budaya sampai kepada informasi tentang tempat hiburan dan bahkan informasi tentang seputar kesehatan kita.
 
-Anda se dang sakit? Dan ada seorang teman menyarankan kepada anda untuk meminum sebuah obat, yang katanya sangat berkhasiat untuk menyembuhkan penyakit yang se dang anda derita?
+Anda sedang sakit? Dan ada seorang teman menyarankan kepada anda untuk meminum sebuah obat, yang katanya sangat berkhasiat untuk menyembuhkan penyakit yang sedang anda derita?
 
 Teman anda tersebut mungkin hanya sekedar menyarankan dan menyebutkan sebuah nama obat tanpa menjelaskan khasiat atau efek samping dari obat tersebut.
 

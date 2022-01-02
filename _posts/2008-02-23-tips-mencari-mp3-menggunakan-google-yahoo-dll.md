@@ -4,7 +4,7 @@ title: Cara Mencari Lagu MP3 tanpa Iklan di Google dan Yahoo
 date: 2008-02-23T12:44:15+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=26
+guid: https://www.tasikisme.com/?p=26
 permalink: /tips-mencari-mp3-menggunakan-google-yahoo-dll/
 categories:
   - Internet

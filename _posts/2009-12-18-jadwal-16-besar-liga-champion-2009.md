@@ -4,7 +4,7 @@ title: Jadwal 16 Besar Liga Champion 2009
 date: 2009-12-18T13:36:52+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=366
+guid: https://www.tasikisme.com/?p=366
 permalink: /jadwal-16-besar-liga-champion-2009/
 categories:
   - Olahraga
@@ -16,15 +16,15 @@ tags:
     Untuk Melihat <strong>Jadwal Semifinal Liga Champion 2010</strong>
   </p>
   
-  <p style="text-align: justify;">
+  <p>
     Setelah menyelesaikan babak group, Liga Champion Eropa mulai memasuki babak 16 besar. Di babak enam belas besar kali ini, Jose Mourinho akan kembali Chelsea (setelah 2 tahun sebelumnya dia dipecat dari Chelsea) namun kali ini dia akan membawa team asuhannya Inter untuk menantang Chelsea dan membuktikan siapa yang terbaik dan layak melaju ke babak perempat final.
   </p>
   
-  <p style="text-align: justify;">
+  <p>
     Di pertandingan lain Beckham pun akan kembali ke stadion tempat dimana dia dibesarkan dulu, kali ini bersama teamnya Ac Milan akan mencoba untuk menaklukan Setan Merah Manchester United di Old Trafford.
   </p>
   
-  <p style="text-align: justify;">
+  <p>
     Juara bertahan Barcelona akan menghadapi team Jerman Stuttgart se dangkan Pasukan Sang Profesor The Young Gun Arsenal akan ditantang oleh wakil dari Portugal FC Porto. Selengkapnya inilah jadwal Babak 16 Besar Liga Champion 2009, sebagai catatan Juara Group akan menjadi tuan rumah pada pertemuan kedua.
   </p>
   

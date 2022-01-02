@@ -4,7 +4,7 @@ title: Mempercantik Facebook dengan Facebook Code
 date: 2009-01-16T13:28:35+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=232
+guid: https://www.tasikisme.com/?p=232
 permalink: /mempercantik-facebook-dengan-facebook-code/
 categories:
   - Facebook

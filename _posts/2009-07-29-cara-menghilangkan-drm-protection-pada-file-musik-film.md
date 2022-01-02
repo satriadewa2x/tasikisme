@@ -4,16 +4,14 @@ title: Cara Menghilangkan DRM Protection pada File Musik, Film
 date: 2009-07-29T11:51:09+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=332
+guid: https://www.tasikisme.com/?p=332
 permalink: /cara-menghilangkan-drm-protection-pada-file-musik-film/
 categories:
   - Informasi
 tags:
   - Informasi
 ---
-<p style="text-align: justify;">
-  Digital Right Management atau yang lebih terkenal dengan singkatan DRM merupakan salah satu cara dari si empunya hak cipta (entah itu musik atau film) untuk melindungi hasil karyanya. Dengan adanya perlindungan DRM maka si produser/pemegang hak cipta dapat mengontrol orang untuk mengcopy, menginstal, melihat atau menyebarkan file yang telah dibelinya.
-</p>
+Digital Right Management atau yang lebih terkenal dengan singkatan DRM merupakan salah satu cara dari si empunya hak cipta (entah itu musik atau film) untuk melindungi hasil karyanya. Dengan adanya perlindungan DRM maka si produser/pemegang hak cipta dapat mengontrol orang untuk mengcopy, menginstal, melihat atau menyebarkan file yang telah dibelinya.
 
 Misal bila anda membeli sebuah file musik untuk iPhone atau iPod maka anda hanya bisa memutarkan musik tersebut di iPhone atau iPod anda saja, kalaupun anda bisa mengcopy file tersebut di device lain maka file tersebut tidak akan bisa diputar karena adanya perlindungan DRM ini.
 

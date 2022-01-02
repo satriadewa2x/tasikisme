@@ -4,7 +4,7 @@ title: Tips men-DELETE account Friendster!
 date: 2008-02-17T15:00:29+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=17
+guid: https://www.tasikisme.com/?p=17
 permalink: /tips-men-delete-account-friendster/
 categories:
   - Internet

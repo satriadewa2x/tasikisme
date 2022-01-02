@@ -4,7 +4,7 @@ title: Tips Mencari Photo/ Gambar dengan Google
 date: 2008-11-26T16:54:58+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=203
+guid: https://www.tasikisme.com/?p=203
 permalink: /tips-mencari-photo-gambar-dengan-google/
 categories:
   - Internet
@@ -13,7 +13,7 @@ tags:
   - Internet
   - Tips
 ---
-Se dang mencari sebuah photo untuk melengkapi tugas anda? Atau anda nge-fans sama seorang artis dan k ini se dang mengoleksi photo-photonya?
+Se dang mencari sebuah photo untuk melengkapi tugas anda? Atau anda nge-fans sama seorang artis dan kini sedang mengoleksi photo-photonya?
 
 Nah, kenapa tidak anda manfaatkan Google untuk mencari Photo atau gambar yang diinginkan dengan mudah dan cepat.
 
@@ -25,11 +25,11 @@ Bila anda hanya menginginkan hasil pencarian berupa gambar atau photo saja, cara
 
 Pada halaman default Google, yang pertama harus anda lakukan akan klik dulu link **Image** (bila anda menggunakan Google berbahasa Indonesia, klik link **Gambar**)
 
-<img loading="lazy" class="aligncenter" title="Tasikisme Images 1" src="https://wisatacinta.wordpress.com/files/2008/11/photo.gif" alt="Mencari Photo" width="480" height="360" border="1" /> 
+<img loading="lazy"  title="Tasikisme Images 1" src="https://wisatacinta.wordpress.com/files/2008/11/photo.gif" alt="Mencari Photo" width="480" height="360" border="1" /> 
 
 Maka tampilan Google pun akan berubah menjadi **Google Search Image** **(Google Cari Gambar**)
 
-<img loading="lazy" class="aligncenter" title="Cara Mencari Photo dengan Google" src="https://wisatacinta.wordpress.com/files/2008/11/photo1.gif" alt="Pencairan Photo dengan Google" width="480" height="360" border="1" /> 
+<img loading="lazy"  title="Cara Mencari Photo dengan Google" src="https://wisatacinta.wordpress.com/files/2008/11/photo1.gif" alt="Pencairan Photo dengan Google" width="480" height="360" border="1" /> 
 
 Setelah itu tinggal anda masukkan kata kunci yang ingin anda cari photo/ gambarnya, misalnya anda ingin mencari tentang **Mentari,** ketik **Mentari** dan kemudian tekan tombol **Search Image** (**Cari Gambar**), atau cukup tekan [enter] pada keyboard anda.
 

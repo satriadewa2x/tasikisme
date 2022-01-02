@@ -4,7 +4,7 @@ title: Tips Pencarian dengan Google!
 date: 2008-02-17T14:57:54+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=16
+guid: https://www.tasikisme.com/?p=16
 permalink: /tips-pencarian-dengan-google/
 categories:
   - Internet
@@ -31,7 +31,7 @@ ada baiknya anda menggunakan sintak-sintak berikut ini, biar hasil pencarian and
 
 ‘**link**:’ membatasi pencarian hanya pada halaman web yang memiliki link yang dicari. Contoh: link:www.google.com.
 
-‘**cache**:’ untuk mendapatkan halaman web yang telah diindex google meskipun halaman web tersebut telah berubah. Sintak ini akan memungkinkan anda untuk mengakses cache google. Contoh: cache:”tasikisme 08-02.”
+‘**cache**:’ untuk mendapatkan halaman web yang telah diindex google meskipun halaman web tersebut telah berubah. Sintakini akan memungkinkan anda untuk mengakses cache google. Contoh: cache:”tasikisme 08-02.”
 
 ‘**filetype**:’ untuk membatasi tipe file yang akan dicari. Contoh:DVD filetype: PDF.
 

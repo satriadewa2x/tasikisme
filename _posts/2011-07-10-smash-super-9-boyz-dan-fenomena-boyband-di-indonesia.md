@@ -4,16 +4,14 @@ title: SMASH, Super 9 Boyz dan Fenomena Boyband di Indonesia
 date: 2011-07-10T10:40:49+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=486
+guid: https://www.tasikisme.com/?p=486
 permalink: /smash-super-9-boyz-dan-fenomena-boyband-di-indonesia/
 categories:
   - Informasi
 tags:
   - Informasi
 ---
-<p style="text-align: justify;">
-  Awalnya mereka dicaci, dituduh niru-niru, sampai ada yang bilang tidak kreatif, cuma mengandalkan tampang doang, lebay plus alay, gk bakat nyanyi, gk bisa ng- dance dan berbagai alasan lainnya. Namun banyak pula yang memuji mereka, ng-fans banget sama personilnya, menjadikan mereka idola, dan jangan salah juga ada yang bahagia karena k ini di Indonesia banyak boyband, gk kalah dengan boyband asing, katanya “Asik banget karena k ini kita bisa melihat boyband idola, tampil live di konser tanpa harus jauh-jauh ke luar negeri sana!” Nah loh, terlepas dari pro dan kontra, yang pasti BoyBand di Indonesia berlahan tapi pasti mulai mendapat tempat di benak penikmat musik.
-</p>
+Awalnya mereka dicaci, dituduh niru-niru, sampai ada yang bilang tidak kreatif, cuma mengandalkan tampang doang, lebay plus alay, gk bakat nyanyi, gk bisa ng- dance dan berbagai alasan lainnya. Namun banyak pula yang memuji mereka, ng-fans banget sama personilnya, menjadikan mereka idola, dan jangan salah juga ada yang bahagia karena k ini di Indonesia banyak boyband, gk kalah dengan boyband asing, katanya “Asik banget karena k ini kita bisa melihat boyband idola, tampil live di konser tanpa harus jauh-jauh ke luar negeri sana!” Nah loh, terlepas dari pro dan kontra, yang pasti BoyBand di Indonesia berlahan tapi pasti mulai mendapat tempat di benak penikmat musik.
 
 Boyband memang sudah tak asing lagi dan telah menjadi bagian dari musik itu sendiri, siapa yang tak kenal Westlife, Backstreet Boys, Boyz II Men sampai NSYNC, mereka semua adalah Boy Bands ternama yang dikenal di seluruh dunia. Di Indonesia fenomena Boyband mulai menggeliat dan tentunya tak bisa dipungkiri telah memberi alternatif pilihan untuk kita bisa mendengarkan musik di saat santai.
 

@@ -4,7 +4,7 @@ title: Vista 64 bit atau 32 bit?
 date: 2008-04-19T11:51:26+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=72
+guid: https://www.tasikisme.com/?p=72
 permalink: /vista-64-bit-atau-32-bit/
 categories:
   - Windows

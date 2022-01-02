@@ -4,7 +4,7 @@ title: Virus-Virus Komputer yang Paling Berbahaya dan Merugikan
 date: 2008-07-11T11:50:23+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=156
+guid: https://www.tasikisme.com/?p=156
 permalink: /virus-virus-komputer-yang-paling-berbahaya-dan-merugikan/
 categories:
   - Komputer

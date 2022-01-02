@@ -4,16 +4,14 @@ title: Jadwal Lengkap Babak 16 Besar Liga Champion 2010-2011
 date: 2010-12-17T17:27:47+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=450
+guid: https://www.tasikisme.com/?p=450
 permalink: /jadwal-lengkap-babak-16-besar-liga-champion-2010-2011/
 categories:
   - Olahraga
 tags:
   - Olahraga
 ---
-<p style="text-align: justify;">
-  Untuk Jadwal Perempat Final Piala Champion 2011 silakan baca di Jadwal Perempat Final Liga Champion 2011
-</p>
+Untuk Jadwal Perempat Final Piala Champion 2011 silakan baca di Jadwal Perempat Final Liga Champion 2011
 
 Juara bertahan Inter Milan akan menghadapi Bayern Munchen di Babak 16 Besar Liga Champion 2010-2011.  Setelah hanya mampu finish sebagai runner up di Group A, Inter terpaksa harus menghadapi juara group E yakni Bayern Munchen yang mereka kalahkan di Final Liga Champion lalu berkat goal Diego Milito.
 

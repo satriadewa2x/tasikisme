@@ -4,7 +4,7 @@ title: Men-Delete, Mem-Block, dan Melaporkan Friend di Friendster
 date: 2008-05-31T11:30:57+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=112
+guid: https://www.tasikisme.com/?p=112
 permalink: /men-delete-mem-block-dan-melaporkan-friend-di-friendster/
 categories:
   - Internet

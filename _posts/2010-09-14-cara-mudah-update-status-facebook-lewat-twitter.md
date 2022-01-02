@@ -4,7 +4,7 @@ title: Cara Mudah Update Status Facebook lewat Twitter
 date: 2010-09-14T07:31:45+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=427
+guid: https://www.tasikisme.com/?p=427
 permalink: /cara-mudah-update-status-facebook-lewat-twitter/
 categories:
   - Facebook

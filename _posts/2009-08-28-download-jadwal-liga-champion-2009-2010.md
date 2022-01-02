@@ -4,16 +4,14 @@ title: Download Jadwal Liga Champion 2009-2010
 date: 2009-08-28T04:33:05+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=340
+guid: https://www.tasikisme.com/?p=340
 permalink: /download-jadwal-liga-champion-2009-2010/
 categories:
   - Olahraga
 tags:
   - Olahraga
 ---
-<p style="text-align: justify;">
-  Baca Disini untuk Jadwal Liga Champion 2010-2011
-</p>
+Baca Disini untuk Jadwal Liga Champion 2010-2011
 
 Jadwal Semifinal Liga Champion 2010 baca di Jadwal Semifinal Liga Champion 2010
 

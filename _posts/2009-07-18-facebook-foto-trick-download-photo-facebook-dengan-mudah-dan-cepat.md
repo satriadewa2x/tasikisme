@@ -4,16 +4,14 @@ title: 'Facebook Foto Trick : Download Photo Facebook Dengan Mudah dan Cepat'
 date: 2009-07-18T11:28:24+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=330
+guid: https://www.tasikisme.com/?p=330
 permalink: /facebook-foto-trick-download-photo-facebook-dengan-mudah-dan-cepat/
 categories:
   - Facebook
 tags:
   - Facebook
 ---
-<p style="text-align: justify;">
-  Suatu ketika, saat sedang berjalan-jalan di fesbuk, berkunjung dari satu profil ke profile lain secara tiba-tiba anda menemukan profile fesbuk seseorang yang sangat menarik, cantik dan tentunya manis. Sampai-sampai mata anda tidak berkedip dan dalam hati tanpa sadar anda berkata, “kok ada yakh, gadis manis yang lebih cantik dari pacarku?!!” Akhirnya anda Add sang gadis cantik nan manis, dan pucuk dicinta ulampun tiba, sang gadis juga ternyata lagi online di fesbuk pakai Blackberry miliknya, akhirnya tanpa proses lama di Confirm dech request tanpa basa-basi lagi, dan akhirnya andapun bisa bebas menelusuri tiap lekuk dari profile si gadis.
-</p>
+Suatu ketika, saat sedang berjalan-jalan di fesbuk, berkunjung dari satu profil ke profile lain secara tiba-tiba anda menemukan profile fesbuk seseorang yang sangat menarik, cantik dan tentunya manis. Sampai-sampai mata anda tidak berkedip dan dalam hati tanpa sadar anda berkata, “kok ada yakh, gadis manis yang lebih cantik dari pacarku?!!” Akhirnya anda Add sang gadis cantik nan manis, dan pucuk dicinta ulampun tiba, sang gadis juga ternyata lagi online di fesbuk pakai Blackberry miliknya, akhirnya tanpa proses lama di Confirm dech request tanpa basa-basi lagi, dan akhirnya andapun bisa bebas menelusuri tiap lekuk dari profile si gadis.
 
 Tapi pas sampai di Album photo, anda berhenti cukup lama maklum disana banyak sekali photo sang gadis yang cantik-cantik dan manis-manis dengan berbagai gaya yang membuat anda tambah penasaran. Mau dilihat dan di-Save satu persatu mungkin butuh waktu lama, karena di album tersebut terdapat lebih dari 200 buah photo?
 

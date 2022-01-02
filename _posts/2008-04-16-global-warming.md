@@ -4,7 +4,7 @@ title: Apa itu Global Warming!
 date: 2008-04-16T16:10:31+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=68
+guid: https://www.tasikisme.com/?p=68
 permalink: /global-warming/
 categories:
   - Curhat

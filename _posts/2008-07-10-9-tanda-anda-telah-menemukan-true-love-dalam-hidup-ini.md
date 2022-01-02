@@ -4,7 +4,7 @@ title: 9 Tanda Anda telah Menemukan “True Love” dalam Hidup ini.
 date: 2008-07-10T18:36:12+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=153
+guid: https://www.tasikisme.com/?p=153
 permalink: /9-tanda-anda-telah-menemukan-true-love-dalam-hidup-ini/
 categories:
   - Cinta

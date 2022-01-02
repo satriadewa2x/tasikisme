@@ -4,7 +4,7 @@ title: Download Program Facebook untuk Laptop dan Netbook
 date: 2010-09-14T02:38:42+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=426
+guid: https://www.tasikisme.com/?p=426
 permalink: /download-program-facebook-untuk-laptop-dan-netbook/
 categories:
   - Facebook

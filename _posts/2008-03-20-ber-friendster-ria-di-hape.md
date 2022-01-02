@@ -4,7 +4,7 @@ title: Akses Friendster di Handphone
 date: 2008-03-20T07:03:49+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=47
+guid: https://www.tasikisme.com/?p=47
 permalink: /ber-friendster-ria-di-hape/
 categories:
   - Handphone

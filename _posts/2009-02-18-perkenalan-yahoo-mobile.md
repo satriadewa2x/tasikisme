@@ -4,7 +4,7 @@ title: Perkenalan Yahoo! Mobile
 date: 2009-02-18T14:48:05+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=261
+guid: https://www.tasikisme.com/?p=261
 permalink: /perkenalan-yahoo-mobile/
 categories:
   - Internet

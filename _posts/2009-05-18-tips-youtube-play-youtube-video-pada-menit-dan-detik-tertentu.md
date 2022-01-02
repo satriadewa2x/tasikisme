@@ -4,16 +4,14 @@ title: 'Tips Youtube : Play Youtube Video pada Menit dan Detik Tertentu'
 date: 2009-05-18T17:01:35+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=310
+guid: https://www.tasikisme.com/?p=310
 permalink: /tips-youtube-play-youtube-video-pada-menit-dan-detik-tertentu/
 categories:
   - Internet
 tags:
   - Internet
 ---
-<p style="text-align: justify;">
-  Sudah bukan rahasia umum, kalau Youtube telah menjadi referensi video klip terlengkap, mulai dari trailer film sampai kepada video lucu, seram, menegangkan, video klip lagu bahkan sampai video narsis yang dibuat oleh perorangan. Tak hanya berbagai video klip menarik yang layak untuk di tonton, pun di Youtube ada juga video yang kurang, tidak bahkan sangat tidak menarik.
-</p>
+Sudah bukan rahasia umum, kalau Youtube telah menjadi referensi video klip terlengkap, mulai dari trailer film sampai kepada video lucu, seram, menegangkan, video klip lagu bahkan sampai video narsis yang dibuat oleh perorangan. Tak hanya berbagai video klip menarik yang layak untuk di tonton, pun di Youtube ada juga video yang kurang, tidak bahkan sangat tidak menarik.
 
 Mungkin suatu waktu, ketika anda melihat sebuah video klip di Youtube, anda menyaksikan sebuah adegan lucu yang membuat anda terpingkal-pingkal menahan tawa. Dan… andapun berkeinginan membagi adegan lucu tersebut dengan teman atau rekan anda, sehingga andapun memberikan alamat atau link video klip tersebut.
 

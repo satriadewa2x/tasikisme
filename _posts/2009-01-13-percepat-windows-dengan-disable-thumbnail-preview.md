@@ -4,7 +4,7 @@ title: Percepat Windows dengan Disable Thumbnail Preview
 date: 2009-01-13T12:37:00+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=227
+guid: https://www.tasikisme.com/?p=227
 permalink: /percepat-windows-dengan-disable-thumbnail-preview/
 categories:
   - Komputer
@@ -29,23 +29,17 @@ Caranya sangat simple dan mudah.
 
 Klik **[ Start Menu ]** &#8211;> **[ Run ]** 
 
-Kemudian masukkan perintah berikut: **regsvr32 /u shimgvw.dll** untuk mendisable atau menonaktifkan proses thumbnail preview file gambar pada komputer anda.
-
-<div style="text-align: center;">
-  <img loading="lazy" title="Disable Thumbnail Preview untuk File Gambar" src="https://wisatacinta.files.wordpress.com/2009/01/disable_image_preview.gif" alt="Menonaktifkan Thumbnail Preview untuk File Gambar" width="344" height="184" border="0" />
-</div>
+Kemudian masukkan perintah berikut: **regsvr32 /u shimgvw.dll** untuk mendisable atau menonaktifkan proses thumbnail preview file gambar pada komputer anda.  
+<img loading="lazy" title="Disable Thumbnail Preview untuk File Gambar" src="https://wisatacinta.files.wordpress.com/2009/01/disable_image_preview.gif" alt="Menonaktifkan Thumbnail Preview untuk File Gambar" width="344" height="184" border="0" /> </div> 
 
 **Menonaktifkan Thumbnail Preview untuk File Video/ Media** 
 
 Klik **[ Start Menu ]** &#8211;> **[ Run ]** 
 
-Kemudian masukkan perintah berikut: **regsvr32 /u shmedia.dll** untuk mendisable atau menonaktifkan proses thumbnail preview untuk file video/media anda.
+Kemudian masukkan perintah berikut: **regsvr32 /u shmedia.dll** untuk mendisable atau menonaktifkan proses thumbnail preview untuk file video/media anda.  
+<img title="Disable Thumbnail Preview untuk File Video" src="https://wisatacinta.files.wordpress.com/2009/01/disable_video_preview.gif" alt="Menonaktifkan Thumbnail Preview untuk File Video" border="0" /> </div> 
 
-<div style="text-align: center;">
-  <img title="Disable Thumbnail Preview untuk File Video" src="https://wisatacinta.files.wordpress.com/2009/01/disable_video_preview.gif" alt="Menonaktifkan Thumbnail Preview untuk File Video" border="0" />
-</div>
-
-Setelah selesai melakukan langkah diatas, cobalah anda membuka sebuah folder yang berisi file gambar dan video, k ini komputer anda pun akan melakukan proses browsing file dengan lebih cepat karena Windows XP anda tidak akan berusaha terus menerus membuat thumbnail preview dari file gambar dan video anda.
+Setelah selesai melakukan langkah diatas, cobalah anda membuka sebuah folder yang berisi file gambar dan video, kini komputer anda pun akan melakukan proses browsing file dengan lebih cepat karena Windows XP anda tidak akan berusaha terus menerus membuat thumbnail preview dari file gambar dan video anda.
 
 Lalu, bagaimana kalau anda ingin mengaktifkan kembali fitur thumbnail preview ini. Caranya cukup mudah, masukkan perintah seperti diatas tapi dengan menghilangkan slash u ( /u), jadi kalau ingin mengaktifkan kembali thumbnail preview untuk file gambar tinggal masukkan perintah regsvr32 shimgvw.dll pada jendela command run dan regsvr32 shmedia.dll untuk mengaktifkan kembali proses thumbnail preview file video anda.
 

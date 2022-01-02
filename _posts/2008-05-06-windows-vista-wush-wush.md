@@ -4,7 +4,7 @@ title: Windows Vista … Wush…… Wush……
 date: 2008-05-06T17:40:53+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=90
+guid: https://www.tasikisme.com/?p=90
 permalink: /windows-vista-wush-wush/
 categories:
   - Komputer

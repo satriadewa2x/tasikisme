@@ -4,7 +4,7 @@ title: Apakah Arti button “Saya Lagi Beruntung” atau “I’m Feeling Lucky�
 date: 2008-08-27T12:07:34+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=175
+guid: https://www.tasikisme.com/?p=175
 permalink: /apakah-arti-button-saya-lagi-beruntung-atau-im-feeling-lucky-di-google/
 categories:
   - Internet

@@ -4,7 +4,7 @@ title: Menonaktifkan System Restore untuk Memusnahkan Virus
 date: 2008-09-03T13:09:53+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=177
+guid: https://www.tasikisme.com/?p=177
 permalink: /menonaktifkan-system-restore-untuk-memusnahkan-virus/
 categories:
   - Komputer

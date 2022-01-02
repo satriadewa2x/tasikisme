@@ -4,7 +4,7 @@ title: Si cantik LG Viewty
 date: 2008-04-11T05:33:33+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=65
+guid: https://www.tasikisme.com/?p=65
 permalink: /si-cantik-lg-viewty/
 categories:
   - Handphone
@@ -15,7 +15,7 @@ LG Viewty hadir bukanlah sebagai “pembunuh” IPhone, tapi LG Viewty adalah se
 
 Fitur andalan LG Viewty adalah Kamera. Dengan 5 Megapixel, Anda pun leluasa dengan untuk menghasilkan sebuah photo berukuran besar dengan kualitas layaknya kamera digital. Dilengkapi dengan Automatic Flash yang cukup responsif, tak masalah bila anda mengambil photo dalam keadaan yang kurang cahaya sekalipun tapi dengan hasil yang berkualitas. Begitu pula berbagai mode mulai dari normal mode, panorama bisa anda coba.
 
-Yang tak kalah menarik adalah fitur Video. Dengan LG Viewty anda bisa merekam video mulai dari resolusi 320&#215;240 yang secara otomatis disimpan dalam bentuk 3GP ataupun anda bisa merekam video dengan resolusi 640 x 480 (normal dan widescreen options) yang tersimpan dalam format AVI. File 3GP yang dihasilkan pun bisa anda edit dengan mudah mulai dari proses merge split add text sampai menambah sountrack! Jadi cocok banget buat anda yang se dang belajar membuat film atau video klip lagu.
+Yang tak kalah menarik adalah fitur Video. Dengan LG Viewty anda bisa merekam video mulai dari resolusi 320&#215;240 yang secara otomatis disimpan dalam bentuk 3GP ataupun anda bisa merekam video dengan resolusi 640 x 480 (normal dan widescreen options) yang tersimpan dalam format AVI. File 3GP yang dihasilkan pun bisa anda edit dengan mudah mulai dari proses merge split add text sampai menambah sountrack! Jadi cocok banget buat anda yang sedang belajar membuat film atau video klip lagu.
 
 Kelebihan lain  
 pengambilan video bisa dilakukan sampai 120 frames per detik dengan Playback 30fps itu artinya effect slow motion bisa anda lakukan dengan LG Viewty ini. Dan bagi anda penggemar YouTube jangan kuatir dengan LG Viewty ini anda melakukan proses upload video yang anda buat dengan hanya satu klik.

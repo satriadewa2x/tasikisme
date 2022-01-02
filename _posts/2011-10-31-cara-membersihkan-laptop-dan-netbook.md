@@ -4,7 +4,7 @@ title: Cara Membersihkan Laptop dan Netbook?
 date: 2011-10-31T05:05:14+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=514
+guid: https://www.tasikisme.com/?p=514
 permalink: /cara-membersihkan-laptop-dan-netbook/
 categories:
   - Komputer
@@ -13,9 +13,7 @@ tags:
   - Tips
   - Trick
 ---
-<p style="text-align: justify;">
-  Laptop dan Netbook, sekarang ini sudah bukan lagi menjadi barang mewah. Sama seperti halnya sebuah ponsel atau smartphone, laptop dan netbook pun telah menjadi kebutuhan pokok yang wajib dimiliki, terutama oleh mereka yang berprofesi sebagai pegawai, guru, mahasiswa ataupun murid sekolah.
-</p>
+Laptop dan Netbook, sekarang ini sudah bukan lagi menjadi barang mewah. Sama seperti halnya sebuah ponsel atau smartphone, laptop dan netbook pun telah menjadi kebutuhan pokok yang wajib dimiliki, terutama oleh mereka yang berprofesi sebagai pegawai, guru, mahasiswa ataupun murid sekolah.
 
 Membersihkan laptop secara teratur memang wajib dilakukan, ini tentunya biar sang laptop atau netbook bisa awet dan laptop tidak cepat rusak. Perawatan kecil terhadap laptop bisa dilakukan setiap hari sehabis menggunakan laptop tersebut. Membersihkan laptop pada bagian layar LCD, keyboard sampai TouchPad bisa dilakukan setelah kita selesai menggunakan Laptop tersebut, sambil nonton filem, movie ataupun dengerin musik di laptop, kenapa tak sekalian kita membersihkan laptop dari debu-debu, kotoran, bekas tangan yang menempel pada keyboard, touchpad, cassing ataupun layar laptop. Bersihkanlah bagian-bagian tersebut menggunakan kain halus berbahan katun ataupun kain halus yang biasa dipakai untuk membersihkan kacamata. Hindari membersihkan laptop menggunakan tissue ataupun kain seperti handuk, karena biasanya bahan seperti ini justru akan meninggalkan bekas di laptop.
 

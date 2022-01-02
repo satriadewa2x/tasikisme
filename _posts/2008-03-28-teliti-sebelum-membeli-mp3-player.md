@@ -4,7 +4,7 @@ title: Teliti sebelum membeli MP3 Player
 date: 2008-03-28T11:31:27+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=54
+guid: https://www.tasikisme.com/?p=54
 permalink: /teliti-sebelum-membeli-mp3-player/
 categories:
   - Tips
@@ -14,7 +14,7 @@ tags:
 Bagi kamu yang maniak music, yang kemanapun kamu pergi tidak bisa dipisahkan dari yang namanya musik,  
 seiring dengan majunya teknologi kini telah tersedia berbagai macam MP3 Player dengan fitur-fitur yang semakin hari semakin memanjakan kamu.
 
-MP3 Player dengan berbagai merek dengan beragam harga k ini semakin banyak di pasaran namun terka dang hal tersebut bukannya membuat kita semakin mudah untuk memilihnya, tapi justru sebaliknya kita jadi bingung,  
+MP3 Player dengan berbagai merek dengan beragam harga kini semakin banyak di pasaran namun terka dang hal tersebut bukannya membuat kita semakin mudah untuk memilihnya, tapi justru sebaliknya kita jadi bingung,  
 MP3 Player mana yang cocok buat kita, baik dari segi harga, fitur maupun kemudahan dalam memakainya.
 
 Ada sedikit tips yang penulis ambil dari PCmag yang mungkin berguna sebagai panduan saat kamu akan membeli MP3 Player. Teliti sebelum membeli, adalah sebuah pepatah bijak biar di kemudian hari kamu tidak menyesal.
@@ -41,7 +41,7 @@ Selain itu masih ada media lain bernama Micro Hard Drive atau biasa disebut m in
 
 Baterai yang digunakan oleh MP3 Player dengan media Hard Drive dan M ini Hard Drive sama, yaitu baterai rechargeable. Mudahnya, kalau habis baterai, perangkat tinggal dicolokkan ke listrik. Sayangnya perangkat ini sulit untuk diganti secara mandiri atau bahkan ka dang Anda harus membeli yang baru jika baterai sudah tidak berfungsi lagi.
 
-Sementara MP3 Player dengan media Flash Drive tidak memerlukan banyak tenaga, sehingga baterai yang digunakan biasanya hanya dua baterai AA atau AAA. Kekurangannya jelas. Kalau kehabisan, harus membeli baru lagi. Tapi jangan khawatir, karena k ini juga sudah terdapat baterai AA atau AAA yang dapat diisi ulang.
+Sementara MP3 Player dengan media Flash Drive tidak memerlukan banyak tenaga, sehingga baterai yang digunakan biasanya hanya dua baterai AA atau AAA. Kekurangannya jelas. Kalau kehabisan, harus membeli baru lagi. Tapi jangan khawatir, karena kini juga sudah terdapat baterai AA atau AAA yang dapat diisi ulang.
 
 4. Layar
 

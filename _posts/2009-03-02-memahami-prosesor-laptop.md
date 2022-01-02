@@ -4,7 +4,7 @@ title: Memahami Prosesor Laptop
 date: 2009-03-02T17:07:20+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=270
+guid: https://www.tasikisme.com/?p=270
 permalink: /memahami-prosesor-laptop/
 categories:
   - Laptop

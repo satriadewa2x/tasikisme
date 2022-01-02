@@ -4,22 +4,17 @@ title: Lima Kesalahan Saat Menggunakan SunScreen
 date: 2010-05-10T02:11:41+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=394
+guid: https://www.tasikisme.com/?p=394
 permalink: /lima-kesalahan-saat-menggunakan-sunscreen/
 categories:
   - Informasi
 tags:
   - Tips
 ---
-<p style="text-align: justify;">
-  Sunscreen sangat bermanfaat untuk mencegah kita terkena kanker kulit. Apalagi bila pada siang hari kita akan berada di alam terbuka, maka menggunakan suncreen sebagai pelindung kulit sudah menjadi hal yang mutlak untuk mencegah terjadinya kanker kulit. Namun banyak diantara kita yang kurang mengerti dan mengetahui bagaimana menggunakan sunscreen yang baik dan sesuai petunjuk sehingga suncreen benar-benar mampu melindungi kulit kita. Berikut ini adalah lima kesalahan mendasar saat menggunakan sunscreen.
-</p>
+Sunscreen sangat bermanfaat untuk mencegah kita terkena kanker kulit. Apalagi bila pada siang hari kita akan berada di alam terbuka, maka menggunakan suncreen sebagai pelindung kulit sudah menjadi hal yang mutlak untuk mencegah terjadinya kanker kulit. Namun banyak diantara kita yang kurang mengerti dan mengetahui bagaimana menggunakan sunscreen yang baik dan sesuai petunjuk sehingga suncreen benar-benar mampu melindungi kulit kita. Berikut ini adalah lima kesalahan mendasar saat menggunakan sunscreen.
 
-<!--more-->
-
-<p style="text-align: justify;">
-  <strong>1. Menggunakan sunscreen setelah berada di alam terbuka </strong> <br />Yups&#8230; banyak diantaranya kita yang menggunakan sunscreen setelah berada di alam terbuka, misal setelah ia di pesisir pantai. Padahal sunscreen membutuhkan waktu untuk bisa diserap oleh kulit. Oleh karena itu gunakanlah Suncreen 30 menit sebelum anda keluar dan pergi ke alam terbuka, sehingga sunscreen benar-benar telah diserap oleh kulit dan mampu melindungi kita dari terik matahari.
-</p>
+**1. Menggunakan sunscreen setelah berada di alam terbuka**  
+Yups&#8230; banyak diantaranya kita yang menggunakan sunscreen setelah berada di alam terbuka, misal setelah ia di pesisir pantai. Padahal sunscreen membutuhkan waktu untuk bisa diserap oleh kulit. Oleh karena itu gunakanlah Suncreen 30 menit sebelum anda keluar dan pergi ke alam terbuka, sehingga sunscreen benar-benar telah diserap oleh kulit dan mampu melindungi kita dari terik matahari. 
 
 **2. Hanya menggunakan Sunscreen saat Panas Terik**  
 Ada sedikit yang salah, bahwa sinar UV hanya dipancarkan pada saat panas terik, sehingga kebanyakan dari kita hanya menggunakan sunscreen pada saat panas saja. Padahal pada waktu cuaca berawan pun, sinar UV bisa tetap terpancar dan membahayakan kulit kita. Karena itu gunakan selalu sunscreen baik pada cuaca berawan ataupun terik matahari. 

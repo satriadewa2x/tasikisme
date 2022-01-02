@@ -4,7 +4,7 @@ title: Cara Menyembunyikan Photo dan Video di Laptop
 date: 2008-09-09T13:12:30+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=179
+guid: https://www.tasikisme.com/?p=179
 permalink: /menyembunyikan-photo-dan-video-pribadi-dari-jangkauan-anak-anak/
 categories:
   - Komputer

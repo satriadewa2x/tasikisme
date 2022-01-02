@@ -4,7 +4,7 @@ title: Cara Mengaktifkan iPad dan iPhone Baru
 date: 2011-07-28T02:29:56+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=492
+guid: https://www.tasikisme.com/?p=492
 permalink: /cara-mengaktifkan-ipad-dan-iphone-baru/
 categories:
   - Apple
@@ -14,9 +14,7 @@ tags:
   - Apple
   - iPhone
 ---
-<p style="text-align: justify;">
-  Saat Anda membeli sebuah iPad atau iPhone baru, tak seperti handphone biasa, Anda tidak bisa langsung memakai iPad atau iPhone tersebut. Sebelum bisa menggunakan iPad atau iPhone tersebut, Anda terlebih dulu harus mengaktifkan dan  setup iPhone atau iPad lewat Laptop atau Komputer sehingga iPad tersebut siap untuk dipakai.
-</p>
+Saat Anda membeli sebuah iPad atau iPhone baru, tak seperti handphone biasa, Anda tidak bisa langsung memakai iPad atau iPhone tersebut. Sebelum bisa menggunakan iPad atau iPhone tersebut, Anda terlebih dulu harus mengaktifkan dan  setup iPhone atau iPad lewat Laptop atau Komputer sehingga iPad tersebut siap untuk dipakai.
 
 Untuk mengaktifkan iPhone/ iPad yang diperlukan adalah sebuah kabel data yang biasanya sudah disertakan saat pembelian iPhone atau iPad, sebuah Mac atau laptop/PC dengan sistem Operati Windows 7, Windows Vista atau Windows XP, Program iTunes yang bisa didownload langsung lewat https://www.itunes.com dan tentunya sebuah Apple ID (baca: Cara Membuat Akun iTunes ) setelah semuanya disiapkan, sekarang saatnya untuk memulai proses aktivasi dan setup iPad atau iPhone baru Anda.
 

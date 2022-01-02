@@ -4,7 +4,7 @@ title: Sekilas Layanan BRI SMS Banking 3300
 date: 2010-07-29T02:35:29+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=411
+guid: https://www.tasikisme.com/?p=411
 permalink: /sekilas-layanan-bri-sms-banking-3300/
 categories:
   - Informasi
@@ -12,9 +12,7 @@ tags:
   - SMS
   - Tips
 ---
-<p style="text-align: justify;">
-  SMS Banking BRI merupakan sebuah layanan Banking dari BRI yang akan memberikan kemudahan kepada Anda untuk melakukan berbagai transaksi dengan mudah dan cepat, dimanapun dan kapanpun Anda berada dengan hanya mempergunakan Handphone Anda. Dengan BRI SMS Banking 3300 Anda bisa dengan mudah cek saldo tabungan, transfer dana, sampai membeli pulsa isi ulang (baik untuk kartu GSM seperti Simpati, AS, Mentari, IM3, Xl maupun untuk kartu CDMA misalnya Esia dan Fren).
-</p>
+SMS Banking BRI merupakan sebuah layanan Banking dari BRI yang akan memberikan kemudahan kepada Anda untuk melakukan berbagai transaksi dengan mudah dan cepat, dimanapun dan kapanpun Anda berada dengan hanya mempergunakan Handphone Anda. Dengan BRI SMS Banking 3300 Anda bisa dengan mudah cek saldo tabungan, transfer dana, sampai membeli pulsa isi ulang (baik untuk kartu GSM seperti Simpati, AS, Mentari, IM3, Xl maupun untuk kartu CDMA misalnya Esia dan Fren).
 
 Untuk memulai menggunakan layanan BRI SMS Banking 3300 syarat pertama yang dibutuhkan tentu saja sebuah ATM BRI, setelah itu Anda melakukan registrasi untuk fasilitas SMS Banking di ATM BRI terdekat di kota Anda. Langkah singkat proses registrasi SMS Banking BRI 3300 adalah di menu utama ATM BRI pilihlah TRANSAKSI LAIN kemudian REGISTRASI dan pilih SMS BANKING selanjutnya Anda akan diminta untuk memasukan No. Handphone yang akan dipakai untuk SMS Banking berikut 6 digit PIN (saran: sebaiknya bedakan antara PIN untuk ATM BRI anda dan PIN untuk SMS Banking BRI). Kalau Anda masih bingung tentang proses registrasi SMS Banking BRI, jangan khawatir, Anda bisa langsung bertanya pada CS BRI di Bank BRI terdekat di kota Anda.
 

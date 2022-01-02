@@ -4,7 +4,7 @@ title: Menghapus Comment yang Pernah Diberikan di Friendster
 date: 2008-07-24T17:36:59+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=164
+guid: https://www.tasikisme.com/?p=164
 permalink: /menghapus-comment-yang-pernah-diberikan-di-friendster/
 categories:
   - Internet

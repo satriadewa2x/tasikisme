@@ -4,7 +4,7 @@ title: Akhirnya Final Jerman vs Spanyol
 date: 2008-06-27T00:03:22+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=140
+guid: https://www.tasikisme.com/?p=140
 permalink: /akhirnya-final-jerman-vs-spanyol/
 categories:
   - Olahraga
@@ -16,7 +16,7 @@ Euro 2008 memasuki babak akhir, dengan mempertemukan dua tim besar Jerman dan Sp
 Setelah sempat mengalami kekalahan dari Kroasia, Tim Jerman terus menunjukkan grafik peningkatan,  
 dan akhirnya bisa sampai ke babak Final, dengan mengkandaskan favorit juaranya lainnya yaitu Portugal di babak perempat final dan mengkandaskan tim kejutan Turki di babak semifinal.
 
-Sedang Spanyol mengalami langkah yang cukup mulus sampai di babak Final ini, tidak pernah terkalahkan dan berhasil menyingkirkan Italia di babak Perempat Final dan mengakhiri mimpi Rusia, dengan mengalahkan telak tim asuhan Guus Hiddink ini, dua kali, di babak penyisihan group dan babak Semifinal.
+Sedang Spanyol mengalami langkah yang cukup mulus sampai di babak Final ini, tidak pernah terkalahkan dan berhasil menyingkirkan Italia di babak Perempat Final dan mengakhiri mimpi Rusia, dengan mengalahkan telak tim asuhan Guus Hiddinkini, dua kali, di babak penyisihan group dan babak Semifinal.
 
 Statistic menunjukkan dari 19 kali pertemuan terakhir kedua tim,Jerman masih unggul dengan 8 kali kemenangan atas Spanyol, dan Drawn 6 kali. Dari segi produktivitas gol pun, Jerman masih unggul dengan berhasil memasukkan 26 gol dan cuma kemasukan 21 gol. Tapi ini semua bukanlah suatu jaminan kalau Jerman akan dengan mudah mengalahkan Spanyol.
 

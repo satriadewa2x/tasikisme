@@ -4,7 +4,7 @@ title: 11 Shortcut Keyboard yang Harus Anda Tahu
 date: 2009-02-27T12:52:46+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=268
+guid: https://www.tasikisme.com/?p=268
 permalink: /11-shortcut-keyboard-yang-harus-anda-tahu/
 categories:
   - Komputer
@@ -29,7 +29,7 @@ Mempergunakan shortcut saat anda bekerja tentu akan lebih menghemat waktu dan bi
 <div>
   <ul>
     <li>
-      <strong>ALT+TAB </strong> = Beralih dari satu program ke program lain yang se dang aktif. Tips: tekan ALT lebih lama, kemudian tekan TAB berulang-ulang, agar anda bisa memilih ke program aktif mana akan berpindah (dengan tanpa OSD, On Screen Display dari Program yang se dang aktif)
+      <strong>ALT+TAB </strong> = Beralih dari satu program ke program lain yang sedang aktif. Tips: tekan ALT lebih lama, kemudian tekan TAB berulang-ulang, agar anda bisa memilih ke program aktif mana akan berpindah (dengan tanpa OSD, On Screen Display dari Program yang sedang aktif)
     </li>
   </ul>
 </div>

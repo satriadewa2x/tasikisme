@@ -4,7 +4,7 @@ title: 'Jadwal Indonesia Super League 2008 : First Round'
 date: 2008-07-16T10:32:10+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=160
+guid: https://www.tasikisme.com/?p=160
 permalink: /jadwal-indonesia-super-league-2008-first-round/
 categories:
   - Olahraga

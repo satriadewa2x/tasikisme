@@ -4,7 +4,7 @@ title: Antivirus Terbaik dan Gratis Untuk Mac dan Windows
 date: 2009-04-22T11:34:58+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=299
+guid: https://www.tasikisme.com/?p=299
 permalink: /antivirus-terbaik-dan-gratis-untuk-mac-dan-windows/
 categories:
   - Komputer

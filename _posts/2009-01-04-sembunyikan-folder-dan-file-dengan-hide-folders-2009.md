@@ -4,7 +4,7 @@ title: Sembunyikan Folder dan File dengan Hide Folders 2009
 date: 2009-01-04T17:06:04+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=223
+guid: https://www.tasikisme.com/?p=223
 permalink: /sembunyikan-folder-dan-file-dengan-hide-folders-2009/
 categories:
   - Komputer
@@ -23,11 +23,8 @@ Kelebihan menyembunyikan file dan Folder dengan memakai Hide Folders 2009 adalah
 
 Dengan memakai Hide Folders 2009, anda hanya cukup men-drag dan drop file/folder yang ingin anda sembunyikan ke jendela Hide Folders 2009, dan tentukan jenis proteksi yang anda inginkan mulai dari Hide, Lock, Hide & Lock atau Read Only maka secara real time file/folder anda pun langsung tersembunyi dan terproteksi dengan aman.
 
-Tampilan Hide Folders 2009 sangat sederhana seperti terlihat pada gambar di bawah ini.
-
-<div style="text-align: center;">
-  <img loading="lazy" title="Tampilan Hide Folders 2009" src="https://wisatacinta.files.wordpress.com/2009/01/hide_folder.gif" alt="Tampilan Hide Folders 2009" width="480" height="360" border="0" />
-</div>
+Tampilan Hide Folders 2009 sangat sederhana seperti terlihat pada gambar di bawah ini.  
+<img loading="lazy" title="Tampilan Hide Folders 2009" src="https://wisatacinta.files.wordpress.com/2009/01/hide_folder.gif" alt="Tampilan Hide Folders 2009" width="480" height="360" border="0" /> </div> 
 
 Untuk mulai menyembunyikan atau melindungi file/folder anda, anda tinggal drag and drop file/folder yang anda inginkan ke jendela Hide Folders 2009 tersebut. Cukup mudah bukan?
 

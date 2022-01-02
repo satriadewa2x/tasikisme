@@ -4,16 +4,14 @@ title: Jadwal Liga Super Indonesia 2010 – 2011
 date: 2010-09-22T02:02:04+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=430
+guid: https://www.tasikisme.com/?p=430
 permalink: /jadwal-liga-super-indonesia-2010-2011/
 categories:
   - Olahraga
 tags:
   - Olahraga
 ---
-<p style="text-align: justify;">
-  Mampukah Juara bertahan Arema Indonesia mempertahankan Gelar Juara Liga Super Indonesia untuk musim 2010-2011 ini? Bagaimana peta kekuatan tim-tim lain seperti Persib Bandung, Persija, Persipura ataupun Persiba di Liga terpopuler di Indonesia ini? Beberapa jadwal berikut ini masih merupakan draft atau rancangan yang sewaktu-waktu bisa berubah sesuai kebijakan PT Liga Indonesia.
-</p>
+Mampukah Juara bertahan Arema Indonesia mempertahankan Gelar Juara Liga Super Indonesia untuk musim 2010-2011 ini? Bagaimana peta kekuatan tim-tim lain seperti Persib Bandung, Persija, Persipura ataupun Persiba di Liga terpopuler di Indonesia ini? Beberapa jadwal berikut ini masih merupakan draft atau rancangan yang sewaktu-waktu bisa berubah sesuai kebijakan PT Liga Indonesia.
 
 Download Jadwal Lengkap Djarum Indonesia Super League (ISL) 2010 &#8211; 2011
 

@@ -4,18 +4,14 @@ title: Tips Berbelanja Online di eBay
 date: 2010-11-01T03:23:16+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=437
+guid: https://www.tasikisme.com/?p=437
 permalink: /tips-berbelanja-online-di-ebay/
 categories:
   - Internet
 tags:
   - Internet
 ---
-<p style="text-align: justify;">
-  eBay merupakan sebuah online store besar di dunia maya, di eBay kita bisa mendapatkan apapun yang kita inginkan mulai dari sekedar kaos kaki, sampai kepada gadget terbaru dan terupdate seperti iPhone 4, iPad, Motorola Droid 2, HTC Evo 4G sampai kepada Macbook dan laptop terbaru dan terk ini. Nah, kalau Anda masih baru mengenal eBay dan berencana untuk membeli sesuatu untuk pertama kalinya di eBay, berikut tip dan trik singkat Belanja Online di Internet terutama di eBay.
-</p>
-
-<!--more-->
+eBay merupakan sebuah online store besar di dunia maya, di eBay kita bisa mendapatkan apapun yang kita inginkan mulai dari sekedar kaos kaki, sampai kepada gadget terbaru dan terupdate seperti iPhone 4, iPad, Motorola Droid 2, HTC Evo 4G sampai kepada Macbook dan laptop terbaru dan terk ini. Nah, kalau Anda masih baru mengenal eBay dan berencana untuk membeli sesuatu untuk pertama kalinya di eBay, berikut tip dan trik singkat Belanja Online di Internet terutama di eBay.
 
 **Cek dan ReChek barang yang akan dibeli**  
 Pikir, cek dan recek kembali barang yang akan Anda beli. Apakah barang yang Anda beli tersebut termasuk barang langka yang susah didapat, atau justru barang yang Anda beli tersebut bisa dengan mudah Anda dapatkan di toko-toko atau supermarket terdekat di kota Anda. Jangan sampai Anda membeli sebuah barang di eBay dengan harga 100 ribu, padahal di toko terdekat di kota Anda, barang tersebut bisa Anda peroleh dengan harga cuma 50 ribu. Perlu diingat, harga barang di eBay justru bisa lebih tinggi (mahal) dibandingkan dengan harga barang yang sama di toko-toko di kota Anda. 

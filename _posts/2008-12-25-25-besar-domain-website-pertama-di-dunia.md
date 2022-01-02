@@ -4,7 +4,7 @@ title: Apa Website Pertama di Dunia?
 date: 2008-12-25T14:43:46+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=216
+guid: https://www.tasikisme.com/?p=216
 permalink: /25-besar-domain-website-pertama-di-dunia/
 categories:
   - Internet

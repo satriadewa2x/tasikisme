@@ -4,7 +4,7 @@ title: Bagaimana Bila Kita Salah Jatuh Cinta?
 date: 2008-11-07T10:44:55+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=196
+guid: https://www.tasikisme.com/?p=196
 permalink: /bagaimana-bila-kita-salah-jatuh-cinta/
 categories:
   - Cinta
@@ -30,7 +30,7 @@ Bayangin, saat dia berada di rumah sang pacar, sang pacar malah asyik SMS-an sam
 
 Anda pasti akan mengira bahwa si teman penulis ini akan merasa bahagia, karena dia bisa sekalian “apel” dan memanfaatkan moment ini untuk bisa berduaan dengan sang pacar?
 
-Tapi… yang terjadi malah sangat menyakitkan, si teman penulis ini justru harus cape membantu keluarga sang pacar, se dangkan sang pacar sendiri (tanpa sepengetahuannya) justru malah asyik pergi dengan cowok lain?!! Bayangin, pasti menyakitkan kan?
+Tapi… yang terjadi malah sangat menyakitkan, si teman penulis ini justru harus cape membantu keluarga sang pacar, sedangkan sang pacar sendiri (tanpa sepengetahuannya) justru malah asyik pergi dengan cowok lain?!! Bayangin, pasti menyakitkan kan?
 
 Mungkin bagi teman penulis, cinta adalah urusan hati dan perasaan, tapi pan dangan berbeda ditunjukkan oleh sang pacarnya, bahwa cinta adalah urusan senang, uang dan kepuasaan!
 
