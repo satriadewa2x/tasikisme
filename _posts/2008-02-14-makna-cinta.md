@@ -4,7 +4,7 @@ title: Makna Cinta yang Sesungguhnya
 date: 2008-02-14T18:46:47+07:00
 author: Nana
 layout: post
-guid: https://localhost/wordpress/?p=11
+guid: https://www.tasikisme.com/?p=11
 permalink: /makna-cinta/
 categories:
   - Cinta
