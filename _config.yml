@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/sample/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -91,6 +91,8 @@ disqus:
   shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 paginate: 10
+plugins:
+   - jekyll-redirect-from
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -161,10 +163,10 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: [category, tag]
+  enabled: [categories, tags]
   layouts:
     category: category
     tag: tag
   permalinks:
-    tag: /tag/:name/
-    category: /category/:name/
+    tag: /tags/:name/
+    category: /categories/:name/
