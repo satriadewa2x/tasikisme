@@ -262,7 +262,7 @@ Biar anda tidak ketinggalan, berikut ini adalah Jadwal Indonesia Super League Pu
     </td>
     
     <td>
-      Std<a href="/">.</a>Jalakharupat Bandung 19.00 wib
+      Std. Jalakharupat Bandung 19.00 wib
     </td>
   </tr>
   
