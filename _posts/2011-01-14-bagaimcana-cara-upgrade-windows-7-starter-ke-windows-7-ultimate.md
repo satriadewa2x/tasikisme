@@ -4,8 +4,6 @@ title: Bagaimana Cara Upgrade Windows 7 Starter ke Windows 7 Ultimate
 date: 2011-01-14T07:37:15+07:00
 author: Nana
 layout: post
-guid: https://www.tasikisme.com/?p=456
-permalink: /bagaimcana-cara-upgrade-windows-7-starter-ke-windows-7-ultimate/
 categories:
   - Komputer
 tags:
@@ -20,22 +18,22 @@ Caranya cukup mudah, ikuti langkah-langkah berikut untuk merubah Windows 7 Start
 
 Pertama Klik Start Menu, kemudian klik kanan pada Computer dan pilih Properties
 
-<img src="https://2.bp.blogspot.com/-GgxkzBAcedg/Uq2UmiDZNoI/AAAAAAAACa0/CwXLdc7m6A8/s1600/windows-7-upgrade-0.png" alt="Start Menu Windows 7" border="0" /> 
+<img src="https://2.bp.blogspot.com/-GgxkzBAcedg/Uq2UmiDZNoI/AAAAAAAACa0/CwXLdc7m6A8/s1600/windows-7-upgrade-0.png" alt="Start Menu Windows 7"  /> 
 
 Untuk mulai proses upgrade Anda tinggal klik link “Get more features with a new edition of Windows 7” perlu diingat Linkini hanya tersedia jika Anda menggunakan Windows 7 Starter, Windows 7 Home Premium atau Profesional. Jika Anda menggunakan Windows 7 Ultimate maka link tersebut tidak akan ada.
 
-<img src="https://4.bp.blogspot.com/-u9Gg5N4Tj_0/Uq2UmofkbrI/AAAAAAAACao/n8_n5k6EXh0/s1600/windows-7-upgrade-1.jpg" alt="Upgrade Windows 7 Starter" border="0" /> 
+<img src="https://4.bp.blogspot.com/-u9Gg5N4Tj_0/Uq2UmofkbrI/AAAAAAAACao/n8_n5k6EXh0/s1600/windows-7-upgrade-1.jpg" alt="Upgrade Windows 7 Starter"  /> 
 
 Pada jendela Windows Anytime Upgrade, akan tersedia dua buah pilihan, tinggal pilih yang sesuai dengan kebutuhan Anda, apakah Anda akan membelinya secara Online atau jika Anda sudah memiliki Serial Number Windows 7 Ultimate atau Windows 7 Profesional tinggal pilih Enter Upgrade Key untuk Windows 7
 
-<img src="https://2.bp.blogspot.com/-W1YcaRuLpCc/Uq2UmTTuuLI/AAAAAAAACak/yBzUc73ByaM/s1600/windows-7-upgrade-2.png" alt="Windows 7 Upgrade Menu" border="0" /> 
+<img src="https://2.bp.blogspot.com/-W1YcaRuLpCc/Uq2UmTTuuLI/AAAAAAAACak/yBzUc73ByaM/s1600/windows-7-upgrade-2.png" alt="Windows 7 Upgrade Menu"  /> 
 
 Misalnya Anda memilih Enter an Upgrade Key, tampilan selanjutnya seperti dibawah ini.
 
-<img loading="lazy" src="https://1.bp.blogspot.com/-gdZl9FhWPX4/Uq2UpFKTPCI/AAAAAAAACa8/2UY_Cpv0cAw/s1600/windows-7-upgrade-3.png" alt="Windows 7 Ultimate Serial Number Upgrade Key" width="650" height="511" border="0" /> 
+<img loading="lazy" src="https://1.bp.blogspot.com/-gdZl9FhWPX4/Uq2UpFKTPCI/AAAAAAAACa8/2UY_Cpv0cAw/s1600/windows-7-upgrade-3.png" alt="Windows 7 Ultimate Serial Number Upgrade Key" width="650" height="511"  /> 
 
 Setelah memasukan Serial Number Windows 7 Ultimate atau Home Premium, Windows akan mengecek keaslian dari Serial tersebut, jangan lupa pastikan serial yang Anda masukan sudah benar dan tidak ada yang salah.
 
-<img src="https://3.bp.blogspot.com/-5mItXwBusQU/Uq2UpthireI/AAAAAAAACbE/-G1SOazWz0M/s1600/windows-7-upgrade-4.png" alt="windows 7 upgrade" border="0" /> 
+<img src="https://3.bp.blogspot.com/-5mItXwBusQU/Uq2UpthireI/AAAAAAAACbE/-G1SOazWz0M/s1600/windows-7-upgrade-4.png" alt="windows 7 upgrade"  /> 
 
 Jika semua berjalan dengan benar, maka Anda akan mendapatkan informasi bahwa proses Upgrade Windows 7 Starter/Home Premium ke Windows 7 Ultimate telah berjalan dengan sukses.

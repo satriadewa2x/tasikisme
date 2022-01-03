@@ -4,15 +4,13 @@ title: 2012 sebuah Film dan Apa yang Akan Terjadi Tahun 2012?
 date: 2009-11-11T04:16:10+07:00
 author: Nana
 layout: post
-guid: https://www.tasikisme.com/?p=358
-permalink: /2012-sebuah-film-dan-apa-yang-akan-terjadi-tahun-2012/
 categories:
   - Informasi
 tags:
   - Film
   - Informasi
 ---
-Benarkah kiamat bakal terjadi tahun 2012? Hangat diperbincangkan, apalagi kini hadir film 2012 &#8211; notabene Film yang dibintangi oleh John Cusack dan Amanda Peet ini menceritakan tentang End Of the World atau kehancuran dunia dan cerita heroik tentang orang-orang yang berusaha menyelematkan diri dari kehancuran alam semesta ini.
+Benarkah kiamat bakal terjadi tahun 2012? Hangat diperbincangkan, apalagi kini hadir film 2012 notabene Film yang dibintangi oleh John Cusack dan Amanda Peet ini menceritakan tentang End Of the World atau kehancuran dunia dan cerita heroik tentang orang-orang yang berusaha menyelematkan diri dari kehancuran alam semesta ini.
 
 Pertanyaan sekarang apakah benar dunia tempat kita bernaung ini dalam bahaya? Dan apakah benar kiamat akan terjadi tahun 2012 nanti? ataukah ini cuma sebuah film fiksi dan tidak berarti apa-apa bagi kelangsungan kehidupan di bumi ini?
 
