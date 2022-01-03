@@ -6,10 +6,10 @@ author: Nana
 layout: post
 guid: https://www.tasikisme.com/?p=11
 permalink: /makna-cinta/
-categories:
+category:
   - Cinta
   - Curhat
-tags:
+tag:
   - Cinta
 ---
 Sering kita membaca berita di media cetak dan mendengar/melihat tayangan di media elektronik, gara-gara tidak direstui orang tuanya, sepasang kekasih nekat bunuh diri karena dibakar api cemburu, seorang suami tega membunuh istrinya sendiri.
