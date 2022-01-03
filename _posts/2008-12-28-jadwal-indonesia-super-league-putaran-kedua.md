@@ -704,7 +704,7 @@ Biar anda tidak ketinggalan, berikut ini adalah Jadwal Indonesia Super League Pu
     </td>
     
     <td>
-      Std<a href="/">.</a>GBK Jepara 15.30 wib
+      Std. GBK Jepara 15.30 wib
     </td>
   </tr>
   
