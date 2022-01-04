@@ -169,4 +169,4 @@ jekyll-archives:
     tag: tag
   permalinks:
     tag: /tag/:name/
-    category: /categories/:name/
+    category: /category/:name/
