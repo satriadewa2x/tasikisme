@@ -1,6 +1,6 @@
 ---
 title: Pengertian Pendidikan Pengetahuan Sosial
-date: 2022-01-004T14:27:33+07:00
+date: 2022-01-04T14:27:33+07:00
 author: Nana
 layout: post
 categories:
