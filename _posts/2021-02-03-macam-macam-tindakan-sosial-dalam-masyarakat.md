@@ -8,7 +8,7 @@ guid: https://www.tasikisme.com/?p=1452
 permalink: /macam-macam-tindakan-sosial-dalam-masyarakat/
 categories:
   - Makalah
-tags:
+tag:
   - Makalah
   - Pelajaran
 ---
