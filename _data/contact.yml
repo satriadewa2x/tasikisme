@@ -4,7 +4,6 @@
   type: twitter
   icon: 'fab fa-twitter'
 -
-
   type: rss
   icon: 'fas fa-rss'
   noblank: true
