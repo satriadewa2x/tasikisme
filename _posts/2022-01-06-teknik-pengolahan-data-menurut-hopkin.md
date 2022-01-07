@@ -1,6 +1,6 @@
 ---
 title: Teknik Pengolahan Data Menurut Hopkin
-date: 2021-02-06T23:27:25+07:00
+date: 2022-01-06T23:27:25+07:00
 author: Nana
 layout: post
 permalink: /teori-teknik-pengolahan-data-hopkin/
