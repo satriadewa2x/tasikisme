@@ -1,6 +1,6 @@
 ---
 title: Prosedur PTK Model Kemmis dan Mc Taggart 
-date: 2022-01-08T12:27:25+07:00
+date: 2022-01-08T14:27:25+07:00
 author: Nana
 layout: post
 permalink: /prosedur-ptk-menurut-kemmis-dan-taggart/
