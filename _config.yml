@@ -110,5 +110,5 @@ jekyll-archives:
     category: category
     tag: tag
   permalinks:
-    tag: /tag/:name/
+    tag: /tags/:name/
     category: /category/:name/
